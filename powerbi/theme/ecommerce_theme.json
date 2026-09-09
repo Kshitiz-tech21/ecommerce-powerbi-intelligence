@@ -1,0 +1,31 @@
+{
+    "name": "Ecommerce Professional Theme",
+    "dataColors": [
+        "#112233", 
+        "#2C3E50", 
+        "#3498DB", 
+        "#E74C3C", 
+        "#F1C40F", 
+        "#2ECC71", 
+        "#9B59B6", 
+        "#34495E"
+    ],
+    "background": "#F8F9FA",
+    "foreground": "#212529",
+    "tableAccent": "#112233",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+                "visualHeader": [{ "show": true, "foreground": { "solid": { "color": "#C0C0C0" } } }],
+                "border": [{ "show": true, "color": { "solid": { "color": "#E0E0E0" } }, "radius": 5 }]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [{ "show": true, "color": { "solid": { "color": "#112233" } }, "fontSize": 25, "fontFamily": "Segoe UI Semibold" }],
+                "categoryLabels": [{ "show": true, "color": { "solid": { "color": "#666666" } }, "fontSize": 12 }]
+            }
+        }
+    }
+}

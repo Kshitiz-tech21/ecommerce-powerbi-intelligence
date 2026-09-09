@@ -1,0 +1,281 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Base_Price,Base_Cost,Margin_Band
+1,Smartphones Pro 1,Electronics,Smartphones,Apex,19039.74,11611.52,Mid
+2,Smartphones Pro 2,Electronics,Smartphones,Nova,36733.7,24988.77,Mid
+3,Smartphones Pro 3,Electronics,Smartphones,Apex,8222.92,7632.19,Low
+4,Smartphones Pro 4,Electronics,Smartphones,Vertex,3375.14,2115.42,Mid
+5,Smartphones Pro 5,Electronics,Smartphones,Omni,30255.19,25743.23,Low
+6,Smartphones Pro 6,Electronics,Smartphones,Apex,1518.93,1236.73,Low
+7,Smartphones Pro 7,Electronics,Smartphones,Vertex,41705.91,38380.8,Low
+8,Smartphones Pro 8,Electronics,Smartphones,Vertex,9500.34,7251.79,Mid
+9,Smartphones Pro 9,Electronics,Smartphones,Vertex,15559.99,13638.86,Low
+10,Smartphones Pro 10,Electronics,Smartphones,Omni,21881.28,16230.53,Mid
+11,Laptops Pro 1,Electronics,Laptops,Apex,30786.72,23770.46,Mid
+12,Laptops Pro 2,Electronics,Laptops,Nova,14961.16,10872.69,Mid
+13,Laptops Pro 3,Electronics,Laptops,Zenith,23075.46,14836.71,Mid
+14,Laptops Pro 4,Electronics,Laptops,Nova,10383.85,9117.1,Low
+15,Laptops Pro 5,Electronics,Laptops,Zenith,29824.52,17617.64,High
+16,Laptops Pro 6,Electronics,Laptops,Omni,30573.47,28314.9,Low
+17,Laptops Pro 7,Electronics,Laptops,Zenith,3720.05,3039.86,Low
+18,Laptops Pro 8,Electronics,Laptops,Apex,48298.79,30830.11,Mid
+19,Laptops Pro 9,Electronics,Laptops,Vertex,15578.38,12158.39,Mid
+20,Laptops Pro 10,Electronics,Laptops,Omni,34369.53,30533.16,Low
+21,Accessories Pro 1,Electronics,Accessories,Zenith,6540.89,5760.4,Low
+22,Accessories Pro 2,Electronics,Accessories,Vertex,2202.23,920.83,High
+23,Accessories Pro 3,Electronics,Accessories,Zenith,13309.61,6222.18,High
+24,Accessories Pro 4,Electronics,Accessories,Apex,15929.7,11086.85,Mid
+25,Accessories Pro 5,Electronics,Accessories,Nova,27562.16,25470.75,Low
+26,Accessories Pro 6,Electronics,Accessories,Apex,48494.44,31277.62,Mid
+27,Accessories Pro 7,Electronics,Accessories,Apex,47005.2,19790.81,High
+28,Accessories Pro 8,Electronics,Accessories,Omni,30096.05,18527.88,Mid
+29,Accessories Pro 9,Electronics,Accessories,Zenith,4880.38,3713.01,Mid
+30,Accessories Pro 10,Electronics,Accessories,Zenith,2738.75,2477.07,Low
+31,Audio Pro 1,Electronics,Audio,Zenith,19739.53,18002.67,Low
+32,Audio Pro 2,Electronics,Audio,Apex,41522.51,30255.35,Mid
+33,Audio Pro 3,Electronics,Audio,Nova,14406.26,9961.36,Mid
+34,Audio Pro 4,Electronics,Audio,Nova,7475.75,4781.19,Mid
+35,Audio Pro 5,Electronics,Audio,Omni,4190.26,3401.8,Low
+36,Audio Pro 6,Electronics,Audio,Vertex,38726.12,35712.44,Low
+37,Audio Pro 7,Electronics,Audio,Zenith,773.34,646.39,Low
+38,Audio Pro 8,Electronics,Audio,Apex,35489.44,16119.25,High
+39,Audio Pro 9,Electronics,Audio,Apex,38677.88,36343.04,Low
+40,Audio Pro 10,Electronics,Audio,Omni,18244.05,10523.65,High
+41,Men's Wear Pro 1,Fashion,Men's Wear,Nova,43223.62,37290.67,Low
+42,Men's Wear Pro 2,Fashion,Men's Wear,Vertex,16879.45,9913.11,High
+43,Men's Wear Pro 3,Fashion,Men's Wear,Zenith,15893.62,8502.51,High
+44,Men's Wear Pro 4,Fashion,Men's Wear,Omni,36615.51,31516.5,Low
+45,Men's Wear Pro 5,Fashion,Men's Wear,Omni,44417.03,31338.75,Mid
+46,Men's Wear Pro 6,Fashion,Men's Wear,Nova,6419.92,5457.86,Low
+47,Men's Wear Pro 7,Fashion,Men's Wear,Vertex,38158.86,33252.44,Low
+48,Men's Wear Pro 8,Fashion,Men's Wear,Vertex,38662.88,27111.99,Mid
+49,Men's Wear Pro 9,Fashion,Men's Wear,Vertex,26375.28,18844.92,Mid
+50,Men's Wear Pro 10,Fashion,Men's Wear,Nova,1758.25,1368.66,Mid
+51,Women's Wear Pro 1,Fashion,Women's Wear,Nova,2055.74,971.79,High
+52,Women's Wear Pro 2,Fashion,Women's Wear,Apex,16060.62,11214.9,Mid
+53,Women's Wear Pro 3,Fashion,Women's Wear,Apex,45424.54,34074.84,Mid
+54,Women's Wear Pro 4,Fashion,Women's Wear,Nova,20813.95,17571.62,Low
+55,Women's Wear Pro 5,Fashion,Women's Wear,Omni,11825.51,9278.34,Mid
+56,Women's Wear Pro 6,Fashion,Women's Wear,Omni,14842.7,11395.57,Mid
+57,Women's Wear Pro 7,Fashion,Women's Wear,Omni,46520.03,29697.27,Mid
+58,Women's Wear Pro 8,Fashion,Women's Wear,Vertex,31853.49,19930.98,Mid
+59,Women's Wear Pro 9,Fashion,Women's Wear,Apex,40281.77,22665.99,High
+60,Women's Wear Pro 10,Fashion,Women's Wear,Apex,44681.67,30925.59,Mid
+61,Footwear Pro 1,Fashion,Footwear,Vertex,40468.29,25121.97,Mid
+62,Footwear Pro 2,Fashion,Footwear,Zenith,16241.17,12635.46,Mid
+63,Footwear Pro 3,Fashion,Footwear,Omni,11782.79,10489.1,Low
+64,Footwear Pro 4,Fashion,Footwear,Apex,40991.73,34002.55,Low
+65,Footwear Pro 5,Fashion,Footwear,Zenith,844.13,420.25,High
+66,Footwear Pro 6,Fashion,Footwear,Nova,21161.84,11757.06,High
+67,Footwear Pro 7,Fashion,Footwear,Apex,6433.34,4712.27,Mid
+68,Footwear Pro 8,Fashion,Footwear,Zenith,47174.03,25255.06,High
+69,Footwear Pro 9,Fashion,Footwear,Vertex,26180.14,12027.06,High
+70,Footwear Pro 10,Fashion,Footwear,Nova,18499.67,11204.2,Mid
+71,Accessories Pro 1,Fashion,Accessories,Nova,48141.14,36088.7,Mid
+72,Accessories Pro 2,Fashion,Accessories,Vertex,25113.8,18579.8,Mid
+73,Accessories Pro 3,Fashion,Accessories,Vertex,14599.6,8652.06,High
+74,Accessories Pro 4,Fashion,Accessories,Apex,30673.43,21454.97,Mid
+75,Accessories Pro 5,Fashion,Accessories,Zenith,3048.2,2776.88,Low
+76,Accessories Pro 6,Fashion,Accessories,Zenith,45459.16,25097.44,High
+77,Accessories Pro 7,Fashion,Accessories,Nova,7672.3,6762.95,Low
+78,Accessories Pro 8,Fashion,Accessories,Apex,49289.7,27187.65,High
+79,Accessories Pro 9,Fashion,Accessories,Omni,33770.71,28481.31,Low
+80,Accessories Pro 10,Fashion,Accessories,Vertex,12263.06,5571.8,High
+81,Appliances Pro 1,Home & Kitchen,Appliances,Nova,18705.27,12598.72,Mid
+82,Appliances Pro 2,Home & Kitchen,Appliances,Vertex,31859.72,22073.85,Mid
+83,Appliances Pro 3,Home & Kitchen,Appliances,Vertex,4969.34,4139.75,Low
+84,Appliances Pro 4,Home & Kitchen,Appliances,Omni,16378.61,9216.19,High
+85,Appliances Pro 5,Home & Kitchen,Appliances,Vertex,2518.37,1213.4,High
+86,Appliances Pro 6,Home & Kitchen,Appliances,Nova,34039.44,27118.62,Mid
+87,Appliances Pro 7,Home & Kitchen,Appliances,Omni,25848.61,19507.97,Mid
+88,Appliances Pro 8,Home & Kitchen,Appliances,Zenith,32436.05,18330.48,High
+89,Appliances Pro 9,Home & Kitchen,Appliances,Vertex,34701.42,25077.08,Mid
+90,Appliances Pro 10,Home & Kitchen,Appliances,Nova,46868.13,36205.44,Mid
+91,Furniture Pro 1,Home & Kitchen,Furniture,Zenith,17382.78,16237.5,Low
+92,Furniture Pro 2,Home & Kitchen,Furniture,Vertex,46272.33,38275.2,Low
+93,Furniture Pro 3,Home & Kitchen,Furniture,Nova,13268.11,11378.76,Low
+94,Furniture Pro 4,Home & Kitchen,Furniture,Apex,40952.5,35721.71,Low
+95,Furniture Pro 5,Home & Kitchen,Furniture,Apex,26717.7,24477.18,Low
+96,Furniture Pro 6,Home & Kitchen,Furniture,Apex,5108.59,2148.45,High
+97,Furniture Pro 7,Home & Kitchen,Furniture,Zenith,45070.69,30349.69,Mid
+98,Furniture Pro 8,Home & Kitchen,Furniture,Nova,17281.97,12618.57,Mid
+99,Furniture Pro 9,Home & Kitchen,Furniture,Vertex,36434.81,22610.64,Mid
+100,Furniture Pro 10,Home & Kitchen,Furniture,Nova,44410.78,28601.65,Mid
+101,Decor Pro 1,Home & Kitchen,Decor,Omni,32280.57,25281.24,Mid
+102,Decor Pro 2,Home & Kitchen,Decor,Apex,8500.62,7006.23,Low
+103,Decor Pro 3,Home & Kitchen,Decor,Zenith,30518.24,24358.46,Mid
+104,Decor Pro 4,Home & Kitchen,Decor,Omni,5522.84,3685.39,Mid
+105,Decor Pro 5,Home & Kitchen,Decor,Apex,750.55,426.19,High
+106,Decor Pro 6,Home & Kitchen,Decor,Apex,27662.32,18301.97,Mid
+107,Decor Pro 7,Home & Kitchen,Decor,Zenith,32772.08,30104.51,Low
+108,Decor Pro 8,Home & Kitchen,Decor,Apex,35752.87,19755.26,High
+109,Decor Pro 9,Home & Kitchen,Decor,Nova,16607.29,14041.31,Low
+110,Decor Pro 10,Home & Kitchen,Decor,Nova,32656.83,20578.87,Mid
+111,Cookware Pro 1,Home & Kitchen,Cookware,Zenith,33051.84,22684.74,Mid
+112,Cookware Pro 2,Home & Kitchen,Cookware,Apex,5136.9,3731.74,Mid
+113,Cookware Pro 3,Home & Kitchen,Cookware,Vertex,13627.52,10237.02,Mid
+114,Cookware Pro 4,Home & Kitchen,Cookware,Vertex,48664.02,43552.66,Low
+115,Cookware Pro 5,Home & Kitchen,Cookware,Apex,44656.3,21156.92,High
+116,Cookware Pro 6,Home & Kitchen,Cookware,Nova,39843.16,19900.57,High
+117,Cookware Pro 7,Home & Kitchen,Cookware,Omni,29056.74,25600.37,Low
+118,Cookware Pro 8,Home & Kitchen,Cookware,Omni,10164.53,6662.95,Mid
+119,Cookware Pro 9,Home & Kitchen,Cookware,Nova,14398.23,8568.92,High
+120,Cookware Pro 10,Home & Kitchen,Cookware,Omni,32450.88,24811.22,Mid
+121,Skincare Pro 1,Beauty,Skincare,Omni,47052.7,38416.18,Low
+122,Skincare Pro 2,Beauty,Skincare,Vertex,45785.79,41123.78,Low
+123,Skincare Pro 3,Beauty,Skincare,Omni,1265.1,777.2,Mid
+124,Skincare Pro 4,Beauty,Skincare,Zenith,21695.12,17674.32,Low
+125,Skincare Pro 5,Beauty,Skincare,Apex,48199.19,40033.22,Low
+126,Skincare Pro 6,Beauty,Skincare,Vertex,15075.22,10899.09,Mid
+127,Skincare Pro 7,Beauty,Skincare,Zenith,42631.27,38608.19,Low
+128,Skincare Pro 8,Beauty,Skincare,Vertex,8889.89,7752.41,Low
+129,Skincare Pro 9,Beauty,Skincare,Vertex,46839.66,30951.37,Mid
+130,Skincare Pro 10,Beauty,Skincare,Vertex,28718.03,26891.43,Low
+131,Makeup Pro 1,Beauty,Makeup,Nova,30942.86,25106.8,Low
+132,Makeup Pro 2,Beauty,Makeup,Apex,7434.16,6522.98,Low
+133,Makeup Pro 3,Beauty,Makeup,Nova,43929.97,28635.59,Mid
+134,Makeup Pro 4,Beauty,Makeup,Vertex,35002.28,23084.11,Mid
+135,Makeup Pro 5,Beauty,Makeup,Vertex,18294.81,16628.1,Low
+136,Makeup Pro 6,Beauty,Makeup,Apex,40563.38,33934.68,Low
+137,Makeup Pro 7,Beauty,Makeup,Vertex,43420.08,26805.47,Mid
+138,Makeup Pro 8,Beauty,Makeup,Zenith,25811.45,18060.19,Mid
+139,Makeup Pro 9,Beauty,Makeup,Nova,40015.61,18807.63,High
+140,Makeup Pro 10,Beauty,Makeup,Zenith,35247.36,22587.97,Mid
+141,Haircare Pro 1,Beauty,Haircare,Omni,44555.26,40219.18,Low
+142,Haircare Pro 2,Beauty,Haircare,Zenith,19091.36,17885.59,Low
+143,Haircare Pro 3,Beauty,Haircare,Apex,29124.87,23090.53,Mid
+144,Haircare Pro 4,Beauty,Haircare,Vertex,23547.1,20580.87,Low
+145,Haircare Pro 5,Beauty,Haircare,Apex,14683.79,7075.14,High
+146,Haircare Pro 6,Beauty,Haircare,Nova,2009.76,1898.77,Low
+147,Haircare Pro 7,Beauty,Haircare,Nova,41218.73,30005.66,Mid
+148,Haircare Pro 8,Beauty,Haircare,Apex,6789.5,3364.54,High
+149,Haircare Pro 9,Beauty,Haircare,Zenith,38614.68,21502.04,High
+150,Haircare Pro 10,Beauty,Haircare,Omni,31333.08,29392.04,Low
+151,Fragrance Pro 1,Beauty,Fragrance,Zenith,3058.25,1509.94,High
+152,Fragrance Pro 2,Beauty,Fragrance,Vertex,27261.44,18333.7,Mid
+153,Fragrance Pro 3,Beauty,Fragrance,Vertex,36441.52,29640.83,Low
+154,Fragrance Pro 4,Beauty,Fragrance,Apex,26056.87,23575.89,Low
+155,Fragrance Pro 5,Beauty,Fragrance,Nova,39861.72,21757.86,High
+156,Fragrance Pro 6,Beauty,Fragrance,Apex,22229.09,20873.47,Low
+157,Fragrance Pro 7,Beauty,Fragrance,Nova,1754.86,1066.03,Mid
+158,Fragrance Pro 8,Beauty,Fragrance,Vertex,41881.02,35706.23,Low
+159,Fragrance Pro 9,Beauty,Fragrance,Zenith,20743.17,19202.76,Low
+160,Fragrance Pro 10,Beauty,Fragrance,Zenith,8243.63,7542.64,Low
+161,Equipment Pro 1,Sports,Equipment,Zenith,27686.72,18192.41,Mid
+162,Equipment Pro 2,Sports,Equipment,Apex,33179.77,18050.23,High
+163,Equipment Pro 3,Sports,Equipment,Omni,47765.83,40443.06,Low
+164,Equipment Pro 4,Sports,Equipment,Apex,27940.53,13345.96,High
+165,Equipment Pro 5,Sports,Equipment,Nova,21270.2,19468.99,Low
+166,Equipment Pro 6,Sports,Equipment,Zenith,18120.65,11749.99,Mid
+167,Equipment Pro 7,Sports,Equipment,Omni,1212.48,1132.15,Low
+168,Equipment Pro 8,Sports,Equipment,Omni,2777.13,2199.08,Mid
+169,Equipment Pro 9,Sports,Equipment,Apex,42845.3,28246.55,Mid
+170,Equipment Pro 10,Sports,Equipment,Nova,23971.6,22444.69,Low
+171,Apparel Pro 1,Sports,Apparel,Zenith,24834.99,17516.26,Mid
+172,Apparel Pro 2,Sports,Apparel,Nova,9073.49,6471.48,Mid
+173,Apparel Pro 3,Sports,Apparel,Apex,20225.98,13689.55,Mid
+174,Apparel Pro 4,Sports,Apparel,Apex,31937.14,25260.33,Mid
+175,Apparel Pro 5,Sports,Apparel,Nova,19043.32,9042.3,High
+176,Apparel Pro 6,Sports,Apparel,Apex,25405.24,15972.33,Mid
+177,Apparel Pro 7,Sports,Apparel,Vertex,33105.33,25405.47,Mid
+178,Apparel Pro 8,Sports,Apparel,Omni,3993.15,1882.84,High
+179,Apparel Pro 9,Sports,Apparel,Nova,1812.31,875.06,High
+180,Apparel Pro 10,Sports,Apparel,Nova,47041.4,22810.62,High
+181,Footwear Pro 1,Sports,Footwear,Nova,19714.41,9292.24,High
+182,Footwear Pro 2,Sports,Footwear,Apex,23183.52,11380.25,High
+183,Footwear Pro 3,Sports,Footwear,Zenith,47102.51,42201.29,Low
+184,Footwear Pro 4,Sports,Footwear,Omni,48078.93,29757.49,Mid
+185,Footwear Pro 5,Sports,Footwear,Nova,10191.66,5973.62,High
+186,Footwear Pro 6,Sports,Footwear,Apex,5488.51,5200.08,Low
+187,Footwear Pro 7,Sports,Footwear,Apex,5174.93,3433.04,Mid
+188,Footwear Pro 8,Sports,Footwear,Nova,4023.84,2157.6,High
+189,Footwear Pro 9,Sports,Footwear,Omni,42321.33,40067.38,Low
+190,Footwear Pro 10,Sports,Footwear,Nova,40816.19,30352.1,Mid
+191,Fitness Pro 1,Sports,Fitness,Nova,6349.16,5412.38,Low
+192,Fitness Pro 2,Sports,Fitness,Zenith,31632.67,19754.78,Mid
+193,Fitness Pro 3,Sports,Fitness,Zenith,36886.02,16204.17,High
+194,Fitness Pro 4,Sports,Fitness,Vertex,14460.71,11055.39,Mid
+195,Fitness Pro 5,Sports,Fitness,Vertex,37655.43,24048.0,Mid
+196,Fitness Pro 6,Sports,Fitness,Apex,49530.0,35536.61,Mid
+197,Fitness Pro 7,Sports,Fitness,Zenith,18914.9,15913.14,Low
+198,Fitness Pro 8,Sports,Fitness,Zenith,17369.78,14237.9,Low
+199,Fitness Pro 9,Sports,Fitness,Vertex,42991.43,38259.83,Low
+200,Fitness Pro 10,Sports,Fitness,Zenith,37668.12,24450.05,Mid
+201,Fiction Pro 1,Books,Fiction,Vertex,5604.63,3472.01,Mid
+202,Fiction Pro 2,Books,Fiction,Vertex,25509.99,21282.88,Low
+203,Fiction Pro 3,Books,Fiction,Apex,16342.46,13476.43,Low
+204,Fiction Pro 4,Books,Fiction,Apex,19765.48,15769.54,Mid
+205,Fiction Pro 5,Books,Fiction,Vertex,45316.41,35425.77,Mid
+206,Fiction Pro 6,Books,Fiction,Nova,16306.03,9946.47,Mid
+207,Fiction Pro 7,Books,Fiction,Apex,47555.05,32590.07,Mid
+208,Fiction Pro 8,Books,Fiction,Zenith,31775.94,16215.61,High
+209,Fiction Pro 9,Books,Fiction,Apex,15013.93,11024.24,Mid
+210,Fiction Pro 10,Books,Fiction,Zenith,33789.66,21947.23,Mid
+211,Non-Fiction Pro 1,Books,Non-Fiction,Omni,39683.16,25479.62,Mid
+212,Non-Fiction Pro 2,Books,Non-Fiction,Zenith,5014.7,3515.89,Mid
+213,Non-Fiction Pro 3,Books,Non-Fiction,Nova,3349.16,2311.24,Mid
+214,Non-Fiction Pro 4,Books,Non-Fiction,Omni,22355.76,13915.55,Mid
+215,Non-Fiction Pro 5,Books,Non-Fiction,Nova,17870.29,13877.83,Mid
+216,Non-Fiction Pro 6,Books,Non-Fiction,Zenith,7578.09,4908.31,Mid
+217,Non-Fiction Pro 7,Books,Non-Fiction,Apex,31101.79,24252.42,Mid
+218,Non-Fiction Pro 8,Books,Non-Fiction,Nova,4663.29,3076.87,Mid
+219,Non-Fiction Pro 9,Books,Non-Fiction,Vertex,4101.77,2607.2,Mid
+220,Non-Fiction Pro 10,Books,Non-Fiction,Zenith,35458.99,27790.28,Mid
+221,Educational Pro 1,Books,Educational,Omni,4699.47,2832.24,Mid
+222,Educational Pro 2,Books,Educational,Vertex,19026.4,13810.73,Mid
+223,Educational Pro 3,Books,Educational,Nova,40733.58,24869.9,Mid
+224,Educational Pro 4,Books,Educational,Zenith,49307.05,32016.27,Mid
+225,Educational Pro 5,Books,Educational,Vertex,19124.85,14980.49,Mid
+226,Educational Pro 6,Books,Educational,Nova,38968.77,26822.95,Mid
+227,Educational Pro 7,Books,Educational,Nova,21498.99,13302.05,Mid
+228,Educational Pro 8,Books,Educational,Nova,6004.28,3010.99,High
+229,Educational Pro 9,Books,Educational,Nova,1062.01,939.22,Low
+230,Educational Pro 10,Books,Educational,Vertex,3287.01,1894.1,High
+231,Comics Pro 1,Books,Comics,Apex,6317.55,2970.25,High
+232,Comics Pro 2,Books,Comics,Vertex,37429.22,25576.37,Mid
+233,Comics Pro 3,Books,Comics,Omni,48127.54,43195.34,Low
+234,Comics Pro 4,Books,Comics,Nova,14642.75,9170.46,Mid
+235,Comics Pro 5,Books,Comics,Apex,11567.99,9429.64,Low
+236,Comics Pro 6,Books,Comics,Apex,1101.65,447.3,High
+237,Comics Pro 7,Books,Comics,Nova,2636.42,1639.25,Mid
+238,Comics Pro 8,Books,Comics,Vertex,26621.2,21589.4,Low
+239,Comics Pro 9,Books,Comics,Vertex,4152.93,2862.32,Mid
+240,Comics Pro 10,Books,Comics,Apex,48480.48,42506.05,Low
+241,Watches Pro 1,Accessories,Watches,Omni,31655.23,20919.37,Mid
+242,Watches Pro 2,Accessories,Watches,Vertex,22999.78,15513.09,Mid
+243,Watches Pro 3,Accessories,Watches,Omni,29423.56,18235.79,Mid
+244,Watches Pro 4,Accessories,Watches,Vertex,2749.6,2045.17,Mid
+245,Watches Pro 5,Accessories,Watches,Vertex,47545.37,29570.71,Mid
+246,Watches Pro 6,Accessories,Watches,Nova,23055.01,15584.57,Mid
+247,Watches Pro 7,Accessories,Watches,Omni,14230.37,10848.89,Mid
+248,Watches Pro 8,Accessories,Watches,Nova,23453.07,17105.02,Mid
+249,Watches Pro 9,Accessories,Watches,Zenith,29390.98,17177.65,High
+250,Watches Pro 10,Accessories,Watches,Vertex,48732.54,29373.92,Mid
+251,Jewelry Pro 1,Accessories,Jewelry,Nova,35059.0,24288.2,Mid
+252,Jewelry Pro 2,Accessories,Jewelry,Apex,15821.62,13227.96,Low
+253,Jewelry Pro 3,Accessories,Jewelry,Nova,34394.19,26396.74,Mid
+254,Jewelry Pro 4,Accessories,Jewelry,Zenith,45590.9,38061.32,Low
+255,Jewelry Pro 5,Accessories,Jewelry,Apex,47515.1,21612.53,High
+256,Jewelry Pro 6,Accessories,Jewelry,Nova,30864.05,27513.64,Low
+257,Jewelry Pro 7,Accessories,Jewelry,Nova,46670.06,29252.2,Mid
+258,Jewelry Pro 8,Accessories,Jewelry,Apex,2738.32,2176.22,Mid
+259,Jewelry Pro 9,Accessories,Jewelry,Zenith,19134.94,12205.97,Mid
+260,Jewelry Pro 10,Accessories,Jewelry,Omni,49370.17,38010.91,Mid
+261,Bags Pro 1,Accessories,Bags,Omni,29909.47,26819.08,Low
+262,Bags Pro 2,Accessories,Bags,Vertex,48510.76,30638.24,Mid
+263,Bags Pro 3,Accessories,Bags,Apex,41997.27,21261.6,High
+264,Bags Pro 4,Accessories,Bags,Vertex,21033.57,11469.99,High
+265,Bags Pro 5,Accessories,Bags,Apex,3290.59,2063.38,Mid
+266,Bags Pro 6,Accessories,Bags,Zenith,40738.6,16297.74,High
+267,Bags Pro 7,Accessories,Bags,Omni,49833.52,34330.99,Mid
+268,Bags Pro 8,Accessories,Bags,Vertex,38564.88,23564.95,Mid
+269,Bags Pro 9,Accessories,Bags,Nova,42557.55,31940.73,Mid
+270,Bags Pro 10,Accessories,Bags,Zenith,22801.93,17652.53,Mid
+271,Wallets Pro 1,Accessories,Wallets,Apex,47725.53,32394.42,Mid
+272,Wallets Pro 2,Accessories,Wallets,Omni,11817.82,7866.65,Mid
+273,Wallets Pro 3,Accessories,Wallets,Omni,31097.35,22650.3,Mid
+274,Wallets Pro 4,Accessories,Wallets,Vertex,6121.1,2850.51,High
+275,Wallets Pro 5,Accessories,Wallets,Omni,26255.23,16948.71,Mid
+276,Wallets Pro 6,Accessories,Wallets,Apex,26248.09,16524.85,Mid
+277,Wallets Pro 7,Accessories,Wallets,Omni,27819.39,24243.73,Low
+278,Wallets Pro 8,Accessories,Wallets,Omni,43894.35,39220.15,Low
+279,Wallets Pro 9,Accessories,Wallets,Zenith,7133.75,6748.32,Low
+280,Wallets Pro 10,Accessories,Wallets,Nova,37879.29,25604.06,Mid

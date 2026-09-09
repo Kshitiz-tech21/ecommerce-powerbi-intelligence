@@ -1,0 +1,13 @@
+# Git Ignore
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Power BI Local Cache
+*.pbix.backup
+*.tmp

@@ -1,0 +1,64 @@
+# Core KPIs
+Total Revenue = SUM(Fact_Sales[Net_Revenue])
+Gross Revenue = SUM(Fact_Sales[Gross_Revenue])
+Total Profit = SUM(Fact_Sales[Profit])
+Total Cost = SUM(Fact_Sales[Total_Cost])
+Total Orders = DISTINCTCOUNT(Fact_Sales[Order_ID])
+Total Customers = DISTINCTCOUNT(Fact_Sales[Customer_ID])
+Units Sold = SUM(Fact_Sales[Quantity])
+Average Order Value = DIVIDE([Total Revenue], [Total Orders])
+Profit Margin % = DIVIDE([Total Profit], [Total Revenue], 0)
+Average Selling Price = DIVIDE([Total Revenue], [Units Sold])
+Average Discount % = AVERAGE(Fact_Sales[Discount_Pct])
+Revenue per Customer = DIVIDE([Total Revenue], [Total Customers])
+Profit per Order = DIVIDE([Total Profit], [Total Orders])
+
+# Time Intelligence
+Revenue YTD = TOTALYTD([Total Revenue], 'Dim_Date'[Date])
+Profit YTD = TOTALYTD([Total Profit], 'Dim_Date'[Date])
+Revenue MTD = TOTALMTD([Total Revenue], 'Dim_Date'[Date])
+Revenue LY = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR('Dim_Date'[Date]))
+Profit LY = CALCULATE([Total Profit], SAMEPERIODLASTYEAR('Dim_Date'[Date]))
+Revenue YoY % = DIVIDE([Total Revenue] - [Revenue LY], [Revenue LY], 0)
+Profit YoY % = DIVIDE([Total Profit] - [Profit LY], [Profit LY], 0)
+Revenue MoM % = 
+VAR PrevMonthRev = CALCULATE([Total Revenue], DATEADD('Dim_Date'[Date], -1, MONTH))
+RETURN DIVIDE([Total Revenue] - PrevMonthRev, PrevMonthRev, 0)
+
+# Target Analysis
+Revenue Target = SUM(Fact_Targets[Revenue_Target])
+Profit Target = SUM(Fact_Targets[Profit_Target])
+Revenue Target Variance = [Total Revenue] - [Revenue Target]
+Revenue Target Variance % = DIVIDE([Revenue Target Variance], [Revenue Target], 0)
+Target Achievement % = DIVIDE([Total Revenue], [Revenue Target], 0)
+
+# Product Analysis
+Product Revenue Rank = RANKX(ALL('Dim_Product'), [Total Revenue], , DESC)
+Category Revenue Contribution % = DIVIDE([Total Revenue], CALCULATE([Total Revenue], ALL('Dim_Product'[Category])), 0)
+
+# Customer Analytics
+New Customers = 
+VAR CurrentDate = MAX('Dim_Date'[Date])
+RETURN COUNTROWS(FILTER('Dim_Customer', 'Dim_Customer'[Signup_Date] <= CurrentDate && 'Dim_Customer'[Signup_Date] >= CurrentDate - 30))
+
+Returning Customers = [Total Customers] - [New Customers]
+Repeat Purchase Rate % = DIVIDE(CALCULATE([Total Customers], FILTER(Fact_Sales, [Total Orders] > 1)), [Total Customers], 0)
+
+# RFM Segmentation (Conceptual DAX)
+Recency = DATEDIFF(MAX(Fact_Sales[Date]), TODAY(), DAY)
+Frequency = [Total Orders]
+Monetary = [Total Revenue]
+
+RFM Score = 
+VAR R_Score = SWITCH(TRUE(), [Recency] < 30, 5, [Recency] < 90, 4, [Recency] < 180, 3, [Recency] < 365, 2, 1)
+VAR F_Score = SWITCH(TRUE(), [Frequency] > 10, 5, [Frequency] > 5, 4, [Frequency] > 2, 3, [Frequency] > 1, 2, 1)
+VAR M_Score = SWITCH(TRUE(), [Monetary] > 10000, 5, [Monetary] > 5000, 4, [Monetary] > 2000, 3, [Monetary] > 500, 2, 1)
+RETURN R_Score & F_Score & M_Score
+
+RFM Segment = 
+SWITCH([RFM Score],
+    "555", "Champions",
+    "544", "Loyal Customers",
+    "111", "Hibernating",
+    "At Risk"
+)

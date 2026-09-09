@@ -1,0 +1,2001 @@
+Customer_ID,Customer_Name,Gender,Age_Group,Region_ID,Signup_Date,Acquisition_Channel,Customer_Segment,City,State,Region
+1,Customer_1,Female,35-44,7,2024-07-20,Referral,Platinum,Bengaluru,Karnataka,South
+2,Customer_2,Male,45-54,1,2023-06-01,Organic,Gold,Delhi NCR,Delhi,North
+3,Customer_3,Other,18-24,11,2023-04-05,Organic,Bronze,Patna,Bihar,East
+4,Customer_4,Male,18-24,10,2023-05-22,Paid Ads,Silver,Kolkata,West Bengal,East
+5,Customer_5,Female,18-24,10,2022-09-16,Paid Ads,Platinum,Kolkata,West Bengal,East
+6,Customer_6,Female,25-34,10,2023-06-09,Organic,Silver,Kolkata,West Bengal,East
+7,Customer_7,Male,55+,1,2023-09-30,Referral,Platinum,Delhi NCR,Delhi,North
+8,Customer_8,Other,25-34,2,2024-03-23,Paid Ads,Bronze,Jaipur,Rajasthan,North
+9,Customer_9,Other,55+,2,2023-09-10,Organic,Gold,Jaipur,Rajasthan,North
+10,Customer_10,Female,35-44,2,2024-12-27,Referral,Bronze,Jaipur,Rajasthan,North
+11,Customer_11,Female,18-24,7,2024-05-10,Referral,Platinum,Bengaluru,Karnataka,South
+12,Customer_12,Female,25-34,12,2022-11-10,Referral,Platinum,Indore,Madhya Pradesh,Central
+13,Customer_13,Female,55+,5,2024-08-10,Referral,Silver,Pune,Maharashtra,West
+14,Customer_14,Female,45-54,4,2022-06-27,Social Media,Platinum,Mumbai,Maharashtra,West
+15,Customer_15,Male,45-54,6,2023-11-20,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+16,Customer_16,Female,35-44,6,2023-03-11,Referral,Gold,Ahmedabad,Gujarat,West
+17,Customer_17,Other,25-34,2,2022-01-21,Paid Ads,Platinum,Jaipur,Rajasthan,North
+18,Customer_18,Other,25-34,12,2024-09-27,Social Media,Platinum,Indore,Madhya Pradesh,Central
+19,Customer_19,Male,18-24,5,2024-07-06,Paid Ads,Platinum,Pune,Maharashtra,West
+20,Customer_20,Female,55+,6,2023-05-14,Social Media,Gold,Ahmedabad,Gujarat,West
+21,Customer_21,Other,55+,6,2024-05-21,Referral,Platinum,Ahmedabad,Gujarat,West
+22,Customer_22,Female,35-44,4,2023-07-09,Organic,Silver,Mumbai,Maharashtra,West
+23,Customer_23,Male,55+,12,2023-10-09,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+24,Customer_24,Other,45-54,5,2023-03-20,Referral,Bronze,Pune,Maharashtra,West
+25,Customer_25,Female,25-34,6,2023-02-02,Paid Ads,Gold,Ahmedabad,Gujarat,West
+26,Customer_26,Other,55+,3,2022-01-29,Referral,Bronze,Lucknow,Uttar Pradesh,North
+27,Customer_27,Other,35-44,12,2022-04-22,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+28,Customer_28,Male,55+,5,2022-07-30,Social Media,Platinum,Pune,Maharashtra,West
+29,Customer_29,Female,25-34,1,2024-06-21,Referral,Platinum,Delhi NCR,Delhi,North
+30,Customer_30,Male,45-54,8,2022-08-22,Organic,Bronze,Hyderabad,Telangana,South
+31,Customer_31,Male,55+,5,2022-11-07,Organic,Silver,Pune,Maharashtra,West
+32,Customer_32,Other,45-54,10,2022-08-31,Paid Ads,Platinum,Kolkata,West Bengal,East
+33,Customer_33,Female,35-44,10,2024-07-11,Social Media,Gold,Kolkata,West Bengal,East
+34,Customer_34,Other,18-24,4,2022-05-04,Paid Ads,Gold,Mumbai,Maharashtra,West
+35,Customer_35,Male,25-34,3,2022-06-16,Organic,Silver,Lucknow,Uttar Pradesh,North
+36,Customer_36,Female,45-54,12,2022-01-06,Social Media,Gold,Indore,Madhya Pradesh,Central
+37,Customer_37,Male,35-44,12,2022-03-08,Referral,Platinum,Indore,Madhya Pradesh,Central
+38,Customer_38,Other,25-34,5,2022-05-26,Paid Ads,Platinum,Pune,Maharashtra,West
+39,Customer_39,Other,25-34,11,2022-08-24,Paid Ads,Gold,Patna,Bihar,East
+40,Customer_40,Male,18-24,3,2022-10-19,Referral,Gold,Lucknow,Uttar Pradesh,North
+41,Customer_41,Male,45-54,12,2024-06-18,Referral,Platinum,Indore,Madhya Pradesh,Central
+42,Customer_42,Other,55+,8,2023-07-12,Social Media,Bronze,Hyderabad,Telangana,South
+43,Customer_43,Female,35-44,10,2022-03-23,Referral,Bronze,Kolkata,West Bengal,East
+44,Customer_44,Male,55+,10,2022-07-07,Organic,Gold,Kolkata,West Bengal,East
+45,Customer_45,Male,45-54,9,2022-03-24,Social Media,Gold,Chennai,Tamil Nadu,South
+46,Customer_46,Other,45-54,11,2023-01-07,Social Media,Bronze,Patna,Bihar,East
+47,Customer_47,Female,45-54,6,2024-08-20,Referral,Bronze,Ahmedabad,Gujarat,West
+48,Customer_48,Female,45-54,12,2022-11-26,Social Media,Gold,Indore,Madhya Pradesh,Central
+49,Customer_49,Other,18-24,8,2024-03-31,Organic,Gold,Hyderabad,Telangana,South
+50,Customer_50,Female,18-24,7,2023-06-01,Organic,Platinum,Bengaluru,Karnataka,South
+51,Customer_51,Male,25-34,9,2024-04-26,Referral,Platinum,Chennai,Tamil Nadu,South
+52,Customer_52,Male,25-34,5,2024-06-24,Paid Ads,Gold,Pune,Maharashtra,West
+53,Customer_53,Other,45-54,2,2024-06-16,Organic,Silver,Jaipur,Rajasthan,North
+54,Customer_54,Female,55+,1,2022-11-21,Social Media,Bronze,Delhi NCR,Delhi,North
+55,Customer_55,Male,45-54,2,2023-04-06,Paid Ads,Platinum,Jaipur,Rajasthan,North
+56,Customer_56,Other,35-44,7,2023-08-21,Social Media,Platinum,Bengaluru,Karnataka,South
+57,Customer_57,Female,55+,3,2023-05-15,Social Media,Silver,Lucknow,Uttar Pradesh,North
+58,Customer_58,Other,25-34,2,2024-11-06,Referral,Platinum,Jaipur,Rajasthan,North
+59,Customer_59,Other,35-44,1,2023-11-28,Referral,Gold,Delhi NCR,Delhi,North
+60,Customer_60,Male,45-54,9,2024-09-29,Social Media,Gold,Chennai,Tamil Nadu,South
+61,Customer_61,Other,55+,7,2023-11-12,Social Media,Gold,Bengaluru,Karnataka,South
+62,Customer_62,Other,25-34,10,2023-01-22,Social Media,Silver,Kolkata,West Bengal,East
+63,Customer_63,Male,35-44,12,2024-04-21,Social Media,Platinum,Indore,Madhya Pradesh,Central
+64,Customer_64,Other,25-34,8,2024-03-01,Organic,Silver,Hyderabad,Telangana,South
+65,Customer_65,Other,35-44,2,2024-10-25,Social Media,Bronze,Jaipur,Rajasthan,North
+66,Customer_66,Female,18-24,12,2024-12-13,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+67,Customer_67,Male,45-54,5,2022-11-13,Referral,Platinum,Pune,Maharashtra,West
+68,Customer_68,Female,55+,7,2022-06-14,Referral,Platinum,Bengaluru,Karnataka,South
+69,Customer_69,Other,18-24,4,2022-03-15,Referral,Silver,Mumbai,Maharashtra,West
+70,Customer_70,Female,18-24,11,2022-07-05,Organic,Platinum,Patna,Bihar,East
+71,Customer_71,Other,35-44,1,2022-12-07,Organic,Gold,Delhi NCR,Delhi,North
+72,Customer_72,Female,35-44,6,2022-04-25,Social Media,Silver,Ahmedabad,Gujarat,West
+73,Customer_73,Other,45-54,10,2023-05-16,Paid Ads,Silver,Kolkata,West Bengal,East
+74,Customer_74,Male,55+,7,2022-12-25,Paid Ads,Platinum,Bengaluru,Karnataka,South
+75,Customer_75,Male,45-54,11,2022-10-21,Referral,Platinum,Patna,Bihar,East
+76,Customer_76,Other,18-24,8,2023-06-07,Referral,Silver,Hyderabad,Telangana,South
+77,Customer_77,Female,35-44,10,2022-06-01,Referral,Platinum,Kolkata,West Bengal,East
+78,Customer_78,Female,35-44,4,2023-05-28,Social Media,Platinum,Mumbai,Maharashtra,West
+79,Customer_79,Male,45-54,10,2022-08-07,Referral,Gold,Kolkata,West Bengal,East
+80,Customer_80,Male,45-54,5,2023-08-28,Organic,Bronze,Pune,Maharashtra,West
+81,Customer_81,Female,25-34,10,2024-10-14,Referral,Silver,Kolkata,West Bengal,East
+82,Customer_82,Other,35-44,11,2023-01-25,Paid Ads,Bronze,Patna,Bihar,East
+83,Customer_83,Female,45-54,1,2022-03-22,Referral,Silver,Delhi NCR,Delhi,North
+84,Customer_84,Female,35-44,12,2022-07-04,Social Media,Silver,Indore,Madhya Pradesh,Central
+85,Customer_85,Male,55+,6,2023-02-16,Referral,Silver,Ahmedabad,Gujarat,West
+86,Customer_86,Female,35-44,12,2023-06-11,Referral,Bronze,Indore,Madhya Pradesh,Central
+87,Customer_87,Male,25-34,4,2024-08-17,Social Media,Gold,Mumbai,Maharashtra,West
+88,Customer_88,Female,18-24,5,2022-07-04,Organic,Platinum,Pune,Maharashtra,West
+89,Customer_89,Other,35-44,10,2024-01-25,Social Media,Gold,Kolkata,West Bengal,East
+90,Customer_90,Other,25-34,8,2022-08-10,Organic,Gold,Hyderabad,Telangana,South
+91,Customer_91,Other,18-24,11,2023-03-30,Social Media,Gold,Patna,Bihar,East
+92,Customer_92,Male,25-34,1,2024-04-16,Organic,Gold,Delhi NCR,Delhi,North
+93,Customer_93,Male,18-24,4,2024-10-05,Paid Ads,Platinum,Mumbai,Maharashtra,West
+94,Customer_94,Female,55+,7,2024-07-18,Paid Ads,Platinum,Bengaluru,Karnataka,South
+95,Customer_95,Female,55+,7,2022-07-22,Referral,Bronze,Bengaluru,Karnataka,South
+96,Customer_96,Male,45-54,8,2024-01-29,Paid Ads,Gold,Hyderabad,Telangana,South
+97,Customer_97,Other,35-44,9,2022-07-23,Referral,Bronze,Chennai,Tamil Nadu,South
+98,Customer_98,Female,25-34,2,2024-03-26,Social Media,Bronze,Jaipur,Rajasthan,North
+99,Customer_99,Other,55+,1,2023-03-11,Organic,Gold,Delhi NCR,Delhi,North
+100,Customer_100,Male,55+,4,2023-05-14,Organic,Silver,Mumbai,Maharashtra,West
+101,Customer_101,Male,35-44,3,2023-03-19,Organic,Gold,Lucknow,Uttar Pradesh,North
+102,Customer_102,Male,55+,5,2022-10-24,Paid Ads,Bronze,Pune,Maharashtra,West
+103,Customer_103,Male,18-24,6,2022-02-22,Paid Ads,Gold,Ahmedabad,Gujarat,West
+104,Customer_104,Male,35-44,1,2022-02-02,Paid Ads,Platinum,Delhi NCR,Delhi,North
+105,Customer_105,Male,18-24,8,2024-12-13,Social Media,Gold,Hyderabad,Telangana,South
+106,Customer_106,Other,18-24,8,2024-11-17,Paid Ads,Bronze,Hyderabad,Telangana,South
+107,Customer_107,Female,45-54,11,2024-12-03,Organic,Bronze,Patna,Bihar,East
+108,Customer_108,Female,45-54,11,2024-09-07,Organic,Platinum,Patna,Bihar,East
+109,Customer_109,Male,18-24,6,2024-06-27,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+110,Customer_110,Female,55+,11,2022-09-16,Referral,Platinum,Patna,Bihar,East
+111,Customer_111,Female,45-54,9,2024-12-22,Social Media,Bronze,Chennai,Tamil Nadu,South
+112,Customer_112,Other,55+,12,2022-08-23,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+113,Customer_113,Male,45-54,6,2024-07-13,Social Media,Platinum,Ahmedabad,Gujarat,West
+114,Customer_114,Other,18-24,6,2024-05-01,Social Media,Gold,Ahmedabad,Gujarat,West
+115,Customer_115,Female,25-34,11,2023-06-07,Social Media,Bronze,Patna,Bihar,East
+116,Customer_116,Male,18-24,7,2022-07-06,Organic,Gold,Bengaluru,Karnataka,South
+117,Customer_117,Other,18-24,10,2022-09-24,Referral,Bronze,Kolkata,West Bengal,East
+118,Customer_118,Female,45-54,12,2024-04-21,Organic,Gold,Indore,Madhya Pradesh,Central
+119,Customer_119,Female,18-24,10,2023-10-02,Paid Ads,Silver,Kolkata,West Bengal,East
+120,Customer_120,Male,18-24,6,2024-09-14,Referral,Bronze,Ahmedabad,Gujarat,West
+121,Customer_121,Other,25-34,7,2023-07-25,Organic,Gold,Bengaluru,Karnataka,South
+122,Customer_122,Male,35-44,12,2022-03-01,Referral,Gold,Indore,Madhya Pradesh,Central
+123,Customer_123,Male,25-34,3,2023-12-20,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+124,Customer_124,Other,18-24,2,2022-10-18,Paid Ads,Platinum,Jaipur,Rajasthan,North
+125,Customer_125,Female,35-44,3,2024-05-09,Referral,Gold,Lucknow,Uttar Pradesh,North
+126,Customer_126,Other,55+,2,2023-10-27,Organic,Silver,Jaipur,Rajasthan,North
+127,Customer_127,Other,18-24,11,2022-11-19,Organic,Gold,Patna,Bihar,East
+128,Customer_128,Other,45-54,8,2024-06-26,Social Media,Platinum,Hyderabad,Telangana,South
+129,Customer_129,Male,55+,2,2023-07-14,Referral,Platinum,Jaipur,Rajasthan,North
+130,Customer_130,Female,55+,8,2022-08-16,Referral,Bronze,Hyderabad,Telangana,South
+131,Customer_131,Female,55+,1,2023-03-28,Organic,Silver,Delhi NCR,Delhi,North
+132,Customer_132,Male,25-34,5,2023-09-10,Referral,Gold,Pune,Maharashtra,West
+133,Customer_133,Male,45-54,12,2022-09-03,Social Media,Silver,Indore,Madhya Pradesh,Central
+134,Customer_134,Female,55+,12,2022-09-22,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+135,Customer_135,Female,18-24,7,2022-05-28,Organic,Platinum,Bengaluru,Karnataka,South
+136,Customer_136,Female,55+,7,2022-06-09,Social Media,Platinum,Bengaluru,Karnataka,South
+137,Customer_137,Male,45-54,1,2023-08-16,Referral,Silver,Delhi NCR,Delhi,North
+138,Customer_138,Other,35-44,2,2024-07-31,Social Media,Bronze,Jaipur,Rajasthan,North
+139,Customer_139,Female,55+,7,2023-05-14,Organic,Platinum,Bengaluru,Karnataka,South
+140,Customer_140,Other,35-44,4,2023-09-28,Referral,Silver,Mumbai,Maharashtra,West
+141,Customer_141,Other,18-24,9,2022-06-06,Paid Ads,Gold,Chennai,Tamil Nadu,South
+142,Customer_142,Other,25-34,4,2023-12-21,Organic,Silver,Mumbai,Maharashtra,West
+143,Customer_143,Male,25-34,10,2023-06-09,Paid Ads,Bronze,Kolkata,West Bengal,East
+144,Customer_144,Other,45-54,8,2022-12-29,Social Media,Gold,Hyderabad,Telangana,South
+145,Customer_145,Male,45-54,2,2023-10-10,Social Media,Platinum,Jaipur,Rajasthan,North
+146,Customer_146,Female,55+,1,2023-09-13,Referral,Bronze,Delhi NCR,Delhi,North
+147,Customer_147,Female,45-54,1,2023-09-28,Organic,Gold,Delhi NCR,Delhi,North
+148,Customer_148,Male,18-24,10,2023-08-11,Social Media,Platinum,Kolkata,West Bengal,East
+149,Customer_149,Female,55+,11,2022-03-26,Paid Ads,Gold,Patna,Bihar,East
+150,Customer_150,Other,25-34,1,2024-09-01,Social Media,Bronze,Delhi NCR,Delhi,North
+151,Customer_151,Other,18-24,9,2023-12-05,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+152,Customer_152,Other,45-54,8,2023-05-23,Paid Ads,Gold,Hyderabad,Telangana,South
+153,Customer_153,Female,45-54,7,2024-02-03,Referral,Bronze,Bengaluru,Karnataka,South
+154,Customer_154,Male,35-44,2,2023-11-17,Social Media,Gold,Jaipur,Rajasthan,North
+155,Customer_155,Other,55+,3,2023-06-01,Referral,Bronze,Lucknow,Uttar Pradesh,North
+156,Customer_156,Female,35-44,11,2022-10-17,Social Media,Silver,Patna,Bihar,East
+157,Customer_157,Female,55+,7,2022-06-23,Referral,Silver,Bengaluru,Karnataka,South
+158,Customer_158,Male,45-54,9,2024-12-14,Referral,Bronze,Chennai,Tamil Nadu,South
+159,Customer_159,Female,25-34,4,2024-01-13,Referral,Platinum,Mumbai,Maharashtra,West
+160,Customer_160,Male,25-34,3,2023-01-29,Organic,Gold,Lucknow,Uttar Pradesh,North
+161,Customer_161,Other,55+,12,2022-07-27,Organic,Gold,Indore,Madhya Pradesh,Central
+162,Customer_162,Other,45-54,3,2022-09-26,Paid Ads,Silver,Lucknow,Uttar Pradesh,North
+163,Customer_163,Other,45-54,1,2022-12-06,Social Media,Gold,Delhi NCR,Delhi,North
+164,Customer_164,Female,55+,5,2023-05-02,Social Media,Silver,Pune,Maharashtra,West
+165,Customer_165,Male,35-44,8,2024-12-29,Paid Ads,Gold,Hyderabad,Telangana,South
+166,Customer_166,Female,35-44,7,2024-06-21,Social Media,Silver,Bengaluru,Karnataka,South
+167,Customer_167,Other,25-34,5,2023-02-13,Organic,Platinum,Pune,Maharashtra,West
+168,Customer_168,Other,18-24,12,2024-01-31,Organic,Gold,Indore,Madhya Pradesh,Central
+169,Customer_169,Male,35-44,8,2022-06-21,Paid Ads,Platinum,Hyderabad,Telangana,South
+170,Customer_170,Male,45-54,6,2022-07-07,Organic,Platinum,Ahmedabad,Gujarat,West
+171,Customer_171,Female,55+,6,2022-04-20,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+172,Customer_172,Female,25-34,1,2022-06-17,Referral,Bronze,Delhi NCR,Delhi,North
+173,Customer_173,Male,25-34,1,2023-11-18,Referral,Platinum,Delhi NCR,Delhi,North
+174,Customer_174,Other,45-54,8,2022-10-12,Organic,Bronze,Hyderabad,Telangana,South
+175,Customer_175,Female,25-34,3,2022-02-08,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+176,Customer_176,Male,35-44,2,2023-08-14,Organic,Silver,Jaipur,Rajasthan,North
+177,Customer_177,Other,55+,8,2024-05-09,Organic,Bronze,Hyderabad,Telangana,South
+178,Customer_178,Other,55+,1,2024-10-20,Paid Ads,Silver,Delhi NCR,Delhi,North
+179,Customer_179,Female,18-24,10,2023-08-20,Referral,Silver,Kolkata,West Bengal,East
+180,Customer_180,Male,18-24,9,2024-05-03,Referral,Bronze,Chennai,Tamil Nadu,South
+181,Customer_181,Other,55+,9,2024-12-13,Organic,Platinum,Chennai,Tamil Nadu,South
+182,Customer_182,Male,45-54,6,2024-08-20,Referral,Bronze,Ahmedabad,Gujarat,West
+183,Customer_183,Male,35-44,4,2024-01-02,Organic,Gold,Mumbai,Maharashtra,West
+184,Customer_184,Male,35-44,9,2022-10-01,Referral,Silver,Chennai,Tamil Nadu,South
+185,Customer_185,Other,45-54,11,2024-08-09,Paid Ads,Silver,Patna,Bihar,East
+186,Customer_186,Other,45-54,1,2022-05-10,Referral,Silver,Delhi NCR,Delhi,North
+187,Customer_187,Male,18-24,6,2022-03-31,Referral,Platinum,Ahmedabad,Gujarat,West
+188,Customer_188,Female,18-24,11,2024-08-27,Paid Ads,Gold,Patna,Bihar,East
+189,Customer_189,Male,35-44,5,2024-01-02,Organic,Gold,Pune,Maharashtra,West
+190,Customer_190,Female,45-54,7,2024-06-13,Referral,Silver,Bengaluru,Karnataka,South
+191,Customer_191,Other,45-54,6,2024-10-13,Referral,Bronze,Ahmedabad,Gujarat,West
+192,Customer_192,Male,45-54,10,2024-05-19,Paid Ads,Gold,Kolkata,West Bengal,East
+193,Customer_193,Male,18-24,6,2023-10-20,Referral,Gold,Ahmedabad,Gujarat,West
+194,Customer_194,Other,45-54,3,2024-07-02,Social Media,Gold,Lucknow,Uttar Pradesh,North
+195,Customer_195,Male,35-44,10,2024-07-04,Social Media,Gold,Kolkata,West Bengal,East
+196,Customer_196,Male,45-54,6,2022-04-28,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+197,Customer_197,Other,45-54,1,2022-10-20,Paid Ads,Bronze,Delhi NCR,Delhi,North
+198,Customer_198,Other,35-44,6,2023-04-29,Social Media,Bronze,Ahmedabad,Gujarat,West
+199,Customer_199,Other,45-54,6,2022-11-11,Referral,Platinum,Ahmedabad,Gujarat,West
+200,Customer_200,Other,25-34,9,2022-06-07,Referral,Platinum,Chennai,Tamil Nadu,South
+201,Customer_201,Other,35-44,4,2023-10-06,Organic,Bronze,Mumbai,Maharashtra,West
+202,Customer_202,Female,55+,7,2023-01-17,Organic,Gold,Bengaluru,Karnataka,South
+203,Customer_203,Other,45-54,4,2023-06-18,Referral,Platinum,Mumbai,Maharashtra,West
+204,Customer_204,Male,25-34,2,2023-02-14,Social Media,Silver,Jaipur,Rajasthan,North
+205,Customer_205,Male,35-44,11,2024-06-30,Referral,Bronze,Patna,Bihar,East
+206,Customer_206,Female,25-34,12,2023-08-18,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+207,Customer_207,Male,18-24,4,2024-11-07,Paid Ads,Silver,Mumbai,Maharashtra,West
+208,Customer_208,Male,35-44,9,2024-10-08,Referral,Platinum,Chennai,Tamil Nadu,South
+209,Customer_209,Other,18-24,2,2022-09-23,Referral,Platinum,Jaipur,Rajasthan,North
+210,Customer_210,Other,45-54,7,2024-09-07,Organic,Silver,Bengaluru,Karnataka,South
+211,Customer_211,Other,18-24,8,2023-10-12,Social Media,Gold,Hyderabad,Telangana,South
+212,Customer_212,Other,55+,3,2022-09-20,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+213,Customer_213,Male,18-24,9,2024-10-26,Paid Ads,Gold,Chennai,Tamil Nadu,South
+214,Customer_214,Male,35-44,12,2022-12-04,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+215,Customer_215,Female,18-24,5,2024-11-28,Paid Ads,Gold,Pune,Maharashtra,West
+216,Customer_216,Other,35-44,10,2022-09-14,Organic,Silver,Kolkata,West Bengal,East
+217,Customer_217,Male,55+,12,2022-11-12,Referral,Bronze,Indore,Madhya Pradesh,Central
+218,Customer_218,Male,18-24,11,2022-02-28,Referral,Silver,Patna,Bihar,East
+219,Customer_219,Other,18-24,8,2024-05-03,Referral,Gold,Hyderabad,Telangana,South
+220,Customer_220,Male,45-54,5,2024-09-16,Social Media,Bronze,Pune,Maharashtra,West
+221,Customer_221,Male,45-54,7,2022-05-03,Social Media,Platinum,Bengaluru,Karnataka,South
+222,Customer_222,Female,55+,3,2023-02-22,Referral,Gold,Lucknow,Uttar Pradesh,North
+223,Customer_223,Female,25-34,6,2023-12-09,Organic,Gold,Ahmedabad,Gujarat,West
+224,Customer_224,Female,18-24,5,2023-05-11,Social Media,Silver,Pune,Maharashtra,West
+225,Customer_225,Male,18-24,5,2022-10-16,Social Media,Platinum,Pune,Maharashtra,West
+226,Customer_226,Male,35-44,10,2023-05-24,Referral,Silver,Kolkata,West Bengal,East
+227,Customer_227,Female,55+,8,2022-11-23,Social Media,Gold,Hyderabad,Telangana,South
+228,Customer_228,Male,18-24,7,2024-10-15,Social Media,Silver,Bengaluru,Karnataka,South
+229,Customer_229,Other,35-44,1,2023-03-17,Organic,Gold,Delhi NCR,Delhi,North
+230,Customer_230,Other,45-54,5,2024-10-10,Organic,Bronze,Pune,Maharashtra,West
+231,Customer_231,Male,35-44,12,2024-06-01,Referral,Platinum,Indore,Madhya Pradesh,Central
+232,Customer_232,Male,45-54,1,2024-01-20,Paid Ads,Gold,Delhi NCR,Delhi,North
+233,Customer_233,Male,45-54,9,2023-08-15,Social Media,Gold,Chennai,Tamil Nadu,South
+234,Customer_234,Male,18-24,7,2022-09-01,Referral,Gold,Bengaluru,Karnataka,South
+235,Customer_235,Male,25-34,10,2024-01-19,Social Media,Bronze,Kolkata,West Bengal,East
+236,Customer_236,Male,25-34,12,2022-04-03,Referral,Platinum,Indore,Madhya Pradesh,Central
+237,Customer_237,Female,25-34,10,2024-11-29,Paid Ads,Gold,Kolkata,West Bengal,East
+238,Customer_238,Male,45-54,10,2023-10-15,Referral,Gold,Kolkata,West Bengal,East
+239,Customer_239,Other,55+,8,2024-11-04,Referral,Platinum,Hyderabad,Telangana,South
+240,Customer_240,Female,35-44,11,2022-02-04,Organic,Platinum,Patna,Bihar,East
+241,Customer_241,Other,18-24,10,2023-09-23,Social Media,Gold,Kolkata,West Bengal,East
+242,Customer_242,Other,18-24,10,2023-04-12,Social Media,Silver,Kolkata,West Bengal,East
+243,Customer_243,Other,55+,7,2024-12-09,Paid Ads,Silver,Bengaluru,Karnataka,South
+244,Customer_244,Other,18-24,4,2022-03-06,Organic,Platinum,Mumbai,Maharashtra,West
+245,Customer_245,Female,25-34,7,2023-10-05,Paid Ads,Platinum,Bengaluru,Karnataka,South
+246,Customer_246,Other,45-54,12,2024-10-24,Organic,Silver,Indore,Madhya Pradesh,Central
+247,Customer_247,Male,55+,6,2024-11-28,Social Media,Platinum,Ahmedabad,Gujarat,West
+248,Customer_248,Male,45-54,9,2023-10-05,Referral,Gold,Chennai,Tamil Nadu,South
+249,Customer_249,Other,45-54,4,2023-06-26,Paid Ads,Gold,Mumbai,Maharashtra,West
+250,Customer_250,Male,35-44,5,2023-09-04,Paid Ads,Platinum,Pune,Maharashtra,West
+251,Customer_251,Female,35-44,9,2023-10-12,Referral,Gold,Chennai,Tamil Nadu,South
+252,Customer_252,Other,55+,7,2022-09-07,Social Media,Gold,Bengaluru,Karnataka,South
+253,Customer_253,Female,18-24,5,2022-10-27,Organic,Gold,Pune,Maharashtra,West
+254,Customer_254,Other,35-44,12,2024-06-24,Social Media,Silver,Indore,Madhya Pradesh,Central
+255,Customer_255,Other,35-44,9,2023-02-18,Referral,Silver,Chennai,Tamil Nadu,South
+256,Customer_256,Other,55+,4,2022-08-12,Paid Ads,Bronze,Mumbai,Maharashtra,West
+257,Customer_257,Male,25-34,1,2024-12-23,Organic,Platinum,Delhi NCR,Delhi,North
+258,Customer_258,Other,45-54,2,2023-11-08,Paid Ads,Bronze,Jaipur,Rajasthan,North
+259,Customer_259,Female,45-54,8,2022-11-20,Paid Ads,Gold,Hyderabad,Telangana,South
+260,Customer_260,Female,18-24,2,2023-10-20,Paid Ads,Bronze,Jaipur,Rajasthan,North
+261,Customer_261,Female,25-34,1,2022-12-25,Social Media,Platinum,Delhi NCR,Delhi,North
+262,Customer_262,Other,35-44,1,2023-01-17,Organic,Gold,Delhi NCR,Delhi,North
+263,Customer_263,Female,35-44,8,2022-08-08,Social Media,Silver,Hyderabad,Telangana,South
+264,Customer_264,Female,35-44,4,2024-10-29,Organic,Gold,Mumbai,Maharashtra,West
+265,Customer_265,Other,45-54,11,2022-11-29,Referral,Silver,Patna,Bihar,East
+266,Customer_266,Other,35-44,5,2022-01-29,Paid Ads,Silver,Pune,Maharashtra,West
+267,Customer_267,Female,55+,6,2024-04-10,Organic,Platinum,Ahmedabad,Gujarat,West
+268,Customer_268,Male,25-34,8,2022-07-15,Referral,Silver,Hyderabad,Telangana,South
+269,Customer_269,Female,45-54,4,2022-01-14,Social Media,Gold,Mumbai,Maharashtra,West
+270,Customer_270,Female,55+,12,2023-11-07,Organic,Gold,Indore,Madhya Pradesh,Central
+271,Customer_271,Other,25-34,1,2024-01-07,Organic,Platinum,Delhi NCR,Delhi,North
+272,Customer_272,Male,45-54,11,2023-09-21,Referral,Bronze,Patna,Bihar,East
+273,Customer_273,Female,55+,4,2023-08-28,Paid Ads,Silver,Mumbai,Maharashtra,West
+274,Customer_274,Male,45-54,12,2024-09-06,Referral,Platinum,Indore,Madhya Pradesh,Central
+275,Customer_275,Other,25-34,4,2024-08-22,Organic,Platinum,Mumbai,Maharashtra,West
+276,Customer_276,Other,35-44,2,2024-12-17,Organic,Bronze,Jaipur,Rajasthan,North
+277,Customer_277,Male,55+,9,2024-11-01,Paid Ads,Silver,Chennai,Tamil Nadu,South
+278,Customer_278,Other,45-54,2,2023-11-03,Paid Ads,Platinum,Jaipur,Rajasthan,North
+279,Customer_279,Other,45-54,1,2022-07-06,Social Media,Silver,Delhi NCR,Delhi,North
+280,Customer_280,Female,45-54,10,2024-11-17,Organic,Platinum,Kolkata,West Bengal,East
+281,Customer_281,Other,18-24,7,2023-09-24,Referral,Bronze,Bengaluru,Karnataka,South
+282,Customer_282,Other,18-24,1,2023-03-23,Social Media,Gold,Delhi NCR,Delhi,North
+283,Customer_283,Other,18-24,2,2022-05-11,Social Media,Bronze,Jaipur,Rajasthan,North
+284,Customer_284,Female,25-34,3,2023-08-11,Social Media,Gold,Lucknow,Uttar Pradesh,North
+285,Customer_285,Female,45-54,7,2024-02-23,Organic,Silver,Bengaluru,Karnataka,South
+286,Customer_286,Male,25-34,9,2023-12-14,Social Media,Silver,Chennai,Tamil Nadu,South
+287,Customer_287,Male,18-24,5,2023-04-02,Social Media,Platinum,Pune,Maharashtra,West
+288,Customer_288,Female,25-34,4,2024-12-25,Social Media,Gold,Mumbai,Maharashtra,West
+289,Customer_289,Female,25-34,12,2022-11-14,Organic,Bronze,Indore,Madhya Pradesh,Central
+290,Customer_290,Other,18-24,4,2024-05-08,Paid Ads,Bronze,Mumbai,Maharashtra,West
+291,Customer_291,Other,18-24,8,2022-07-26,Organic,Silver,Hyderabad,Telangana,South
+292,Customer_292,Female,45-54,4,2022-04-01,Paid Ads,Bronze,Mumbai,Maharashtra,West
+293,Customer_293,Other,35-44,4,2022-10-14,Referral,Gold,Mumbai,Maharashtra,West
+294,Customer_294,Female,25-34,11,2023-05-01,Paid Ads,Platinum,Patna,Bihar,East
+295,Customer_295,Female,18-24,9,2023-09-08,Paid Ads,Platinum,Chennai,Tamil Nadu,South
+296,Customer_296,Male,35-44,11,2024-10-12,Social Media,Gold,Patna,Bihar,East
+297,Customer_297,Female,25-34,5,2024-05-02,Social Media,Silver,Pune,Maharashtra,West
+298,Customer_298,Male,25-34,5,2024-08-27,Paid Ads,Platinum,Pune,Maharashtra,West
+299,Customer_299,Other,45-54,7,2022-04-29,Paid Ads,Platinum,Bengaluru,Karnataka,South
+300,Customer_300,Female,25-34,6,2023-05-13,Organic,Platinum,Ahmedabad,Gujarat,West
+301,Customer_301,Male,55+,12,2024-01-30,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+302,Customer_302,Female,55+,10,2023-07-04,Organic,Bronze,Kolkata,West Bengal,East
+303,Customer_303,Other,55+,4,2023-01-21,Social Media,Silver,Mumbai,Maharashtra,West
+304,Customer_304,Female,18-24,4,2023-11-13,Paid Ads,Bronze,Mumbai,Maharashtra,West
+305,Customer_305,Male,55+,12,2024-09-07,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+306,Customer_306,Other,35-44,5,2023-05-06,Social Media,Platinum,Pune,Maharashtra,West
+307,Customer_307,Other,35-44,5,2024-12-28,Referral,Gold,Pune,Maharashtra,West
+308,Customer_308,Female,45-54,2,2024-11-16,Social Media,Gold,Jaipur,Rajasthan,North
+309,Customer_309,Female,35-44,7,2023-02-21,Organic,Silver,Bengaluru,Karnataka,South
+310,Customer_310,Male,35-44,9,2022-10-26,Social Media,Gold,Chennai,Tamil Nadu,South
+311,Customer_311,Male,35-44,4,2022-11-09,Social Media,Silver,Mumbai,Maharashtra,West
+312,Customer_312,Other,35-44,5,2024-10-19,Social Media,Platinum,Pune,Maharashtra,West
+313,Customer_313,Male,35-44,3,2024-08-01,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+314,Customer_314,Other,18-24,9,2023-01-12,Organic,Bronze,Chennai,Tamil Nadu,South
+315,Customer_315,Male,45-54,3,2022-04-10,Paid Ads,Bronze,Lucknow,Uttar Pradesh,North
+316,Customer_316,Male,25-34,9,2022-11-06,Social Media,Gold,Chennai,Tamil Nadu,South
+317,Customer_317,Other,55+,8,2022-05-04,Social Media,Bronze,Hyderabad,Telangana,South
+318,Customer_318,Other,55+,7,2022-01-14,Organic,Bronze,Bengaluru,Karnataka,South
+319,Customer_319,Other,35-44,9,2024-12-20,Referral,Bronze,Chennai,Tamil Nadu,South
+320,Customer_320,Other,45-54,3,2024-10-25,Organic,Bronze,Lucknow,Uttar Pradesh,North
+321,Customer_321,Male,25-34,4,2024-12-09,Referral,Gold,Mumbai,Maharashtra,West
+322,Customer_322,Female,18-24,6,2023-07-02,Social Media,Platinum,Ahmedabad,Gujarat,West
+323,Customer_323,Other,25-34,5,2023-05-14,Organic,Bronze,Pune,Maharashtra,West
+324,Customer_324,Female,45-54,7,2022-07-11,Social Media,Bronze,Bengaluru,Karnataka,South
+325,Customer_325,Other,25-34,2,2022-01-20,Social Media,Platinum,Jaipur,Rajasthan,North
+326,Customer_326,Other,18-24,9,2023-11-10,Organic,Silver,Chennai,Tamil Nadu,South
+327,Customer_327,Other,55+,8,2023-03-09,Referral,Bronze,Hyderabad,Telangana,South
+328,Customer_328,Other,35-44,9,2022-06-02,Organic,Silver,Chennai,Tamil Nadu,South
+329,Customer_329,Male,25-34,10,2023-10-07,Paid Ads,Platinum,Kolkata,West Bengal,East
+330,Customer_330,Female,25-34,10,2022-06-07,Paid Ads,Platinum,Kolkata,West Bengal,East
+331,Customer_331,Female,25-34,12,2023-11-11,Organic,Gold,Indore,Madhya Pradesh,Central
+332,Customer_332,Male,45-54,4,2022-04-20,Organic,Gold,Mumbai,Maharashtra,West
+333,Customer_333,Female,18-24,11,2024-03-23,Referral,Platinum,Patna,Bihar,East
+334,Customer_334,Male,35-44,9,2024-10-01,Social Media,Platinum,Chennai,Tamil Nadu,South
+335,Customer_335,Other,55+,11,2023-01-16,Social Media,Bronze,Patna,Bihar,East
+336,Customer_336,Male,18-24,2,2023-08-28,Referral,Silver,Jaipur,Rajasthan,North
+337,Customer_337,Other,25-34,12,2024-02-18,Social Media,Gold,Indore,Madhya Pradesh,Central
+338,Customer_338,Male,18-24,1,2024-01-09,Referral,Platinum,Delhi NCR,Delhi,North
+339,Customer_339,Female,18-24,3,2024-01-08,Organic,Silver,Lucknow,Uttar Pradesh,North
+340,Customer_340,Female,55+,9,2024-06-01,Social Media,Bronze,Chennai,Tamil Nadu,South
+341,Customer_341,Male,35-44,9,2022-02-23,Organic,Gold,Chennai,Tamil Nadu,South
+342,Customer_342,Male,35-44,7,2024-02-28,Social Media,Bronze,Bengaluru,Karnataka,South
+343,Customer_343,Other,55+,3,2023-05-13,Social Media,Silver,Lucknow,Uttar Pradesh,North
+344,Customer_344,Female,35-44,5,2022-10-12,Social Media,Silver,Pune,Maharashtra,West
+345,Customer_345,Male,45-54,5,2022-05-10,Social Media,Gold,Pune,Maharashtra,West
+346,Customer_346,Male,35-44,5,2024-09-18,Paid Ads,Platinum,Pune,Maharashtra,West
+347,Customer_347,Female,18-24,3,2023-02-05,Referral,Bronze,Lucknow,Uttar Pradesh,North
+348,Customer_348,Female,55+,7,2024-03-21,Referral,Platinum,Bengaluru,Karnataka,South
+349,Customer_349,Female,55+,3,2023-11-17,Referral,Gold,Lucknow,Uttar Pradesh,North
+350,Customer_350,Female,35-44,3,2023-02-16,Social Media,Gold,Lucknow,Uttar Pradesh,North
+351,Customer_351,Other,45-54,10,2023-08-20,Paid Ads,Gold,Kolkata,West Bengal,East
+352,Customer_352,Female,45-54,6,2024-02-10,Organic,Silver,Ahmedabad,Gujarat,West
+353,Customer_353,Other,55+,1,2023-01-04,Social Media,Silver,Delhi NCR,Delhi,North
+354,Customer_354,Female,18-24,7,2024-06-16,Social Media,Silver,Bengaluru,Karnataka,South
+355,Customer_355,Male,35-44,11,2023-09-13,Paid Ads,Platinum,Patna,Bihar,East
+356,Customer_356,Male,45-54,10,2024-02-12,Social Media,Platinum,Kolkata,West Bengal,East
+357,Customer_357,Other,45-54,9,2024-12-30,Organic,Gold,Chennai,Tamil Nadu,South
+358,Customer_358,Male,25-34,11,2022-06-24,Referral,Silver,Patna,Bihar,East
+359,Customer_359,Other,45-54,6,2022-04-01,Social Media,Bronze,Ahmedabad,Gujarat,West
+360,Customer_360,Male,35-44,4,2022-01-22,Paid Ads,Platinum,Mumbai,Maharashtra,West
+361,Customer_361,Female,45-54,11,2024-02-06,Paid Ads,Gold,Patna,Bihar,East
+362,Customer_362,Female,18-24,5,2022-02-20,Social Media,Bronze,Pune,Maharashtra,West
+363,Customer_363,Other,25-34,6,2022-08-26,Referral,Gold,Ahmedabad,Gujarat,West
+364,Customer_364,Male,55+,8,2024-07-21,Referral,Platinum,Hyderabad,Telangana,South
+365,Customer_365,Female,45-54,6,2022-07-19,Organic,Gold,Ahmedabad,Gujarat,West
+366,Customer_366,Other,18-24,1,2022-04-02,Referral,Bronze,Delhi NCR,Delhi,North
+367,Customer_367,Other,25-34,9,2022-12-03,Paid Ads,Silver,Chennai,Tamil Nadu,South
+368,Customer_368,Other,45-54,8,2023-11-09,Paid Ads,Platinum,Hyderabad,Telangana,South
+369,Customer_369,Male,45-54,7,2023-01-13,Organic,Silver,Bengaluru,Karnataka,South
+370,Customer_370,Other,45-54,7,2024-07-09,Organic,Silver,Bengaluru,Karnataka,South
+371,Customer_371,Female,18-24,10,2023-02-26,Organic,Silver,Kolkata,West Bengal,East
+372,Customer_372,Female,25-34,8,2024-01-20,Organic,Gold,Hyderabad,Telangana,South
+373,Customer_373,Other,35-44,10,2024-09-29,Social Media,Platinum,Kolkata,West Bengal,East
+374,Customer_374,Female,35-44,8,2022-08-22,Paid Ads,Gold,Hyderabad,Telangana,South
+375,Customer_375,Other,25-34,6,2022-06-23,Organic,Silver,Ahmedabad,Gujarat,West
+376,Customer_376,Male,25-34,6,2023-09-18,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+377,Customer_377,Other,25-34,10,2024-05-06,Social Media,Platinum,Kolkata,West Bengal,East
+378,Customer_378,Female,55+,12,2023-01-16,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+379,Customer_379,Female,25-34,3,2024-09-29,Referral,Platinum,Lucknow,Uttar Pradesh,North
+380,Customer_380,Female,18-24,8,2022-04-20,Paid Ads,Silver,Hyderabad,Telangana,South
+381,Customer_381,Other,55+,11,2024-02-26,Social Media,Platinum,Patna,Bihar,East
+382,Customer_382,Female,45-54,8,2024-10-04,Paid Ads,Bronze,Hyderabad,Telangana,South
+383,Customer_383,Male,35-44,1,2022-03-05,Referral,Silver,Delhi NCR,Delhi,North
+384,Customer_384,Male,45-54,10,2023-08-15,Social Media,Bronze,Kolkata,West Bengal,East
+385,Customer_385,Female,55+,6,2022-08-22,Organic,Platinum,Ahmedabad,Gujarat,West
+386,Customer_386,Female,18-24,12,2023-03-24,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+387,Customer_387,Female,35-44,6,2022-03-08,Organic,Platinum,Ahmedabad,Gujarat,West
+388,Customer_388,Male,25-34,12,2022-08-29,Referral,Platinum,Indore,Madhya Pradesh,Central
+389,Customer_389,Other,25-34,4,2022-12-06,Paid Ads,Bronze,Mumbai,Maharashtra,West
+390,Customer_390,Other,35-44,10,2023-12-20,Paid Ads,Gold,Kolkata,West Bengal,East
+391,Customer_391,Female,55+,5,2023-08-23,Organic,Silver,Pune,Maharashtra,West
+392,Customer_392,Male,35-44,11,2024-04-22,Paid Ads,Silver,Patna,Bihar,East
+393,Customer_393,Male,35-44,4,2023-05-27,Social Media,Platinum,Mumbai,Maharashtra,West
+394,Customer_394,Other,35-44,11,2022-10-19,Social Media,Platinum,Patna,Bihar,East
+395,Customer_395,Male,18-24,7,2024-07-14,Referral,Gold,Bengaluru,Karnataka,South
+396,Customer_396,Female,35-44,10,2024-07-20,Organic,Bronze,Kolkata,West Bengal,East
+397,Customer_397,Other,35-44,2,2024-07-27,Social Media,Silver,Jaipur,Rajasthan,North
+398,Customer_398,Male,45-54,5,2024-05-29,Referral,Gold,Pune,Maharashtra,West
+399,Customer_399,Other,55+,3,2023-11-23,Social Media,Gold,Lucknow,Uttar Pradesh,North
+400,Customer_400,Male,18-24,11,2022-04-10,Social Media,Bronze,Patna,Bihar,East
+401,Customer_401,Male,45-54,8,2022-09-12,Organic,Platinum,Hyderabad,Telangana,South
+402,Customer_402,Other,25-34,11,2023-02-19,Referral,Silver,Patna,Bihar,East
+403,Customer_403,Male,35-44,5,2023-07-16,Organic,Gold,Pune,Maharashtra,West
+404,Customer_404,Male,45-54,11,2022-12-05,Referral,Silver,Patna,Bihar,East
+405,Customer_405,Other,18-24,12,2024-05-29,Organic,Bronze,Indore,Madhya Pradesh,Central
+406,Customer_406,Female,18-24,3,2023-03-14,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+407,Customer_407,Male,35-44,2,2022-01-20,Social Media,Silver,Jaipur,Rajasthan,North
+408,Customer_408,Male,25-34,7,2024-09-05,Organic,Bronze,Bengaluru,Karnataka,South
+409,Customer_409,Female,35-44,5,2022-07-31,Paid Ads,Platinum,Pune,Maharashtra,West
+410,Customer_410,Other,25-34,2,2022-09-30,Organic,Silver,Jaipur,Rajasthan,North
+411,Customer_411,Female,25-34,11,2024-06-20,Paid Ads,Platinum,Patna,Bihar,East
+412,Customer_412,Male,18-24,2,2024-06-25,Paid Ads,Bronze,Jaipur,Rajasthan,North
+413,Customer_413,Female,45-54,6,2024-02-26,Paid Ads,Silver,Ahmedabad,Gujarat,West
+414,Customer_414,Other,18-24,4,2023-07-22,Referral,Bronze,Mumbai,Maharashtra,West
+415,Customer_415,Male,55+,10,2023-09-10,Paid Ads,Platinum,Kolkata,West Bengal,East
+416,Customer_416,Other,18-24,4,2023-08-29,Social Media,Platinum,Mumbai,Maharashtra,West
+417,Customer_417,Male,45-54,11,2022-08-19,Organic,Bronze,Patna,Bihar,East
+418,Customer_418,Female,25-34,7,2024-01-10,Social Media,Gold,Bengaluru,Karnataka,South
+419,Customer_419,Female,18-24,1,2022-12-20,Organic,Bronze,Delhi NCR,Delhi,North
+420,Customer_420,Male,18-24,1,2023-06-21,Social Media,Gold,Delhi NCR,Delhi,North
+421,Customer_421,Female,45-54,12,2024-10-23,Social Media,Bronze,Indore,Madhya Pradesh,Central
+422,Customer_422,Female,18-24,5,2022-11-09,Organic,Silver,Pune,Maharashtra,West
+423,Customer_423,Other,35-44,7,2022-11-15,Organic,Gold,Bengaluru,Karnataka,South
+424,Customer_424,Other,25-34,1,2024-06-14,Paid Ads,Bronze,Delhi NCR,Delhi,North
+425,Customer_425,Male,45-54,10,2024-06-08,Organic,Gold,Kolkata,West Bengal,East
+426,Customer_426,Male,18-24,12,2022-12-26,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+427,Customer_427,Female,35-44,9,2022-12-02,Referral,Silver,Chennai,Tamil Nadu,South
+428,Customer_428,Male,35-44,12,2024-02-01,Organic,Bronze,Indore,Madhya Pradesh,Central
+429,Customer_429,Female,35-44,9,2023-11-18,Organic,Gold,Chennai,Tamil Nadu,South
+430,Customer_430,Female,45-54,9,2022-06-07,Referral,Bronze,Chennai,Tamil Nadu,South
+431,Customer_431,Other,25-34,6,2024-10-20,Paid Ads,Gold,Ahmedabad,Gujarat,West
+432,Customer_432,Other,18-24,4,2022-07-30,Organic,Bronze,Mumbai,Maharashtra,West
+433,Customer_433,Male,18-24,8,2022-01-26,Referral,Platinum,Hyderabad,Telangana,South
+434,Customer_434,Male,18-24,9,2022-11-04,Social Media,Silver,Chennai,Tamil Nadu,South
+435,Customer_435,Male,45-54,12,2023-10-22,Referral,Gold,Indore,Madhya Pradesh,Central
+436,Customer_436,Other,35-44,2,2022-06-09,Organic,Silver,Jaipur,Rajasthan,North
+437,Customer_437,Other,18-24,7,2023-04-03,Organic,Platinum,Bengaluru,Karnataka,South
+438,Customer_438,Female,35-44,2,2023-08-02,Social Media,Bronze,Jaipur,Rajasthan,North
+439,Customer_439,Male,35-44,10,2024-01-26,Referral,Silver,Kolkata,West Bengal,East
+440,Customer_440,Female,55+,8,2024-08-08,Paid Ads,Silver,Hyderabad,Telangana,South
+441,Customer_441,Male,45-54,1,2022-11-05,Paid Ads,Gold,Delhi NCR,Delhi,North
+442,Customer_442,Female,18-24,11,2022-01-20,Social Media,Gold,Patna,Bihar,East
+443,Customer_443,Male,55+,4,2022-08-01,Social Media,Platinum,Mumbai,Maharashtra,West
+444,Customer_444,Male,35-44,2,2022-05-03,Organic,Silver,Jaipur,Rajasthan,North
+445,Customer_445,Female,35-44,8,2024-11-30,Organic,Bronze,Hyderabad,Telangana,South
+446,Customer_446,Male,45-54,2,2024-11-01,Organic,Platinum,Jaipur,Rajasthan,North
+447,Customer_447,Male,35-44,5,2022-09-25,Referral,Platinum,Pune,Maharashtra,West
+448,Customer_448,Female,45-54,5,2023-10-31,Paid Ads,Bronze,Pune,Maharashtra,West
+449,Customer_449,Male,55+,2,2023-02-20,Paid Ads,Bronze,Jaipur,Rajasthan,North
+450,Customer_450,Female,45-54,6,2022-12-03,Social Media,Bronze,Ahmedabad,Gujarat,West
+451,Customer_451,Male,45-54,5,2024-01-04,Social Media,Gold,Pune,Maharashtra,West
+452,Customer_452,Male,25-34,11,2022-09-03,Referral,Bronze,Patna,Bihar,East
+453,Customer_453,Female,25-34,2,2023-03-17,Paid Ads,Gold,Jaipur,Rajasthan,North
+454,Customer_454,Other,18-24,11,2024-03-22,Referral,Gold,Patna,Bihar,East
+455,Customer_455,Male,45-54,8,2022-12-23,Paid Ads,Bronze,Hyderabad,Telangana,South
+456,Customer_456,Male,25-34,2,2024-08-04,Organic,Bronze,Jaipur,Rajasthan,North
+457,Customer_457,Male,25-34,7,2023-04-01,Referral,Bronze,Bengaluru,Karnataka,South
+458,Customer_458,Male,18-24,2,2023-06-15,Paid Ads,Platinum,Jaipur,Rajasthan,North
+459,Customer_459,Male,35-44,2,2022-09-21,Organic,Platinum,Jaipur,Rajasthan,North
+460,Customer_460,Male,55+,7,2022-04-14,Social Media,Platinum,Bengaluru,Karnataka,South
+461,Customer_461,Female,45-54,3,2022-03-02,Referral,Silver,Lucknow,Uttar Pradesh,North
+462,Customer_462,Female,35-44,8,2023-01-19,Paid Ads,Bronze,Hyderabad,Telangana,South
+463,Customer_463,Other,35-44,8,2023-05-19,Social Media,Platinum,Hyderabad,Telangana,South
+464,Customer_464,Male,35-44,7,2022-05-05,Paid Ads,Platinum,Bengaluru,Karnataka,South
+465,Customer_465,Other,55+,4,2023-02-13,Organic,Platinum,Mumbai,Maharashtra,West
+466,Customer_466,Female,55+,8,2024-01-06,Referral,Gold,Hyderabad,Telangana,South
+467,Customer_467,Female,25-34,1,2024-03-06,Referral,Silver,Delhi NCR,Delhi,North
+468,Customer_468,Female,18-24,8,2022-03-02,Referral,Silver,Hyderabad,Telangana,South
+469,Customer_469,Male,25-34,11,2022-11-23,Paid Ads,Gold,Patna,Bihar,East
+470,Customer_470,Other,18-24,4,2024-12-28,Social Media,Gold,Mumbai,Maharashtra,West
+471,Customer_471,Male,25-34,10,2022-12-22,Referral,Gold,Kolkata,West Bengal,East
+472,Customer_472,Other,35-44,10,2022-02-27,Paid Ads,Silver,Kolkata,West Bengal,East
+473,Customer_473,Other,35-44,3,2024-10-05,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+474,Customer_474,Male,25-34,10,2022-07-04,Paid Ads,Bronze,Kolkata,West Bengal,East
+475,Customer_475,Female,18-24,6,2024-12-14,Paid Ads,Silver,Ahmedabad,Gujarat,West
+476,Customer_476,Other,25-34,6,2023-11-29,Organic,Bronze,Ahmedabad,Gujarat,West
+477,Customer_477,Other,25-34,2,2022-10-30,Referral,Bronze,Jaipur,Rajasthan,North
+478,Customer_478,Other,45-54,10,2024-02-05,Organic,Gold,Kolkata,West Bengal,East
+479,Customer_479,Female,25-34,3,2023-09-11,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+480,Customer_480,Male,55+,12,2023-10-12,Referral,Silver,Indore,Madhya Pradesh,Central
+481,Customer_481,Female,35-44,12,2022-12-26,Referral,Silver,Indore,Madhya Pradesh,Central
+482,Customer_482,Other,18-24,12,2022-12-30,Social Media,Bronze,Indore,Madhya Pradesh,Central
+483,Customer_483,Other,35-44,10,2023-01-08,Paid Ads,Bronze,Kolkata,West Bengal,East
+484,Customer_484,Male,35-44,12,2024-10-13,Organic,Silver,Indore,Madhya Pradesh,Central
+485,Customer_485,Female,25-34,11,2023-12-12,Organic,Gold,Patna,Bihar,East
+486,Customer_486,Male,35-44,4,2024-07-03,Paid Ads,Bronze,Mumbai,Maharashtra,West
+487,Customer_487,Female,18-24,12,2023-12-19,Organic,Bronze,Indore,Madhya Pradesh,Central
+488,Customer_488,Female,45-54,3,2024-03-01,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+489,Customer_489,Female,55+,7,2024-02-15,Organic,Platinum,Bengaluru,Karnataka,South
+490,Customer_490,Male,45-54,2,2023-04-07,Organic,Gold,Jaipur,Rajasthan,North
+491,Customer_491,Female,35-44,2,2022-02-11,Organic,Gold,Jaipur,Rajasthan,North
+492,Customer_492,Female,25-34,12,2022-12-15,Organic,Bronze,Indore,Madhya Pradesh,Central
+493,Customer_493,Other,55+,8,2023-11-24,Organic,Platinum,Hyderabad,Telangana,South
+494,Customer_494,Other,45-54,3,2022-12-04,Organic,Bronze,Lucknow,Uttar Pradesh,North
+495,Customer_495,Male,25-34,7,2023-11-10,Referral,Gold,Bengaluru,Karnataka,South
+496,Customer_496,Male,18-24,1,2023-09-02,Social Media,Platinum,Delhi NCR,Delhi,North
+497,Customer_497,Male,35-44,1,2022-11-11,Social Media,Bronze,Delhi NCR,Delhi,North
+498,Customer_498,Other,55+,8,2023-08-27,Paid Ads,Bronze,Hyderabad,Telangana,South
+499,Customer_499,Male,25-34,11,2022-02-22,Referral,Bronze,Patna,Bihar,East
+500,Customer_500,Male,35-44,7,2024-08-27,Social Media,Platinum,Bengaluru,Karnataka,South
+501,Customer_501,Male,55+,7,2023-06-27,Paid Ads,Gold,Bengaluru,Karnataka,South
+502,Customer_502,Female,25-34,8,2024-02-21,Organic,Gold,Hyderabad,Telangana,South
+503,Customer_503,Female,35-44,4,2024-06-19,Referral,Bronze,Mumbai,Maharashtra,West
+504,Customer_504,Other,18-24,2,2022-11-06,Referral,Platinum,Jaipur,Rajasthan,North
+505,Customer_505,Other,18-24,7,2023-04-11,Social Media,Platinum,Bengaluru,Karnataka,South
+506,Customer_506,Female,35-44,2,2023-04-28,Social Media,Bronze,Jaipur,Rajasthan,North
+507,Customer_507,Other,55+,10,2024-10-25,Paid Ads,Bronze,Kolkata,West Bengal,East
+508,Customer_508,Male,25-34,4,2024-07-08,Paid Ads,Silver,Mumbai,Maharashtra,West
+509,Customer_509,Female,18-24,11,2022-03-29,Social Media,Silver,Patna,Bihar,East
+510,Customer_510,Other,35-44,6,2022-10-30,Organic,Bronze,Ahmedabad,Gujarat,West
+511,Customer_511,Other,45-54,9,2024-03-05,Referral,Gold,Chennai,Tamil Nadu,South
+512,Customer_512,Female,18-24,12,2024-11-30,Social Media,Bronze,Indore,Madhya Pradesh,Central
+513,Customer_513,Male,25-34,10,2024-04-28,Organic,Bronze,Kolkata,West Bengal,East
+514,Customer_514,Female,55+,6,2022-07-26,Social Media,Gold,Ahmedabad,Gujarat,West
+515,Customer_515,Other,45-54,10,2024-02-24,Social Media,Bronze,Kolkata,West Bengal,East
+516,Customer_516,Female,45-54,3,2022-12-19,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+517,Customer_517,Female,25-34,1,2024-03-21,Social Media,Gold,Delhi NCR,Delhi,North
+518,Customer_518,Male,35-44,5,2024-02-02,Referral,Gold,Pune,Maharashtra,West
+519,Customer_519,Other,18-24,4,2024-10-03,Paid Ads,Gold,Mumbai,Maharashtra,West
+520,Customer_520,Female,35-44,12,2024-06-26,Social Media,Bronze,Indore,Madhya Pradesh,Central
+521,Customer_521,Female,25-34,7,2023-01-20,Social Media,Gold,Bengaluru,Karnataka,South
+522,Customer_522,Other,25-34,2,2022-04-26,Referral,Platinum,Jaipur,Rajasthan,North
+523,Customer_523,Other,55+,1,2022-10-05,Paid Ads,Silver,Delhi NCR,Delhi,North
+524,Customer_524,Male,25-34,1,2023-02-16,Social Media,Bronze,Delhi NCR,Delhi,North
+525,Customer_525,Other,25-34,5,2024-01-09,Referral,Platinum,Pune,Maharashtra,West
+526,Customer_526,Female,18-24,11,2024-10-31,Organic,Silver,Patna,Bihar,East
+527,Customer_527,Female,55+,8,2024-02-02,Paid Ads,Platinum,Hyderabad,Telangana,South
+528,Customer_528,Female,25-34,5,2023-12-18,Organic,Gold,Pune,Maharashtra,West
+529,Customer_529,Female,18-24,3,2022-02-26,Paid Ads,Silver,Lucknow,Uttar Pradesh,North
+530,Customer_530,Other,25-34,5,2023-04-07,Social Media,Bronze,Pune,Maharashtra,West
+531,Customer_531,Female,25-34,11,2022-01-19,Paid Ads,Bronze,Patna,Bihar,East
+532,Customer_532,Female,55+,5,2023-04-04,Referral,Platinum,Pune,Maharashtra,West
+533,Customer_533,Female,45-54,5,2024-02-11,Paid Ads,Platinum,Pune,Maharashtra,West
+534,Customer_534,Other,55+,10,2023-09-11,Social Media,Bronze,Kolkata,West Bengal,East
+535,Customer_535,Other,35-44,9,2022-01-16,Referral,Gold,Chennai,Tamil Nadu,South
+536,Customer_536,Female,18-24,6,2022-08-10,Referral,Gold,Ahmedabad,Gujarat,West
+537,Customer_537,Female,35-44,4,2023-07-22,Paid Ads,Silver,Mumbai,Maharashtra,West
+538,Customer_538,Other,45-54,11,2022-04-27,Referral,Silver,Patna,Bihar,East
+539,Customer_539,Other,45-54,5,2022-02-22,Referral,Platinum,Pune,Maharashtra,West
+540,Customer_540,Female,18-24,10,2024-04-08,Paid Ads,Gold,Kolkata,West Bengal,East
+541,Customer_541,Other,55+,11,2023-04-01,Social Media,Gold,Patna,Bihar,East
+542,Customer_542,Female,25-34,11,2024-11-04,Paid Ads,Gold,Patna,Bihar,East
+543,Customer_543,Female,25-34,12,2022-07-19,Referral,Silver,Indore,Madhya Pradesh,Central
+544,Customer_544,Other,18-24,4,2023-11-19,Referral,Silver,Mumbai,Maharashtra,West
+545,Customer_545,Female,35-44,6,2023-09-21,Referral,Gold,Ahmedabad,Gujarat,West
+546,Customer_546,Male,45-54,1,2024-08-07,Organic,Platinum,Delhi NCR,Delhi,North
+547,Customer_547,Other,18-24,11,2023-02-03,Social Media,Gold,Patna,Bihar,East
+548,Customer_548,Male,25-34,3,2024-04-26,Paid Ads,Gold,Lucknow,Uttar Pradesh,North
+549,Customer_549,Other,45-54,3,2024-04-18,Referral,Silver,Lucknow,Uttar Pradesh,North
+550,Customer_550,Female,35-44,11,2022-06-15,Paid Ads,Gold,Patna,Bihar,East
+551,Customer_551,Male,45-54,5,2022-04-29,Paid Ads,Silver,Pune,Maharashtra,West
+552,Customer_552,Female,18-24,3,2022-11-21,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+553,Customer_553,Female,45-54,7,2024-04-06,Organic,Bronze,Bengaluru,Karnataka,South
+554,Customer_554,Male,35-44,1,2024-12-29,Referral,Silver,Delhi NCR,Delhi,North
+555,Customer_555,Other,18-24,11,2022-02-06,Paid Ads,Silver,Patna,Bihar,East
+556,Customer_556,Female,25-34,2,2023-12-07,Social Media,Gold,Jaipur,Rajasthan,North
+557,Customer_557,Male,18-24,5,2022-12-09,Referral,Platinum,Pune,Maharashtra,West
+558,Customer_558,Other,55+,6,2024-12-01,Social Media,Silver,Ahmedabad,Gujarat,West
+559,Customer_559,Female,35-44,4,2023-12-03,Paid Ads,Platinum,Mumbai,Maharashtra,West
+560,Customer_560,Male,25-34,12,2022-02-09,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+561,Customer_561,Other,55+,3,2022-02-14,Organic,Gold,Lucknow,Uttar Pradesh,North
+562,Customer_562,Female,35-44,9,2022-03-18,Organic,Bronze,Chennai,Tamil Nadu,South
+563,Customer_563,Other,18-24,1,2022-08-10,Organic,Platinum,Delhi NCR,Delhi,North
+564,Customer_564,Female,18-24,9,2024-06-28,Referral,Platinum,Chennai,Tamil Nadu,South
+565,Customer_565,Male,18-24,5,2022-11-10,Social Media,Bronze,Pune,Maharashtra,West
+566,Customer_566,Female,55+,10,2024-12-01,Paid Ads,Platinum,Kolkata,West Bengal,East
+567,Customer_567,Other,55+,2,2022-08-03,Referral,Bronze,Jaipur,Rajasthan,North
+568,Customer_568,Female,25-34,10,2022-08-06,Paid Ads,Gold,Kolkata,West Bengal,East
+569,Customer_569,Male,35-44,12,2024-12-07,Social Media,Gold,Indore,Madhya Pradesh,Central
+570,Customer_570,Male,55+,8,2022-11-25,Paid Ads,Platinum,Hyderabad,Telangana,South
+571,Customer_571,Male,18-24,1,2023-11-09,Organic,Bronze,Delhi NCR,Delhi,North
+572,Customer_572,Male,18-24,9,2024-10-08,Organic,Bronze,Chennai,Tamil Nadu,South
+573,Customer_573,Other,25-34,8,2023-06-09,Referral,Gold,Hyderabad,Telangana,South
+574,Customer_574,Male,18-24,3,2024-08-08,Organic,Gold,Lucknow,Uttar Pradesh,North
+575,Customer_575,Other,35-44,7,2024-01-08,Organic,Bronze,Bengaluru,Karnataka,South
+576,Customer_576,Male,25-34,11,2022-04-04,Paid Ads,Gold,Patna,Bihar,East
+577,Customer_577,Female,55+,5,2024-01-03,Organic,Gold,Pune,Maharashtra,West
+578,Customer_578,Male,18-24,7,2023-12-03,Social Media,Platinum,Bengaluru,Karnataka,South
+579,Customer_579,Female,45-54,7,2023-07-11,Paid Ads,Bronze,Bengaluru,Karnataka,South
+580,Customer_580,Other,18-24,3,2022-09-29,Organic,Platinum,Lucknow,Uttar Pradesh,North
+581,Customer_581,Other,45-54,3,2024-09-15,Social Media,Gold,Lucknow,Uttar Pradesh,North
+582,Customer_582,Other,25-34,8,2022-03-01,Social Media,Bronze,Hyderabad,Telangana,South
+583,Customer_583,Female,18-24,2,2024-04-22,Referral,Gold,Jaipur,Rajasthan,North
+584,Customer_584,Other,55+,12,2022-01-26,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+585,Customer_585,Other,55+,2,2024-11-29,Social Media,Silver,Jaipur,Rajasthan,North
+586,Customer_586,Female,45-54,3,2024-09-13,Organic,Bronze,Lucknow,Uttar Pradesh,North
+587,Customer_587,Other,45-54,8,2022-11-18,Paid Ads,Bronze,Hyderabad,Telangana,South
+588,Customer_588,Female,25-34,6,2024-10-03,Referral,Bronze,Ahmedabad,Gujarat,West
+589,Customer_589,Male,55+,11,2024-11-04,Social Media,Platinum,Patna,Bihar,East
+590,Customer_590,Male,45-54,8,2023-04-27,Social Media,Bronze,Hyderabad,Telangana,South
+591,Customer_591,Female,35-44,2,2024-10-17,Social Media,Bronze,Jaipur,Rajasthan,North
+592,Customer_592,Female,45-54,1,2022-07-30,Organic,Bronze,Delhi NCR,Delhi,North
+593,Customer_593,Other,55+,4,2023-09-16,Social Media,Gold,Mumbai,Maharashtra,West
+594,Customer_594,Male,25-34,8,2024-01-15,Referral,Platinum,Hyderabad,Telangana,South
+595,Customer_595,Other,45-54,2,2024-01-15,Organic,Silver,Jaipur,Rajasthan,North
+596,Customer_596,Female,35-44,11,2022-01-05,Referral,Gold,Patna,Bihar,East
+597,Customer_597,Male,25-34,8,2022-08-06,Paid Ads,Platinum,Hyderabad,Telangana,South
+598,Customer_598,Female,55+,4,2022-08-08,Paid Ads,Bronze,Mumbai,Maharashtra,West
+599,Customer_599,Male,45-54,4,2024-03-15,Referral,Bronze,Mumbai,Maharashtra,West
+600,Customer_600,Male,55+,2,2024-04-28,Social Media,Platinum,Jaipur,Rajasthan,North
+601,Customer_601,Male,45-54,1,2024-10-29,Organic,Platinum,Delhi NCR,Delhi,North
+602,Customer_602,Other,25-34,12,2024-09-16,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+603,Customer_603,Female,55+,10,2022-08-01,Referral,Platinum,Kolkata,West Bengal,East
+604,Customer_604,Other,25-34,5,2024-05-07,Social Media,Gold,Pune,Maharashtra,West
+605,Customer_605,Female,25-34,3,2023-08-26,Social Media,Gold,Lucknow,Uttar Pradesh,North
+606,Customer_606,Other,55+,11,2023-10-05,Paid Ads,Silver,Patna,Bihar,East
+607,Customer_607,Other,35-44,11,2023-03-06,Referral,Silver,Patna,Bihar,East
+608,Customer_608,Other,55+,12,2022-12-31,Referral,Bronze,Indore,Madhya Pradesh,Central
+609,Customer_609,Other,45-54,10,2023-12-23,Social Media,Gold,Kolkata,West Bengal,East
+610,Customer_610,Male,55+,2,2024-05-15,Organic,Platinum,Jaipur,Rajasthan,North
+611,Customer_611,Male,18-24,4,2022-10-25,Referral,Silver,Mumbai,Maharashtra,West
+612,Customer_612,Other,35-44,3,2023-08-10,Organic,Gold,Lucknow,Uttar Pradesh,North
+613,Customer_613,Other,18-24,6,2023-02-22,Social Media,Bronze,Ahmedabad,Gujarat,West
+614,Customer_614,Other,55+,7,2023-04-05,Paid Ads,Gold,Bengaluru,Karnataka,South
+615,Customer_615,Female,45-54,7,2022-04-07,Referral,Bronze,Bengaluru,Karnataka,South
+616,Customer_616,Other,35-44,4,2022-01-27,Social Media,Silver,Mumbai,Maharashtra,West
+617,Customer_617,Other,55+,12,2024-01-24,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+618,Customer_618,Female,25-34,11,2023-08-26,Organic,Silver,Patna,Bihar,East
+619,Customer_619,Other,55+,2,2022-12-22,Social Media,Bronze,Jaipur,Rajasthan,North
+620,Customer_620,Female,55+,5,2024-05-27,Paid Ads,Silver,Pune,Maharashtra,West
+621,Customer_621,Male,35-44,8,2023-06-07,Paid Ads,Bronze,Hyderabad,Telangana,South
+622,Customer_622,Female,55+,1,2022-11-11,Referral,Platinum,Delhi NCR,Delhi,North
+623,Customer_623,Male,35-44,9,2024-01-04,Paid Ads,Silver,Chennai,Tamil Nadu,South
+624,Customer_624,Male,55+,3,2024-12-02,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+625,Customer_625,Female,25-34,4,2022-07-08,Referral,Gold,Mumbai,Maharashtra,West
+626,Customer_626,Female,25-34,10,2024-01-09,Social Media,Bronze,Kolkata,West Bengal,East
+627,Customer_627,Other,35-44,8,2022-08-23,Paid Ads,Silver,Hyderabad,Telangana,South
+628,Customer_628,Other,35-44,7,2022-03-23,Organic,Platinum,Bengaluru,Karnataka,South
+629,Customer_629,Other,35-44,1,2023-06-10,Referral,Platinum,Delhi NCR,Delhi,North
+630,Customer_630,Male,35-44,11,2024-09-23,Paid Ads,Gold,Patna,Bihar,East
+631,Customer_631,Male,18-24,3,2024-11-18,Organic,Bronze,Lucknow,Uttar Pradesh,North
+632,Customer_632,Other,25-34,11,2023-03-08,Social Media,Bronze,Patna,Bihar,East
+633,Customer_633,Other,45-54,11,2023-02-26,Organic,Silver,Patna,Bihar,East
+634,Customer_634,Female,35-44,1,2022-02-18,Organic,Bronze,Delhi NCR,Delhi,North
+635,Customer_635,Male,35-44,9,2022-04-22,Organic,Silver,Chennai,Tamil Nadu,South
+636,Customer_636,Female,45-54,8,2023-06-14,Social Media,Platinum,Hyderabad,Telangana,South
+637,Customer_637,Male,45-54,11,2023-10-10,Organic,Bronze,Patna,Bihar,East
+638,Customer_638,Other,55+,1,2022-05-10,Organic,Gold,Delhi NCR,Delhi,North
+639,Customer_639,Male,35-44,11,2024-10-26,Referral,Bronze,Patna,Bihar,East
+640,Customer_640,Female,45-54,7,2023-07-31,Organic,Platinum,Bengaluru,Karnataka,South
+641,Customer_641,Other,25-34,3,2022-11-17,Social Media,Gold,Lucknow,Uttar Pradesh,North
+642,Customer_642,Female,35-44,1,2022-10-23,Paid Ads,Bronze,Delhi NCR,Delhi,North
+643,Customer_643,Male,55+,10,2022-03-27,Social Media,Bronze,Kolkata,West Bengal,East
+644,Customer_644,Male,35-44,4,2023-09-17,Social Media,Silver,Mumbai,Maharashtra,West
+645,Customer_645,Male,25-34,10,2022-11-26,Referral,Silver,Kolkata,West Bengal,East
+646,Customer_646,Male,55+,1,2022-08-23,Social Media,Bronze,Delhi NCR,Delhi,North
+647,Customer_647,Other,18-24,5,2023-08-19,Organic,Silver,Pune,Maharashtra,West
+648,Customer_648,Female,35-44,3,2024-09-24,Paid Ads,Bronze,Lucknow,Uttar Pradesh,North
+649,Customer_649,Other,18-24,4,2023-08-07,Referral,Platinum,Mumbai,Maharashtra,West
+650,Customer_650,Female,55+,11,2024-07-11,Referral,Silver,Patna,Bihar,East
+651,Customer_651,Female,45-54,3,2024-01-17,Organic,Gold,Lucknow,Uttar Pradesh,North
+652,Customer_652,Male,45-54,5,2023-05-20,Referral,Silver,Pune,Maharashtra,West
+653,Customer_653,Female,45-54,8,2023-11-11,Referral,Gold,Hyderabad,Telangana,South
+654,Customer_654,Other,18-24,3,2024-09-24,Organic,Gold,Lucknow,Uttar Pradesh,North
+655,Customer_655,Other,25-34,5,2022-10-14,Organic,Bronze,Pune,Maharashtra,West
+656,Customer_656,Other,18-24,10,2022-02-08,Social Media,Silver,Kolkata,West Bengal,East
+657,Customer_657,Other,35-44,9,2022-03-17,Social Media,Silver,Chennai,Tamil Nadu,South
+658,Customer_658,Female,25-34,10,2024-01-20,Referral,Silver,Kolkata,West Bengal,East
+659,Customer_659,Other,55+,2,2024-08-09,Social Media,Gold,Jaipur,Rajasthan,North
+660,Customer_660,Male,25-34,10,2024-10-25,Paid Ads,Silver,Kolkata,West Bengal,East
+661,Customer_661,Male,25-34,10,2024-07-02,Paid Ads,Platinum,Kolkata,West Bengal,East
+662,Customer_662,Male,25-34,8,2024-01-05,Paid Ads,Bronze,Hyderabad,Telangana,South
+663,Customer_663,Female,25-34,1,2023-06-26,Paid Ads,Gold,Delhi NCR,Delhi,North
+664,Customer_664,Female,45-54,1,2024-03-05,Organic,Gold,Delhi NCR,Delhi,North
+665,Customer_665,Other,55+,11,2022-07-31,Referral,Gold,Patna,Bihar,East
+666,Customer_666,Female,45-54,6,2022-12-23,Organic,Gold,Ahmedabad,Gujarat,West
+667,Customer_667,Male,55+,7,2024-02-10,Referral,Gold,Bengaluru,Karnataka,South
+668,Customer_668,Female,55+,1,2024-09-24,Paid Ads,Platinum,Delhi NCR,Delhi,North
+669,Customer_669,Male,18-24,9,2022-12-06,Referral,Silver,Chennai,Tamil Nadu,South
+670,Customer_670,Male,25-34,6,2022-11-04,Organic,Silver,Ahmedabad,Gujarat,West
+671,Customer_671,Female,18-24,8,2024-04-29,Social Media,Platinum,Hyderabad,Telangana,South
+672,Customer_672,Other,25-34,11,2023-03-08,Social Media,Bronze,Patna,Bihar,East
+673,Customer_673,Male,25-34,10,2023-05-15,Paid Ads,Silver,Kolkata,West Bengal,East
+674,Customer_674,Male,55+,3,2024-11-15,Organic,Silver,Lucknow,Uttar Pradesh,North
+675,Customer_675,Male,55+,7,2023-06-13,Organic,Gold,Bengaluru,Karnataka,South
+676,Customer_676,Male,45-54,10,2022-06-25,Social Media,Platinum,Kolkata,West Bengal,East
+677,Customer_677,Male,45-54,10,2022-12-16,Paid Ads,Silver,Kolkata,West Bengal,East
+678,Customer_678,Female,25-34,12,2024-11-12,Referral,Platinum,Indore,Madhya Pradesh,Central
+679,Customer_679,Male,45-54,7,2022-05-21,Paid Ads,Bronze,Bengaluru,Karnataka,South
+680,Customer_680,Male,55+,9,2022-02-03,Social Media,Silver,Chennai,Tamil Nadu,South
+681,Customer_681,Male,45-54,10,2022-07-17,Organic,Bronze,Kolkata,West Bengal,East
+682,Customer_682,Female,25-34,10,2022-07-10,Organic,Platinum,Kolkata,West Bengal,East
+683,Customer_683,Female,35-44,1,2024-12-05,Social Media,Silver,Delhi NCR,Delhi,North
+684,Customer_684,Female,35-44,10,2024-09-14,Organic,Platinum,Kolkata,West Bengal,East
+685,Customer_685,Female,45-54,4,2022-10-02,Organic,Gold,Mumbai,Maharashtra,West
+686,Customer_686,Female,25-34,1,2024-04-16,Organic,Bronze,Delhi NCR,Delhi,North
+687,Customer_687,Male,45-54,11,2024-11-30,Paid Ads,Gold,Patna,Bihar,East
+688,Customer_688,Female,18-24,3,2024-04-17,Social Media,Gold,Lucknow,Uttar Pradesh,North
+689,Customer_689,Other,45-54,10,2023-06-20,Referral,Gold,Kolkata,West Bengal,East
+690,Customer_690,Male,45-54,9,2024-03-24,Social Media,Silver,Chennai,Tamil Nadu,South
+691,Customer_691,Other,55+,8,2024-01-29,Referral,Gold,Hyderabad,Telangana,South
+692,Customer_692,Other,45-54,12,2023-12-07,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+693,Customer_693,Female,25-34,2,2023-04-16,Paid Ads,Platinum,Jaipur,Rajasthan,North
+694,Customer_694,Other,55+,12,2023-11-25,Organic,Silver,Indore,Madhya Pradesh,Central
+695,Customer_695,Other,18-24,2,2024-03-07,Paid Ads,Platinum,Jaipur,Rajasthan,North
+696,Customer_696,Male,18-24,5,2024-06-10,Paid Ads,Gold,Pune,Maharashtra,West
+697,Customer_697,Other,18-24,12,2022-06-13,Social Media,Platinum,Indore,Madhya Pradesh,Central
+698,Customer_698,Female,55+,1,2024-12-03,Paid Ads,Platinum,Delhi NCR,Delhi,North
+699,Customer_699,Male,25-34,11,2024-06-18,Referral,Silver,Patna,Bihar,East
+700,Customer_700,Other,55+,9,2022-03-10,Paid Ads,Silver,Chennai,Tamil Nadu,South
+701,Customer_701,Female,25-34,11,2022-03-15,Organic,Silver,Patna,Bihar,East
+702,Customer_702,Female,45-54,6,2022-06-27,Social Media,Platinum,Ahmedabad,Gujarat,West
+703,Customer_703,Other,18-24,12,2023-02-15,Organic,Bronze,Indore,Madhya Pradesh,Central
+704,Customer_704,Other,55+,10,2023-08-06,Referral,Gold,Kolkata,West Bengal,East
+705,Customer_705,Male,55+,4,2023-07-21,Social Media,Platinum,Mumbai,Maharashtra,West
+706,Customer_706,Female,25-34,7,2022-01-10,Organic,Bronze,Bengaluru,Karnataka,South
+707,Customer_707,Female,35-44,2,2024-10-27,Referral,Gold,Jaipur,Rajasthan,North
+708,Customer_708,Female,55+,8,2024-06-25,Paid Ads,Gold,Hyderabad,Telangana,South
+709,Customer_709,Other,45-54,10,2024-07-28,Organic,Platinum,Kolkata,West Bengal,East
+710,Customer_710,Female,18-24,7,2022-08-27,Paid Ads,Silver,Bengaluru,Karnataka,South
+711,Customer_711,Female,35-44,9,2023-10-09,Organic,Gold,Chennai,Tamil Nadu,South
+712,Customer_712,Female,18-24,7,2023-05-24,Referral,Bronze,Bengaluru,Karnataka,South
+713,Customer_713,Female,35-44,6,2023-01-01,Paid Ads,Gold,Ahmedabad,Gujarat,West
+714,Customer_714,Other,25-34,8,2023-01-10,Paid Ads,Silver,Hyderabad,Telangana,South
+715,Customer_715,Female,25-34,4,2023-05-11,Paid Ads,Silver,Mumbai,Maharashtra,West
+716,Customer_716,Male,18-24,2,2023-12-31,Organic,Platinum,Jaipur,Rajasthan,North
+717,Customer_717,Other,18-24,8,2022-01-14,Referral,Gold,Hyderabad,Telangana,South
+718,Customer_718,Other,35-44,8,2024-10-05,Paid Ads,Gold,Hyderabad,Telangana,South
+719,Customer_719,Male,55+,3,2024-03-25,Organic,Platinum,Lucknow,Uttar Pradesh,North
+720,Customer_720,Other,18-24,9,2024-09-06,Referral,Platinum,Chennai,Tamil Nadu,South
+721,Customer_721,Female,18-24,12,2022-12-24,Social Media,Gold,Indore,Madhya Pradesh,Central
+722,Customer_722,Male,25-34,7,2022-01-18,Organic,Gold,Bengaluru,Karnataka,South
+723,Customer_723,Other,35-44,3,2024-01-11,Referral,Silver,Lucknow,Uttar Pradesh,North
+724,Customer_724,Female,55+,6,2023-07-06,Referral,Silver,Ahmedabad,Gujarat,West
+725,Customer_725,Female,25-34,7,2024-10-18,Referral,Gold,Bengaluru,Karnataka,South
+726,Customer_726,Female,45-54,3,2024-03-31,Paid Ads,Silver,Lucknow,Uttar Pradesh,North
+727,Customer_727,Other,35-44,4,2022-07-24,Social Media,Platinum,Mumbai,Maharashtra,West
+728,Customer_728,Male,25-34,8,2023-02-06,Organic,Silver,Hyderabad,Telangana,South
+729,Customer_729,Female,25-34,11,2024-05-13,Referral,Platinum,Patna,Bihar,East
+730,Customer_730,Female,55+,10,2023-09-07,Organic,Platinum,Kolkata,West Bengal,East
+731,Customer_731,Other,25-34,1,2022-07-22,Paid Ads,Gold,Delhi NCR,Delhi,North
+732,Customer_732,Other,18-24,8,2024-09-02,Referral,Gold,Hyderabad,Telangana,South
+733,Customer_733,Female,55+,9,2024-01-10,Referral,Gold,Chennai,Tamil Nadu,South
+734,Customer_734,Female,18-24,6,2022-02-10,Paid Ads,Silver,Ahmedabad,Gujarat,West
+735,Customer_735,Female,35-44,11,2023-08-06,Social Media,Platinum,Patna,Bihar,East
+736,Customer_736,Female,55+,5,2022-06-10,Social Media,Silver,Pune,Maharashtra,West
+737,Customer_737,Other,35-44,7,2022-12-10,Social Media,Bronze,Bengaluru,Karnataka,South
+738,Customer_738,Male,35-44,4,2022-06-12,Referral,Gold,Mumbai,Maharashtra,West
+739,Customer_739,Other,35-44,10,2023-08-20,Social Media,Gold,Kolkata,West Bengal,East
+740,Customer_740,Female,55+,9,2024-06-30,Social Media,Platinum,Chennai,Tamil Nadu,South
+741,Customer_741,Male,18-24,3,2022-12-09,Paid Ads,Gold,Lucknow,Uttar Pradesh,North
+742,Customer_742,Male,25-34,7,2022-06-13,Organic,Bronze,Bengaluru,Karnataka,South
+743,Customer_743,Female,55+,1,2022-05-11,Organic,Platinum,Delhi NCR,Delhi,North
+744,Customer_744,Male,18-24,5,2024-12-09,Paid Ads,Bronze,Pune,Maharashtra,West
+745,Customer_745,Female,25-34,4,2024-03-09,Referral,Platinum,Mumbai,Maharashtra,West
+746,Customer_746,Male,55+,3,2022-09-16,Organic,Bronze,Lucknow,Uttar Pradesh,North
+747,Customer_747,Female,45-54,8,2024-01-01,Referral,Platinum,Hyderabad,Telangana,South
+748,Customer_748,Other,55+,3,2022-10-04,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+749,Customer_749,Other,55+,5,2024-12-08,Referral,Platinum,Pune,Maharashtra,West
+750,Customer_750,Male,45-54,5,2023-04-11,Referral,Platinum,Pune,Maharashtra,West
+751,Customer_751,Male,35-44,1,2023-06-17,Organic,Silver,Delhi NCR,Delhi,North
+752,Customer_752,Female,45-54,9,2023-12-06,Organic,Platinum,Chennai,Tamil Nadu,South
+753,Customer_753,Female,18-24,7,2024-09-04,Referral,Silver,Bengaluru,Karnataka,South
+754,Customer_754,Other,35-44,4,2022-01-15,Social Media,Platinum,Mumbai,Maharashtra,West
+755,Customer_755,Male,25-34,12,2024-03-19,Social Media,Platinum,Indore,Madhya Pradesh,Central
+756,Customer_756,Female,18-24,7,2023-03-28,Paid Ads,Gold,Bengaluru,Karnataka,South
+757,Customer_757,Other,55+,5,2023-08-07,Social Media,Silver,Pune,Maharashtra,West
+758,Customer_758,Male,25-34,5,2022-05-21,Organic,Platinum,Pune,Maharashtra,West
+759,Customer_759,Female,55+,8,2024-07-16,Paid Ads,Gold,Hyderabad,Telangana,South
+760,Customer_760,Male,18-24,9,2022-02-09,Organic,Silver,Chennai,Tamil Nadu,South
+761,Customer_761,Female,35-44,3,2022-07-29,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+762,Customer_762,Male,25-34,1,2023-04-22,Social Media,Silver,Delhi NCR,Delhi,North
+763,Customer_763,Female,35-44,8,2023-12-02,Referral,Platinum,Hyderabad,Telangana,South
+764,Customer_764,Female,18-24,3,2022-03-06,Organic,Gold,Lucknow,Uttar Pradesh,North
+765,Customer_765,Male,55+,8,2024-03-14,Paid Ads,Silver,Hyderabad,Telangana,South
+766,Customer_766,Female,18-24,2,2023-05-28,Paid Ads,Platinum,Jaipur,Rajasthan,North
+767,Customer_767,Male,18-24,4,2024-06-26,Social Media,Bronze,Mumbai,Maharashtra,West
+768,Customer_768,Other,25-34,8,2024-12-03,Social Media,Gold,Hyderabad,Telangana,South
+769,Customer_769,Male,18-24,12,2023-10-24,Organic,Gold,Indore,Madhya Pradesh,Central
+770,Customer_770,Other,35-44,4,2024-09-12,Referral,Bronze,Mumbai,Maharashtra,West
+771,Customer_771,Male,25-34,11,2023-03-23,Social Media,Gold,Patna,Bihar,East
+772,Customer_772,Male,35-44,10,2022-01-31,Organic,Platinum,Kolkata,West Bengal,East
+773,Customer_773,Male,18-24,10,2023-05-13,Social Media,Silver,Kolkata,West Bengal,East
+774,Customer_774,Male,25-34,3,2024-01-31,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+775,Customer_775,Other,18-24,1,2023-11-25,Referral,Silver,Delhi NCR,Delhi,North
+776,Customer_776,Male,45-54,4,2022-08-08,Referral,Gold,Mumbai,Maharashtra,West
+777,Customer_777,Other,25-34,1,2024-06-17,Social Media,Gold,Delhi NCR,Delhi,North
+778,Customer_778,Female,18-24,8,2022-10-03,Social Media,Gold,Hyderabad,Telangana,South
+779,Customer_779,Male,55+,3,2024-09-30,Referral,Gold,Lucknow,Uttar Pradesh,North
+780,Customer_780,Female,55+,9,2024-08-17,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+781,Customer_781,Male,45-54,5,2024-12-23,Referral,Gold,Pune,Maharashtra,West
+782,Customer_782,Male,55+,7,2024-07-18,Paid Ads,Bronze,Bengaluru,Karnataka,South
+783,Customer_783,Other,25-34,6,2024-01-16,Organic,Platinum,Ahmedabad,Gujarat,West
+784,Customer_784,Other,45-54,9,2023-01-24,Paid Ads,Gold,Chennai,Tamil Nadu,South
+785,Customer_785,Female,35-44,2,2023-10-23,Organic,Bronze,Jaipur,Rajasthan,North
+786,Customer_786,Male,25-34,1,2022-03-31,Paid Ads,Bronze,Delhi NCR,Delhi,North
+787,Customer_787,Male,18-24,1,2024-09-21,Social Media,Platinum,Delhi NCR,Delhi,North
+788,Customer_788,Other,55+,5,2024-12-12,Organic,Gold,Pune,Maharashtra,West
+789,Customer_789,Other,18-24,1,2023-03-29,Paid Ads,Platinum,Delhi NCR,Delhi,North
+790,Customer_790,Female,18-24,6,2022-06-13,Social Media,Gold,Ahmedabad,Gujarat,West
+791,Customer_791,Other,35-44,9,2022-04-30,Organic,Bronze,Chennai,Tamil Nadu,South
+792,Customer_792,Male,25-34,9,2023-09-15,Organic,Bronze,Chennai,Tamil Nadu,South
+793,Customer_793,Other,45-54,4,2023-04-19,Paid Ads,Silver,Mumbai,Maharashtra,West
+794,Customer_794,Other,55+,7,2023-01-02,Organic,Gold,Bengaluru,Karnataka,South
+795,Customer_795,Other,45-54,2,2024-07-28,Paid Ads,Silver,Jaipur,Rajasthan,North
+796,Customer_796,Other,35-44,11,2024-04-02,Paid Ads,Platinum,Patna,Bihar,East
+797,Customer_797,Female,55+,6,2023-12-23,Referral,Platinum,Ahmedabad,Gujarat,West
+798,Customer_798,Other,35-44,10,2024-05-31,Paid Ads,Silver,Kolkata,West Bengal,East
+799,Customer_799,Other,35-44,6,2024-02-08,Social Media,Platinum,Ahmedabad,Gujarat,West
+800,Customer_800,Male,18-24,5,2024-03-24,Organic,Silver,Pune,Maharashtra,West
+801,Customer_801,Male,35-44,4,2023-09-11,Paid Ads,Gold,Mumbai,Maharashtra,West
+802,Customer_802,Other,35-44,9,2022-02-14,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+803,Customer_803,Female,35-44,3,2022-03-19,Paid Ads,Gold,Lucknow,Uttar Pradesh,North
+804,Customer_804,Other,25-34,4,2024-01-22,Referral,Gold,Mumbai,Maharashtra,West
+805,Customer_805,Other,45-54,10,2022-07-08,Paid Ads,Bronze,Kolkata,West Bengal,East
+806,Customer_806,Female,25-34,8,2023-10-27,Organic,Gold,Hyderabad,Telangana,South
+807,Customer_807,Other,55+,7,2022-03-18,Organic,Bronze,Bengaluru,Karnataka,South
+808,Customer_808,Female,45-54,7,2023-11-16,Organic,Silver,Bengaluru,Karnataka,South
+809,Customer_809,Other,45-54,1,2022-01-24,Referral,Bronze,Delhi NCR,Delhi,North
+810,Customer_810,Other,55+,3,2023-10-16,Referral,Silver,Lucknow,Uttar Pradesh,North
+811,Customer_811,Male,45-54,8,2022-11-10,Organic,Silver,Hyderabad,Telangana,South
+812,Customer_812,Female,45-54,3,2024-06-03,Paid Ads,Gold,Lucknow,Uttar Pradesh,North
+813,Customer_813,Female,55+,12,2022-06-19,Organic,Platinum,Indore,Madhya Pradesh,Central
+814,Customer_814,Male,45-54,9,2023-06-22,Social Media,Silver,Chennai,Tamil Nadu,South
+815,Customer_815,Female,55+,4,2022-10-04,Social Media,Platinum,Mumbai,Maharashtra,West
+816,Customer_816,Other,55+,12,2023-02-06,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+817,Customer_817,Female,45-54,6,2022-05-27,Organic,Bronze,Ahmedabad,Gujarat,West
+818,Customer_818,Female,35-44,6,2024-04-27,Paid Ads,Gold,Ahmedabad,Gujarat,West
+819,Customer_819,Other,18-24,5,2023-12-07,Paid Ads,Gold,Pune,Maharashtra,West
+820,Customer_820,Other,25-34,8,2024-06-24,Organic,Silver,Hyderabad,Telangana,South
+821,Customer_821,Other,35-44,3,2023-02-13,Organic,Bronze,Lucknow,Uttar Pradesh,North
+822,Customer_822,Male,55+,3,2022-04-22,Referral,Bronze,Lucknow,Uttar Pradesh,North
+823,Customer_823,Other,18-24,5,2023-12-05,Social Media,Platinum,Pune,Maharashtra,West
+824,Customer_824,Female,25-34,12,2022-02-16,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+825,Customer_825,Female,55+,8,2024-12-07,Paid Ads,Bronze,Hyderabad,Telangana,South
+826,Customer_826,Other,55+,1,2024-02-11,Referral,Silver,Delhi NCR,Delhi,North
+827,Customer_827,Female,25-34,12,2022-05-04,Referral,Bronze,Indore,Madhya Pradesh,Central
+828,Customer_828,Other,18-24,2,2024-08-10,Social Media,Gold,Jaipur,Rajasthan,North
+829,Customer_829,Male,18-24,5,2024-01-08,Social Media,Silver,Pune,Maharashtra,West
+830,Customer_830,Other,18-24,6,2024-02-19,Social Media,Bronze,Ahmedabad,Gujarat,West
+831,Customer_831,Male,55+,8,2023-01-17,Organic,Bronze,Hyderabad,Telangana,South
+832,Customer_832,Other,35-44,6,2023-05-22,Social Media,Platinum,Ahmedabad,Gujarat,West
+833,Customer_833,Male,35-44,11,2022-11-18,Referral,Gold,Patna,Bihar,East
+834,Customer_834,Male,55+,5,2023-09-12,Organic,Gold,Pune,Maharashtra,West
+835,Customer_835,Male,55+,5,2024-03-03,Paid Ads,Silver,Pune,Maharashtra,West
+836,Customer_836,Female,25-34,2,2023-12-01,Social Media,Silver,Jaipur,Rajasthan,North
+837,Customer_837,Male,55+,3,2024-05-04,Social Media,Gold,Lucknow,Uttar Pradesh,North
+838,Customer_838,Female,55+,3,2023-11-06,Paid Ads,Silver,Lucknow,Uttar Pradesh,North
+839,Customer_839,Male,35-44,12,2023-02-19,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+840,Customer_840,Other,55+,3,2022-10-25,Referral,Bronze,Lucknow,Uttar Pradesh,North
+841,Customer_841,Other,18-24,3,2024-12-27,Referral,Silver,Lucknow,Uttar Pradesh,North
+842,Customer_842,Female,45-54,7,2022-03-02,Referral,Platinum,Bengaluru,Karnataka,South
+843,Customer_843,Male,25-34,2,2023-07-15,Paid Ads,Silver,Jaipur,Rajasthan,North
+844,Customer_844,Other,55+,5,2022-02-23,Paid Ads,Silver,Pune,Maharashtra,West
+845,Customer_845,Other,18-24,6,2023-04-18,Organic,Platinum,Ahmedabad,Gujarat,West
+846,Customer_846,Other,55+,8,2022-10-02,Referral,Silver,Hyderabad,Telangana,South
+847,Customer_847,Female,45-54,3,2024-03-04,Paid Ads,Silver,Lucknow,Uttar Pradesh,North
+848,Customer_848,Male,45-54,1,2023-04-09,Referral,Platinum,Delhi NCR,Delhi,North
+849,Customer_849,Other,25-34,4,2023-04-01,Organic,Silver,Mumbai,Maharashtra,West
+850,Customer_850,Other,45-54,12,2024-06-18,Referral,Platinum,Indore,Madhya Pradesh,Central
+851,Customer_851,Female,45-54,1,2023-05-21,Social Media,Gold,Delhi NCR,Delhi,North
+852,Customer_852,Other,55+,10,2024-03-18,Organic,Bronze,Kolkata,West Bengal,East
+853,Customer_853,Female,18-24,4,2024-07-13,Social Media,Bronze,Mumbai,Maharashtra,West
+854,Customer_854,Other,18-24,4,2024-03-04,Referral,Platinum,Mumbai,Maharashtra,West
+855,Customer_855,Female,35-44,8,2024-03-26,Paid Ads,Platinum,Hyderabad,Telangana,South
+856,Customer_856,Other,18-24,12,2023-08-26,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+857,Customer_857,Male,55+,2,2024-07-14,Paid Ads,Silver,Jaipur,Rajasthan,North
+858,Customer_858,Female,35-44,8,2024-03-16,Organic,Silver,Hyderabad,Telangana,South
+859,Customer_859,Other,25-34,8,2024-07-18,Organic,Gold,Hyderabad,Telangana,South
+860,Customer_860,Other,25-34,12,2023-10-26,Organic,Bronze,Indore,Madhya Pradesh,Central
+861,Customer_861,Other,45-54,11,2022-08-22,Referral,Bronze,Patna,Bihar,East
+862,Customer_862,Other,45-54,12,2024-12-08,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+863,Customer_863,Male,25-34,6,2024-02-19,Paid Ads,Silver,Ahmedabad,Gujarat,West
+864,Customer_864,Male,18-24,7,2022-10-24,Referral,Gold,Bengaluru,Karnataka,South
+865,Customer_865,Female,25-34,2,2024-07-02,Paid Ads,Silver,Jaipur,Rajasthan,North
+866,Customer_866,Other,35-44,1,2022-01-08,Social Media,Platinum,Delhi NCR,Delhi,North
+867,Customer_867,Other,18-24,10,2024-10-18,Social Media,Silver,Kolkata,West Bengal,East
+868,Customer_868,Other,45-54,8,2023-03-21,Social Media,Platinum,Hyderabad,Telangana,South
+869,Customer_869,Other,55+,1,2022-06-12,Paid Ads,Gold,Delhi NCR,Delhi,North
+870,Customer_870,Male,25-34,3,2023-03-02,Organic,Gold,Lucknow,Uttar Pradesh,North
+871,Customer_871,Male,18-24,11,2022-03-17,Referral,Gold,Patna,Bihar,East
+872,Customer_872,Male,18-24,7,2022-06-29,Paid Ads,Silver,Bengaluru,Karnataka,South
+873,Customer_873,Other,55+,10,2023-08-06,Paid Ads,Platinum,Kolkata,West Bengal,East
+874,Customer_874,Male,18-24,5,2024-01-08,Referral,Gold,Pune,Maharashtra,West
+875,Customer_875,Male,45-54,9,2024-02-16,Organic,Gold,Chennai,Tamil Nadu,South
+876,Customer_876,Male,18-24,12,2024-08-22,Referral,Gold,Indore,Madhya Pradesh,Central
+877,Customer_877,Female,55+,4,2024-12-15,Paid Ads,Bronze,Mumbai,Maharashtra,West
+878,Customer_878,Other,55+,2,2022-08-12,Social Media,Gold,Jaipur,Rajasthan,North
+879,Customer_879,Other,35-44,5,2024-05-24,Referral,Silver,Pune,Maharashtra,West
+880,Customer_880,Other,45-54,8,2024-10-13,Paid Ads,Silver,Hyderabad,Telangana,South
+881,Customer_881,Male,18-24,2,2023-08-18,Organic,Platinum,Jaipur,Rajasthan,North
+882,Customer_882,Other,25-34,10,2022-08-30,Social Media,Platinum,Kolkata,West Bengal,East
+883,Customer_883,Female,35-44,9,2022-04-04,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+884,Customer_884,Other,35-44,5,2023-02-17,Organic,Gold,Pune,Maharashtra,West
+885,Customer_885,Other,55+,6,2023-09-07,Organic,Bronze,Ahmedabad,Gujarat,West
+886,Customer_886,Female,45-54,12,2023-11-14,Organic,Silver,Indore,Madhya Pradesh,Central
+887,Customer_887,Female,35-44,11,2023-02-02,Social Media,Platinum,Patna,Bihar,East
+888,Customer_888,Other,25-34,8,2022-03-14,Paid Ads,Platinum,Hyderabad,Telangana,South
+889,Customer_889,Female,45-54,12,2023-11-18,Organic,Gold,Indore,Madhya Pradesh,Central
+890,Customer_890,Other,55+,1,2023-10-09,Paid Ads,Gold,Delhi NCR,Delhi,North
+891,Customer_891,Male,25-34,5,2023-12-26,Organic,Gold,Pune,Maharashtra,West
+892,Customer_892,Other,55+,3,2024-02-08,Social Media,Silver,Lucknow,Uttar Pradesh,North
+893,Customer_893,Female,35-44,12,2022-08-28,Organic,Gold,Indore,Madhya Pradesh,Central
+894,Customer_894,Male,45-54,4,2024-04-27,Referral,Platinum,Mumbai,Maharashtra,West
+895,Customer_895,Male,55+,5,2023-09-12,Paid Ads,Bronze,Pune,Maharashtra,West
+896,Customer_896,Male,25-34,2,2024-02-06,Social Media,Bronze,Jaipur,Rajasthan,North
+897,Customer_897,Other,25-34,4,2024-09-15,Referral,Platinum,Mumbai,Maharashtra,West
+898,Customer_898,Female,35-44,3,2024-12-08,Organic,Silver,Lucknow,Uttar Pradesh,North
+899,Customer_899,Other,18-24,8,2023-02-25,Social Media,Bronze,Hyderabad,Telangana,South
+900,Customer_900,Female,18-24,11,2022-01-09,Organic,Gold,Patna,Bihar,East
+901,Customer_901,Male,18-24,9,2024-08-14,Referral,Bronze,Chennai,Tamil Nadu,South
+902,Customer_902,Other,25-34,6,2023-10-02,Paid Ads,Silver,Ahmedabad,Gujarat,West
+903,Customer_903,Female,55+,6,2023-08-10,Social Media,Bronze,Ahmedabad,Gujarat,West
+904,Customer_904,Male,25-34,5,2023-07-13,Organic,Bronze,Pune,Maharashtra,West
+905,Customer_905,Male,25-34,9,2024-11-18,Referral,Gold,Chennai,Tamil Nadu,South
+906,Customer_906,Male,35-44,10,2023-07-10,Paid Ads,Silver,Kolkata,West Bengal,East
+907,Customer_907,Female,55+,6,2022-05-26,Social Media,Bronze,Ahmedabad,Gujarat,West
+908,Customer_908,Male,45-54,11,2022-09-24,Organic,Bronze,Patna,Bihar,East
+909,Customer_909,Male,18-24,7,2024-02-25,Social Media,Silver,Bengaluru,Karnataka,South
+910,Customer_910,Other,35-44,5,2024-07-02,Referral,Silver,Pune,Maharashtra,West
+911,Customer_911,Male,45-54,10,2024-12-28,Paid Ads,Bronze,Kolkata,West Bengal,East
+912,Customer_912,Male,45-54,5,2024-08-17,Social Media,Platinum,Pune,Maharashtra,West
+913,Customer_913,Male,25-34,10,2023-04-20,Referral,Gold,Kolkata,West Bengal,East
+914,Customer_914,Male,35-44,6,2024-03-13,Social Media,Platinum,Ahmedabad,Gujarat,West
+915,Customer_915,Male,45-54,2,2022-03-03,Referral,Platinum,Jaipur,Rajasthan,North
+916,Customer_916,Male,35-44,6,2024-08-02,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+917,Customer_917,Other,18-24,6,2024-04-10,Organic,Gold,Ahmedabad,Gujarat,West
+918,Customer_918,Female,45-54,10,2024-12-27,Social Media,Silver,Kolkata,West Bengal,East
+919,Customer_919,Other,25-34,8,2023-05-15,Social Media,Bronze,Hyderabad,Telangana,South
+920,Customer_920,Male,55+,7,2023-11-29,Social Media,Gold,Bengaluru,Karnataka,South
+921,Customer_921,Male,18-24,12,2023-04-29,Social Media,Bronze,Indore,Madhya Pradesh,Central
+922,Customer_922,Female,55+,2,2024-08-06,Social Media,Silver,Jaipur,Rajasthan,North
+923,Customer_923,Female,18-24,10,2023-09-23,Organic,Platinum,Kolkata,West Bengal,East
+924,Customer_924,Female,18-24,2,2023-11-02,Paid Ads,Silver,Jaipur,Rajasthan,North
+925,Customer_925,Male,25-34,8,2022-01-01,Referral,Platinum,Hyderabad,Telangana,South
+926,Customer_926,Male,25-34,11,2024-07-04,Referral,Gold,Patna,Bihar,East
+927,Customer_927,Female,35-44,2,2023-09-16,Organic,Platinum,Jaipur,Rajasthan,North
+928,Customer_928,Female,18-24,6,2022-09-19,Organic,Bronze,Ahmedabad,Gujarat,West
+929,Customer_929,Male,35-44,1,2024-01-06,Paid Ads,Platinum,Delhi NCR,Delhi,North
+930,Customer_930,Other,35-44,12,2024-03-18,Social Media,Platinum,Indore,Madhya Pradesh,Central
+931,Customer_931,Female,55+,4,2024-02-21,Paid Ads,Platinum,Mumbai,Maharashtra,West
+932,Customer_932,Male,55+,7,2022-10-12,Referral,Platinum,Bengaluru,Karnataka,South
+933,Customer_933,Female,25-34,3,2022-11-12,Organic,Bronze,Lucknow,Uttar Pradesh,North
+934,Customer_934,Male,45-54,11,2022-02-02,Social Media,Silver,Patna,Bihar,East
+935,Customer_935,Male,45-54,8,2022-06-23,Social Media,Silver,Hyderabad,Telangana,South
+936,Customer_936,Other,45-54,9,2024-07-19,Social Media,Platinum,Chennai,Tamil Nadu,South
+937,Customer_937,Male,25-34,7,2023-12-29,Organic,Platinum,Bengaluru,Karnataka,South
+938,Customer_938,Other,55+,5,2023-04-30,Social Media,Gold,Pune,Maharashtra,West
+939,Customer_939,Male,55+,8,2022-03-10,Referral,Bronze,Hyderabad,Telangana,South
+940,Customer_940,Other,18-24,3,2024-09-13,Referral,Platinum,Lucknow,Uttar Pradesh,North
+941,Customer_941,Male,55+,10,2024-11-24,Organic,Silver,Kolkata,West Bengal,East
+942,Customer_942,Other,18-24,11,2024-08-25,Referral,Bronze,Patna,Bihar,East
+943,Customer_943,Other,18-24,8,2023-12-05,Social Media,Platinum,Hyderabad,Telangana,South
+944,Customer_944,Female,35-44,5,2023-11-10,Referral,Silver,Pune,Maharashtra,West
+945,Customer_945,Other,55+,12,2022-03-14,Referral,Gold,Indore,Madhya Pradesh,Central
+946,Customer_946,Other,45-54,10,2022-05-06,Paid Ads,Bronze,Kolkata,West Bengal,East
+947,Customer_947,Other,55+,1,2023-08-21,Referral,Platinum,Delhi NCR,Delhi,North
+948,Customer_948,Male,55+,2,2022-06-18,Referral,Gold,Jaipur,Rajasthan,North
+949,Customer_949,Other,35-44,5,2022-09-29,Referral,Bronze,Pune,Maharashtra,West
+950,Customer_950,Other,25-34,10,2022-08-17,Paid Ads,Platinum,Kolkata,West Bengal,East
+951,Customer_951,Male,35-44,12,2024-01-28,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+952,Customer_952,Other,18-24,6,2023-01-06,Organic,Silver,Ahmedabad,Gujarat,West
+953,Customer_953,Female,45-54,7,2022-11-12,Paid Ads,Platinum,Bengaluru,Karnataka,South
+954,Customer_954,Male,55+,12,2022-12-09,Referral,Bronze,Indore,Madhya Pradesh,Central
+955,Customer_955,Male,18-24,3,2023-06-26,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+956,Customer_956,Female,45-54,12,2024-09-02,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+957,Customer_957,Female,35-44,3,2024-03-09,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+958,Customer_958,Female,45-54,11,2023-08-15,Referral,Bronze,Patna,Bihar,East
+959,Customer_959,Other,35-44,7,2022-07-19,Referral,Gold,Bengaluru,Karnataka,South
+960,Customer_960,Female,18-24,5,2023-07-08,Social Media,Platinum,Pune,Maharashtra,West
+961,Customer_961,Other,55+,4,2023-05-11,Referral,Silver,Mumbai,Maharashtra,West
+962,Customer_962,Other,18-24,11,2023-10-04,Organic,Bronze,Patna,Bihar,East
+963,Customer_963,Female,18-24,9,2022-01-25,Organic,Platinum,Chennai,Tamil Nadu,South
+964,Customer_964,Male,35-44,5,2023-12-21,Paid Ads,Bronze,Pune,Maharashtra,West
+965,Customer_965,Other,18-24,1,2022-02-18,Paid Ads,Bronze,Delhi NCR,Delhi,North
+966,Customer_966,Male,55+,3,2022-09-03,Social Media,Silver,Lucknow,Uttar Pradesh,North
+967,Customer_967,Other,25-34,5,2022-08-16,Referral,Platinum,Pune,Maharashtra,West
+968,Customer_968,Other,45-54,5,2022-06-05,Social Media,Gold,Pune,Maharashtra,West
+969,Customer_969,Male,18-24,5,2023-06-12,Organic,Platinum,Pune,Maharashtra,West
+970,Customer_970,Female,18-24,5,2024-03-06,Referral,Silver,Pune,Maharashtra,West
+971,Customer_971,Male,45-54,4,2024-06-21,Social Media,Silver,Mumbai,Maharashtra,West
+972,Customer_972,Male,25-34,9,2024-10-04,Social Media,Silver,Chennai,Tamil Nadu,South
+973,Customer_973,Female,35-44,2,2022-08-06,Organic,Bronze,Jaipur,Rajasthan,North
+974,Customer_974,Other,35-44,8,2022-05-25,Organic,Platinum,Hyderabad,Telangana,South
+975,Customer_975,Other,18-24,1,2022-11-01,Social Media,Gold,Delhi NCR,Delhi,North
+976,Customer_976,Other,35-44,7,2022-11-07,Organic,Platinum,Bengaluru,Karnataka,South
+977,Customer_977,Female,45-54,12,2024-09-06,Organic,Silver,Indore,Madhya Pradesh,Central
+978,Customer_978,Female,45-54,2,2022-01-07,Referral,Gold,Jaipur,Rajasthan,North
+979,Customer_979,Female,18-24,11,2023-09-13,Organic,Gold,Patna,Bihar,East
+980,Customer_980,Female,18-24,8,2024-12-30,Referral,Silver,Hyderabad,Telangana,South
+981,Customer_981,Other,18-24,7,2022-12-28,Paid Ads,Gold,Bengaluru,Karnataka,South
+982,Customer_982,Male,35-44,8,2024-03-09,Organic,Platinum,Hyderabad,Telangana,South
+983,Customer_983,Male,18-24,4,2023-01-24,Organic,Silver,Mumbai,Maharashtra,West
+984,Customer_984,Female,18-24,9,2024-09-28,Referral,Platinum,Chennai,Tamil Nadu,South
+985,Customer_985,Female,18-24,1,2024-12-29,Referral,Bronze,Delhi NCR,Delhi,North
+986,Customer_986,Other,18-24,7,2023-11-23,Organic,Silver,Bengaluru,Karnataka,South
+987,Customer_987,Female,55+,3,2024-12-07,Paid Ads,Bronze,Lucknow,Uttar Pradesh,North
+988,Customer_988,Other,25-34,8,2022-03-17,Organic,Platinum,Hyderabad,Telangana,South
+989,Customer_989,Male,25-34,1,2022-04-04,Paid Ads,Bronze,Delhi NCR,Delhi,North
+990,Customer_990,Male,45-54,10,2023-09-22,Paid Ads,Bronze,Kolkata,West Bengal,East
+991,Customer_991,Male,45-54,10,2022-08-06,Paid Ads,Bronze,Kolkata,West Bengal,East
+992,Customer_992,Female,35-44,12,2023-02-20,Social Media,Gold,Indore,Madhya Pradesh,Central
+993,Customer_993,Other,55+,9,2022-09-05,Paid Ads,Gold,Chennai,Tamil Nadu,South
+994,Customer_994,Male,55+,3,2023-03-13,Referral,Bronze,Lucknow,Uttar Pradesh,North
+995,Customer_995,Female,25-34,7,2022-09-05,Paid Ads,Gold,Bengaluru,Karnataka,South
+996,Customer_996,Female,25-34,10,2022-12-04,Organic,Silver,Kolkata,West Bengal,East
+997,Customer_997,Other,55+,7,2022-07-24,Paid Ads,Bronze,Bengaluru,Karnataka,South
+998,Customer_998,Male,18-24,1,2024-09-24,Paid Ads,Bronze,Delhi NCR,Delhi,North
+999,Customer_999,Female,45-54,12,2023-08-05,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+1000,Customer_1000,Other,35-44,9,2022-10-21,Social Media,Platinum,Chennai,Tamil Nadu,South
+1001,Customer_1001,Male,55+,12,2023-05-05,Organic,Silver,Indore,Madhya Pradesh,Central
+1002,Customer_1002,Other,18-24,11,2024-10-20,Referral,Gold,Patna,Bihar,East
+1003,Customer_1003,Male,55+,4,2024-05-07,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1004,Customer_1004,Male,55+,6,2024-12-21,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1005,Customer_1005,Female,18-24,4,2023-03-03,Organic,Silver,Mumbai,Maharashtra,West
+1006,Customer_1006,Female,25-34,3,2024-08-29,Organic,Bronze,Lucknow,Uttar Pradesh,North
+1007,Customer_1007,Female,25-34,7,2024-01-16,Referral,Gold,Bengaluru,Karnataka,South
+1008,Customer_1008,Male,18-24,12,2024-07-17,Organic,Silver,Indore,Madhya Pradesh,Central
+1009,Customer_1009,Male,45-54,9,2022-11-20,Organic,Bronze,Chennai,Tamil Nadu,South
+1010,Customer_1010,Other,45-54,10,2023-04-27,Referral,Platinum,Kolkata,West Bengal,East
+1011,Customer_1011,Other,35-44,4,2023-02-12,Organic,Gold,Mumbai,Maharashtra,West
+1012,Customer_1012,Male,25-34,12,2023-04-12,Social Media,Silver,Indore,Madhya Pradesh,Central
+1013,Customer_1013,Male,18-24,8,2024-02-09,Social Media,Bronze,Hyderabad,Telangana,South
+1014,Customer_1014,Male,25-34,10,2024-06-11,Social Media,Silver,Kolkata,West Bengal,East
+1015,Customer_1015,Female,25-34,8,2024-03-04,Paid Ads,Gold,Hyderabad,Telangana,South
+1016,Customer_1016,Male,35-44,3,2023-07-07,Organic,Bronze,Lucknow,Uttar Pradesh,North
+1017,Customer_1017,Male,18-24,8,2023-07-29,Social Media,Platinum,Hyderabad,Telangana,South
+1018,Customer_1018,Female,25-34,5,2022-12-17,Paid Ads,Silver,Pune,Maharashtra,West
+1019,Customer_1019,Male,45-54,9,2023-04-16,Social Media,Silver,Chennai,Tamil Nadu,South
+1020,Customer_1020,Female,35-44,1,2024-08-27,Social Media,Silver,Delhi NCR,Delhi,North
+1021,Customer_1021,Female,45-54,10,2023-05-23,Paid Ads,Silver,Kolkata,West Bengal,East
+1022,Customer_1022,Female,18-24,1,2022-01-11,Social Media,Bronze,Delhi NCR,Delhi,North
+1023,Customer_1023,Other,45-54,8,2024-05-21,Organic,Platinum,Hyderabad,Telangana,South
+1024,Customer_1024,Male,18-24,9,2024-10-11,Organic,Platinum,Chennai,Tamil Nadu,South
+1025,Customer_1025,Male,35-44,5,2023-03-23,Paid Ads,Bronze,Pune,Maharashtra,West
+1026,Customer_1026,Female,35-44,3,2022-02-02,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+1027,Customer_1027,Female,25-34,12,2024-07-20,Social Media,Silver,Indore,Madhya Pradesh,Central
+1028,Customer_1028,Other,45-54,12,2024-01-29,Organic,Bronze,Indore,Madhya Pradesh,Central
+1029,Customer_1029,Other,35-44,9,2024-02-28,Organic,Gold,Chennai,Tamil Nadu,South
+1030,Customer_1030,Female,55+,9,2024-05-22,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+1031,Customer_1031,Other,18-24,9,2023-11-19,Referral,Bronze,Chennai,Tamil Nadu,South
+1032,Customer_1032,Female,35-44,8,2022-08-16,Organic,Gold,Hyderabad,Telangana,South
+1033,Customer_1033,Male,55+,12,2024-01-21,Organic,Silver,Indore,Madhya Pradesh,Central
+1034,Customer_1034,Female,25-34,9,2022-10-11,Organic,Platinum,Chennai,Tamil Nadu,South
+1035,Customer_1035,Other,25-34,6,2023-03-06,Referral,Gold,Ahmedabad,Gujarat,West
+1036,Customer_1036,Other,45-54,5,2024-10-28,Organic,Bronze,Pune,Maharashtra,West
+1037,Customer_1037,Female,45-54,8,2024-02-03,Organic,Platinum,Hyderabad,Telangana,South
+1038,Customer_1038,Other,55+,5,2024-12-25,Social Media,Gold,Pune,Maharashtra,West
+1039,Customer_1039,Male,45-54,2,2022-05-15,Organic,Platinum,Jaipur,Rajasthan,North
+1040,Customer_1040,Female,18-24,2,2023-01-02,Paid Ads,Gold,Jaipur,Rajasthan,North
+1041,Customer_1041,Other,25-34,8,2022-08-18,Paid Ads,Silver,Hyderabad,Telangana,South
+1042,Customer_1042,Other,18-24,5,2024-12-02,Social Media,Silver,Pune,Maharashtra,West
+1043,Customer_1043,Female,45-54,8,2024-08-28,Organic,Gold,Hyderabad,Telangana,South
+1044,Customer_1044,Male,18-24,4,2023-01-23,Referral,Platinum,Mumbai,Maharashtra,West
+1045,Customer_1045,Other,35-44,8,2023-12-04,Social Media,Platinum,Hyderabad,Telangana,South
+1046,Customer_1046,Other,25-34,5,2023-09-15,Paid Ads,Gold,Pune,Maharashtra,West
+1047,Customer_1047,Female,35-44,5,2023-04-10,Organic,Silver,Pune,Maharashtra,West
+1048,Customer_1048,Female,45-54,3,2023-12-25,Paid Ads,Gold,Lucknow,Uttar Pradesh,North
+1049,Customer_1049,Male,25-34,3,2023-01-09,Paid Ads,Bronze,Lucknow,Uttar Pradesh,North
+1050,Customer_1050,Female,55+,3,2022-03-26,Social Media,Gold,Lucknow,Uttar Pradesh,North
+1051,Customer_1051,Male,25-34,9,2024-01-28,Organic,Gold,Chennai,Tamil Nadu,South
+1052,Customer_1052,Male,35-44,8,2023-12-06,Paid Ads,Gold,Hyderabad,Telangana,South
+1053,Customer_1053,Male,45-54,8,2022-09-06,Paid Ads,Platinum,Hyderabad,Telangana,South
+1054,Customer_1054,Male,18-24,12,2023-10-18,Referral,Gold,Indore,Madhya Pradesh,Central
+1055,Customer_1055,Female,55+,11,2024-08-28,Paid Ads,Platinum,Patna,Bihar,East
+1056,Customer_1056,Other,18-24,12,2023-11-25,Social Media,Bronze,Indore,Madhya Pradesh,Central
+1057,Customer_1057,Other,55+,2,2022-10-13,Referral,Bronze,Jaipur,Rajasthan,North
+1058,Customer_1058,Other,25-34,8,2024-04-02,Referral,Bronze,Hyderabad,Telangana,South
+1059,Customer_1059,Male,55+,11,2023-10-31,Paid Ads,Silver,Patna,Bihar,East
+1060,Customer_1060,Male,18-24,2,2023-07-24,Social Media,Bronze,Jaipur,Rajasthan,North
+1061,Customer_1061,Female,25-34,8,2024-11-14,Referral,Bronze,Hyderabad,Telangana,South
+1062,Customer_1062,Female,25-34,12,2024-01-10,Social Media,Gold,Indore,Madhya Pradesh,Central
+1063,Customer_1063,Female,18-24,5,2024-03-01,Referral,Gold,Pune,Maharashtra,West
+1064,Customer_1064,Female,55+,2,2023-09-23,Paid Ads,Platinum,Jaipur,Rajasthan,North
+1065,Customer_1065,Female,35-44,3,2024-05-01,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1066,Customer_1066,Other,55+,2,2022-10-13,Paid Ads,Silver,Jaipur,Rajasthan,North
+1067,Customer_1067,Female,55+,6,2023-09-14,Organic,Platinum,Ahmedabad,Gujarat,West
+1068,Customer_1068,Male,45-54,11,2022-07-01,Referral,Platinum,Patna,Bihar,East
+1069,Customer_1069,Other,45-54,12,2022-12-25,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+1070,Customer_1070,Female,35-44,9,2023-01-16,Social Media,Bronze,Chennai,Tamil Nadu,South
+1071,Customer_1071,Other,35-44,8,2023-09-11,Social Media,Silver,Hyderabad,Telangana,South
+1072,Customer_1072,Male,25-34,5,2022-02-24,Referral,Platinum,Pune,Maharashtra,West
+1073,Customer_1073,Other,35-44,7,2022-09-12,Paid Ads,Platinum,Bengaluru,Karnataka,South
+1074,Customer_1074,Male,18-24,5,2023-05-17,Social Media,Bronze,Pune,Maharashtra,West
+1075,Customer_1075,Other,45-54,10,2024-01-11,Social Media,Gold,Kolkata,West Bengal,East
+1076,Customer_1076,Other,18-24,6,2024-09-01,Organic,Gold,Ahmedabad,Gujarat,West
+1077,Customer_1077,Other,18-24,3,2022-11-30,Referral,Platinum,Lucknow,Uttar Pradesh,North
+1078,Customer_1078,Female,25-34,1,2022-10-05,Referral,Gold,Delhi NCR,Delhi,North
+1079,Customer_1079,Other,35-44,1,2024-05-09,Referral,Gold,Delhi NCR,Delhi,North
+1080,Customer_1080,Other,18-24,9,2024-12-20,Paid Ads,Silver,Chennai,Tamil Nadu,South
+1081,Customer_1081,Other,25-34,9,2022-07-13,Referral,Gold,Chennai,Tamil Nadu,South
+1082,Customer_1082,Female,35-44,2,2023-09-09,Referral,Silver,Jaipur,Rajasthan,North
+1083,Customer_1083,Male,55+,5,2022-01-27,Referral,Platinum,Pune,Maharashtra,West
+1084,Customer_1084,Female,25-34,2,2024-04-23,Paid Ads,Silver,Jaipur,Rajasthan,North
+1085,Customer_1085,Male,25-34,9,2024-10-27,Organic,Platinum,Chennai,Tamil Nadu,South
+1086,Customer_1086,Male,18-24,3,2024-08-01,Organic,Platinum,Lucknow,Uttar Pradesh,North
+1087,Customer_1087,Female,35-44,3,2023-12-15,Social Media,Gold,Lucknow,Uttar Pradesh,North
+1088,Customer_1088,Other,35-44,1,2022-12-19,Organic,Silver,Delhi NCR,Delhi,North
+1089,Customer_1089,Other,25-34,12,2022-09-21,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+1090,Customer_1090,Male,25-34,2,2022-09-14,Social Media,Bronze,Jaipur,Rajasthan,North
+1091,Customer_1091,Male,45-54,7,2022-06-09,Organic,Silver,Bengaluru,Karnataka,South
+1092,Customer_1092,Male,55+,10,2022-08-09,Organic,Platinum,Kolkata,West Bengal,East
+1093,Customer_1093,Female,18-24,2,2022-09-01,Referral,Bronze,Jaipur,Rajasthan,North
+1094,Customer_1094,Male,55+,4,2022-07-17,Paid Ads,Silver,Mumbai,Maharashtra,West
+1095,Customer_1095,Male,18-24,3,2023-12-21,Referral,Gold,Lucknow,Uttar Pradesh,North
+1096,Customer_1096,Male,55+,12,2023-12-23,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+1097,Customer_1097,Other,18-24,9,2022-07-22,Paid Ads,Silver,Chennai,Tamil Nadu,South
+1098,Customer_1098,Male,55+,1,2023-08-01,Organic,Silver,Delhi NCR,Delhi,North
+1099,Customer_1099,Other,45-54,6,2024-10-29,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1100,Customer_1100,Male,35-44,7,2022-08-08,Social Media,Silver,Bengaluru,Karnataka,South
+1101,Customer_1101,Male,45-54,2,2024-11-19,Referral,Bronze,Jaipur,Rajasthan,North
+1102,Customer_1102,Male,55+,3,2024-08-12,Social Media,Gold,Lucknow,Uttar Pradesh,North
+1103,Customer_1103,Other,18-24,2,2023-08-14,Referral,Platinum,Jaipur,Rajasthan,North
+1104,Customer_1104,Female,35-44,8,2022-08-25,Referral,Platinum,Hyderabad,Telangana,South
+1105,Customer_1105,Other,45-54,5,2023-04-08,Social Media,Silver,Pune,Maharashtra,West
+1106,Customer_1106,Female,35-44,3,2022-05-23,Organic,Platinum,Lucknow,Uttar Pradesh,North
+1107,Customer_1107,Female,45-54,9,2022-08-04,Organic,Bronze,Chennai,Tamil Nadu,South
+1108,Customer_1108,Female,45-54,12,2022-10-21,Organic,Silver,Indore,Madhya Pradesh,Central
+1109,Customer_1109,Female,25-34,6,2022-05-13,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1110,Customer_1110,Male,45-54,12,2022-09-09,Social Media,Gold,Indore,Madhya Pradesh,Central
+1111,Customer_1111,Other,45-54,6,2023-07-14,Social Media,Platinum,Ahmedabad,Gujarat,West
+1112,Customer_1112,Other,35-44,3,2024-09-19,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+1113,Customer_1113,Female,45-54,8,2022-09-08,Paid Ads,Silver,Hyderabad,Telangana,South
+1114,Customer_1114,Male,18-24,2,2022-03-02,Social Media,Bronze,Jaipur,Rajasthan,North
+1115,Customer_1115,Female,55+,11,2023-01-02,Referral,Silver,Patna,Bihar,East
+1116,Customer_1116,Other,55+,2,2023-09-13,Organic,Platinum,Jaipur,Rajasthan,North
+1117,Customer_1117,Male,35-44,11,2024-08-12,Social Media,Platinum,Patna,Bihar,East
+1118,Customer_1118,Female,55+,6,2024-10-30,Organic,Bronze,Ahmedabad,Gujarat,West
+1119,Customer_1119,Male,45-54,8,2024-05-31,Referral,Platinum,Hyderabad,Telangana,South
+1120,Customer_1120,Female,18-24,1,2024-06-25,Paid Ads,Gold,Delhi NCR,Delhi,North
+1121,Customer_1121,Female,45-54,3,2022-12-03,Referral,Platinum,Lucknow,Uttar Pradesh,North
+1122,Customer_1122,Male,55+,11,2024-09-25,Social Media,Platinum,Patna,Bihar,East
+1123,Customer_1123,Other,25-34,9,2024-09-01,Organic,Platinum,Chennai,Tamil Nadu,South
+1124,Customer_1124,Female,55+,7,2023-06-24,Referral,Gold,Bengaluru,Karnataka,South
+1125,Customer_1125,Male,18-24,10,2023-10-19,Organic,Silver,Kolkata,West Bengal,East
+1126,Customer_1126,Female,55+,1,2024-01-21,Referral,Platinum,Delhi NCR,Delhi,North
+1127,Customer_1127,Female,35-44,6,2022-07-19,Social Media,Gold,Ahmedabad,Gujarat,West
+1128,Customer_1128,Other,25-34,4,2022-04-26,Paid Ads,Gold,Mumbai,Maharashtra,West
+1129,Customer_1129,Other,18-24,5,2022-06-23,Organic,Gold,Pune,Maharashtra,West
+1130,Customer_1130,Male,55+,6,2022-12-14,Organic,Platinum,Ahmedabad,Gujarat,West
+1131,Customer_1131,Other,55+,7,2024-05-15,Referral,Bronze,Bengaluru,Karnataka,South
+1132,Customer_1132,Other,18-24,6,2024-08-19,Social Media,Platinum,Ahmedabad,Gujarat,West
+1133,Customer_1133,Other,18-24,8,2023-10-23,Organic,Silver,Hyderabad,Telangana,South
+1134,Customer_1134,Female,55+,11,2023-11-20,Referral,Silver,Patna,Bihar,East
+1135,Customer_1135,Female,45-54,4,2023-09-06,Social Media,Bronze,Mumbai,Maharashtra,West
+1136,Customer_1136,Female,35-44,1,2023-03-15,Referral,Platinum,Delhi NCR,Delhi,North
+1137,Customer_1137,Other,18-24,12,2023-04-08,Organic,Gold,Indore,Madhya Pradesh,Central
+1138,Customer_1138,Male,55+,9,2023-07-14,Social Media,Platinum,Chennai,Tamil Nadu,South
+1139,Customer_1139,Female,18-24,11,2023-03-06,Referral,Gold,Patna,Bihar,East
+1140,Customer_1140,Other,55+,6,2024-06-05,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1141,Customer_1141,Female,55+,9,2024-04-03,Social Media,Silver,Chennai,Tamil Nadu,South
+1142,Customer_1142,Other,55+,3,2022-02-08,Social Media,Silver,Lucknow,Uttar Pradesh,North
+1143,Customer_1143,Female,55+,10,2024-08-15,Social Media,Bronze,Kolkata,West Bengal,East
+1144,Customer_1144,Male,35-44,8,2024-12-05,Paid Ads,Silver,Hyderabad,Telangana,South
+1145,Customer_1145,Other,35-44,7,2022-11-05,Social Media,Gold,Bengaluru,Karnataka,South
+1146,Customer_1146,Other,25-34,7,2022-05-12,Referral,Gold,Bengaluru,Karnataka,South
+1147,Customer_1147,Female,55+,4,2022-11-25,Social Media,Silver,Mumbai,Maharashtra,West
+1148,Customer_1148,Male,25-34,1,2022-08-21,Paid Ads,Gold,Delhi NCR,Delhi,North
+1149,Customer_1149,Female,55+,7,2024-08-08,Social Media,Bronze,Bengaluru,Karnataka,South
+1150,Customer_1150,Male,35-44,3,2023-02-18,Organic,Gold,Lucknow,Uttar Pradesh,North
+1151,Customer_1151,Other,55+,3,2023-07-23,Organic,Platinum,Lucknow,Uttar Pradesh,North
+1152,Customer_1152,Male,18-24,6,2022-02-10,Referral,Bronze,Ahmedabad,Gujarat,West
+1153,Customer_1153,Female,18-24,7,2024-04-13,Paid Ads,Silver,Bengaluru,Karnataka,South
+1154,Customer_1154,Other,55+,2,2022-08-18,Referral,Platinum,Jaipur,Rajasthan,North
+1155,Customer_1155,Male,55+,2,2022-07-04,Referral,Gold,Jaipur,Rajasthan,North
+1156,Customer_1156,Other,25-34,7,2024-03-09,Paid Ads,Silver,Bengaluru,Karnataka,South
+1157,Customer_1157,Male,25-34,5,2022-08-07,Social Media,Platinum,Pune,Maharashtra,West
+1158,Customer_1158,Other,18-24,8,2023-06-05,Referral,Bronze,Hyderabad,Telangana,South
+1159,Customer_1159,Other,45-54,8,2023-10-11,Paid Ads,Gold,Hyderabad,Telangana,South
+1160,Customer_1160,Female,45-54,12,2022-10-24,Referral,Gold,Indore,Madhya Pradesh,Central
+1161,Customer_1161,Other,55+,1,2022-02-13,Organic,Silver,Delhi NCR,Delhi,North
+1162,Customer_1162,Other,45-54,5,2023-06-03,Referral,Bronze,Pune,Maharashtra,West
+1163,Customer_1163,Male,45-54,7,2024-12-31,Organic,Platinum,Bengaluru,Karnataka,South
+1164,Customer_1164,Female,18-24,4,2023-06-08,Referral,Silver,Mumbai,Maharashtra,West
+1165,Customer_1165,Female,35-44,11,2022-11-25,Social Media,Bronze,Patna,Bihar,East
+1166,Customer_1166,Male,45-54,8,2023-07-16,Social Media,Gold,Hyderabad,Telangana,South
+1167,Customer_1167,Male,25-34,12,2024-05-15,Referral,Bronze,Indore,Madhya Pradesh,Central
+1168,Customer_1168,Female,55+,12,2023-12-22,Referral,Platinum,Indore,Madhya Pradesh,Central
+1169,Customer_1169,Male,25-34,11,2022-02-26,Social Media,Silver,Patna,Bihar,East
+1170,Customer_1170,Female,25-34,11,2022-01-07,Referral,Gold,Patna,Bihar,East
+1171,Customer_1171,Male,25-34,4,2022-06-18,Paid Ads,Platinum,Mumbai,Maharashtra,West
+1172,Customer_1172,Female,45-54,12,2023-10-17,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+1173,Customer_1173,Other,55+,6,2022-12-22,Referral,Silver,Ahmedabad,Gujarat,West
+1174,Customer_1174,Female,35-44,3,2022-06-22,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1175,Customer_1175,Male,18-24,9,2023-04-05,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+1176,Customer_1176,Male,35-44,12,2024-08-05,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+1177,Customer_1177,Other,45-54,10,2024-04-01,Referral,Silver,Kolkata,West Bengal,East
+1178,Customer_1178,Female,25-34,10,2022-07-02,Organic,Bronze,Kolkata,West Bengal,East
+1179,Customer_1179,Female,45-54,11,2024-12-12,Social Media,Bronze,Patna,Bihar,East
+1180,Customer_1180,Other,25-34,4,2023-04-05,Referral,Gold,Mumbai,Maharashtra,West
+1181,Customer_1181,Female,25-34,7,2024-10-09,Paid Ads,Silver,Bengaluru,Karnataka,South
+1182,Customer_1182,Other,25-34,7,2023-08-03,Paid Ads,Platinum,Bengaluru,Karnataka,South
+1183,Customer_1183,Male,35-44,5,2022-10-26,Paid Ads,Platinum,Pune,Maharashtra,West
+1184,Customer_1184,Female,55+,11,2023-05-24,Social Media,Bronze,Patna,Bihar,East
+1185,Customer_1185,Female,25-34,6,2022-01-22,Social Media,Silver,Ahmedabad,Gujarat,West
+1186,Customer_1186,Other,45-54,12,2024-02-25,Referral,Bronze,Indore,Madhya Pradesh,Central
+1187,Customer_1187,Other,18-24,1,2022-07-15,Referral,Silver,Delhi NCR,Delhi,North
+1188,Customer_1188,Female,55+,11,2024-08-22,Organic,Bronze,Patna,Bihar,East
+1189,Customer_1189,Other,55+,7,2023-06-04,Referral,Platinum,Bengaluru,Karnataka,South
+1190,Customer_1190,Male,55+,1,2024-01-30,Paid Ads,Gold,Delhi NCR,Delhi,North
+1191,Customer_1191,Other,45-54,6,2022-12-14,Social Media,Silver,Ahmedabad,Gujarat,West
+1192,Customer_1192,Female,55+,7,2022-07-03,Paid Ads,Gold,Bengaluru,Karnataka,South
+1193,Customer_1193,Female,18-24,3,2022-08-28,Social Media,Gold,Lucknow,Uttar Pradesh,North
+1194,Customer_1194,Female,35-44,5,2024-01-09,Referral,Gold,Pune,Maharashtra,West
+1195,Customer_1195,Male,35-44,12,2024-06-11,Social Media,Silver,Indore,Madhya Pradesh,Central
+1196,Customer_1196,Male,25-34,3,2024-06-20,Organic,Silver,Lucknow,Uttar Pradesh,North
+1197,Customer_1197,Male,45-54,5,2023-01-11,Paid Ads,Platinum,Pune,Maharashtra,West
+1198,Customer_1198,Male,45-54,1,2024-06-12,Social Media,Gold,Delhi NCR,Delhi,North
+1199,Customer_1199,Female,45-54,2,2024-09-20,Paid Ads,Bronze,Jaipur,Rajasthan,North
+1200,Customer_1200,Male,25-34,5,2023-12-17,Paid Ads,Silver,Pune,Maharashtra,West
+1201,Customer_1201,Female,55+,11,2024-11-07,Paid Ads,Bronze,Patna,Bihar,East
+1202,Customer_1202,Other,25-34,7,2024-12-13,Organic,Silver,Bengaluru,Karnataka,South
+1203,Customer_1203,Other,18-24,6,2024-10-17,Organic,Gold,Ahmedabad,Gujarat,West
+1204,Customer_1204,Female,35-44,10,2022-09-07,Organic,Gold,Kolkata,West Bengal,East
+1205,Customer_1205,Male,18-24,8,2022-11-11,Social Media,Platinum,Hyderabad,Telangana,South
+1206,Customer_1206,Other,18-24,6,2023-07-06,Organic,Platinum,Ahmedabad,Gujarat,West
+1207,Customer_1207,Other,55+,3,2023-10-28,Paid Ads,Bronze,Lucknow,Uttar Pradesh,North
+1208,Customer_1208,Female,18-24,12,2023-08-03,Organic,Platinum,Indore,Madhya Pradesh,Central
+1209,Customer_1209,Female,35-44,3,2022-07-09,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+1210,Customer_1210,Male,25-34,3,2022-07-02,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1211,Customer_1211,Other,25-34,2,2023-08-07,Referral,Platinum,Jaipur,Rajasthan,North
+1212,Customer_1212,Other,35-44,11,2024-06-04,Paid Ads,Gold,Patna,Bihar,East
+1213,Customer_1213,Female,55+,4,2022-07-16,Social Media,Platinum,Mumbai,Maharashtra,West
+1214,Customer_1214,Female,35-44,10,2024-03-05,Social Media,Bronze,Kolkata,West Bengal,East
+1215,Customer_1215,Female,55+,3,2024-05-15,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1216,Customer_1216,Male,55+,6,2022-07-10,Social Media,Silver,Ahmedabad,Gujarat,West
+1217,Customer_1217,Female,55+,11,2022-11-14,Organic,Gold,Patna,Bihar,East
+1218,Customer_1218,Female,18-24,8,2024-08-16,Referral,Silver,Hyderabad,Telangana,South
+1219,Customer_1219,Other,35-44,4,2022-09-19,Social Media,Gold,Mumbai,Maharashtra,West
+1220,Customer_1220,Other,18-24,1,2022-04-08,Organic,Platinum,Delhi NCR,Delhi,North
+1221,Customer_1221,Male,45-54,11,2024-04-25,Referral,Gold,Patna,Bihar,East
+1222,Customer_1222,Other,18-24,9,2023-06-06,Organic,Bronze,Chennai,Tamil Nadu,South
+1223,Customer_1223,Male,25-34,7,2024-08-05,Organic,Bronze,Bengaluru,Karnataka,South
+1224,Customer_1224,Other,35-44,6,2024-05-02,Social Media,Platinum,Ahmedabad,Gujarat,West
+1225,Customer_1225,Female,25-34,4,2023-06-27,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1226,Customer_1226,Other,18-24,7,2023-06-16,Organic,Bronze,Bengaluru,Karnataka,South
+1227,Customer_1227,Male,18-24,3,2024-03-19,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1228,Customer_1228,Other,55+,12,2024-04-09,Social Media,Gold,Indore,Madhya Pradesh,Central
+1229,Customer_1229,Other,45-54,5,2024-01-09,Organic,Silver,Pune,Maharashtra,West
+1230,Customer_1230,Male,25-34,2,2022-10-04,Organic,Silver,Jaipur,Rajasthan,North
+1231,Customer_1231,Male,45-54,11,2022-02-24,Paid Ads,Silver,Patna,Bihar,East
+1232,Customer_1232,Other,55+,4,2024-06-11,Organic,Gold,Mumbai,Maharashtra,West
+1233,Customer_1233,Male,45-54,7,2024-08-07,Organic,Bronze,Bengaluru,Karnataka,South
+1234,Customer_1234,Male,45-54,8,2022-12-07,Social Media,Bronze,Hyderabad,Telangana,South
+1235,Customer_1235,Other,25-34,4,2024-07-09,Referral,Platinum,Mumbai,Maharashtra,West
+1236,Customer_1236,Female,18-24,2,2022-04-15,Social Media,Platinum,Jaipur,Rajasthan,North
+1237,Customer_1237,Other,55+,10,2024-10-12,Referral,Bronze,Kolkata,West Bengal,East
+1238,Customer_1238,Female,45-54,9,2024-09-25,Social Media,Silver,Chennai,Tamil Nadu,South
+1239,Customer_1239,Other,18-24,7,2022-05-05,Referral,Bronze,Bengaluru,Karnataka,South
+1240,Customer_1240,Other,45-54,8,2023-07-03,Organic,Platinum,Hyderabad,Telangana,South
+1241,Customer_1241,Female,45-54,1,2023-12-12,Paid Ads,Gold,Delhi NCR,Delhi,North
+1242,Customer_1242,Female,35-44,8,2023-01-29,Paid Ads,Silver,Hyderabad,Telangana,South
+1243,Customer_1243,Other,45-54,3,2023-11-26,Referral,Platinum,Lucknow,Uttar Pradesh,North
+1244,Customer_1244,Other,35-44,8,2024-05-03,Paid Ads,Silver,Hyderabad,Telangana,South
+1245,Customer_1245,Other,18-24,11,2023-08-02,Social Media,Silver,Patna,Bihar,East
+1246,Customer_1246,Male,25-34,10,2022-12-21,Social Media,Bronze,Kolkata,West Bengal,East
+1247,Customer_1247,Female,35-44,4,2024-05-01,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1248,Customer_1248,Female,35-44,6,2022-02-07,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1249,Customer_1249,Male,18-24,6,2024-10-28,Social Media,Bronze,Ahmedabad,Gujarat,West
+1250,Customer_1250,Male,55+,4,2023-04-10,Social Media,Gold,Mumbai,Maharashtra,West
+1251,Customer_1251,Female,18-24,9,2023-11-28,Referral,Silver,Chennai,Tamil Nadu,South
+1252,Customer_1252,Other,18-24,12,2024-11-21,Organic,Platinum,Indore,Madhya Pradesh,Central
+1253,Customer_1253,Male,18-24,10,2024-07-25,Organic,Bronze,Kolkata,West Bengal,East
+1254,Customer_1254,Male,25-34,11,2024-11-04,Organic,Silver,Patna,Bihar,East
+1255,Customer_1255,Male,35-44,12,2024-01-11,Social Media,Platinum,Indore,Madhya Pradesh,Central
+1256,Customer_1256,Male,35-44,6,2022-07-23,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+1257,Customer_1257,Female,45-54,1,2023-02-18,Paid Ads,Platinum,Delhi NCR,Delhi,North
+1258,Customer_1258,Female,55+,3,2023-12-01,Organic,Gold,Lucknow,Uttar Pradesh,North
+1259,Customer_1259,Other,45-54,6,2024-02-02,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1260,Customer_1260,Female,25-34,3,2024-12-20,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1261,Customer_1261,Female,55+,11,2024-04-18,Referral,Bronze,Patna,Bihar,East
+1262,Customer_1262,Male,18-24,12,2024-06-25,Organic,Bronze,Indore,Madhya Pradesh,Central
+1263,Customer_1263,Female,45-54,3,2023-11-24,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+1264,Customer_1264,Male,25-34,10,2024-03-16,Organic,Gold,Kolkata,West Bengal,East
+1265,Customer_1265,Female,55+,5,2024-05-08,Referral,Gold,Pune,Maharashtra,West
+1266,Customer_1266,Female,55+,10,2022-01-17,Paid Ads,Platinum,Kolkata,West Bengal,East
+1267,Customer_1267,Other,25-34,9,2024-07-02,Social Media,Gold,Chennai,Tamil Nadu,South
+1268,Customer_1268,Male,35-44,2,2024-04-08,Organic,Gold,Jaipur,Rajasthan,North
+1269,Customer_1269,Other,25-34,9,2024-03-09,Referral,Silver,Chennai,Tamil Nadu,South
+1270,Customer_1270,Other,55+,5,2022-07-10,Referral,Silver,Pune,Maharashtra,West
+1271,Customer_1271,Male,55+,10,2022-02-17,Referral,Silver,Kolkata,West Bengal,East
+1272,Customer_1272,Other,45-54,9,2023-09-15,Organic,Bronze,Chennai,Tamil Nadu,South
+1273,Customer_1273,Female,55+,6,2024-02-03,Organic,Bronze,Ahmedabad,Gujarat,West
+1274,Customer_1274,Female,35-44,10,2022-09-13,Organic,Platinum,Kolkata,West Bengal,East
+1275,Customer_1275,Male,55+,10,2023-11-26,Paid Ads,Gold,Kolkata,West Bengal,East
+1276,Customer_1276,Female,55+,11,2023-09-05,Paid Ads,Platinum,Patna,Bihar,East
+1277,Customer_1277,Other,25-34,2,2024-11-30,Referral,Silver,Jaipur,Rajasthan,North
+1278,Customer_1278,Female,18-24,3,2024-01-10,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1279,Customer_1279,Male,18-24,7,2022-06-17,Paid Ads,Platinum,Bengaluru,Karnataka,South
+1280,Customer_1280,Female,18-24,6,2023-03-16,Social Media,Platinum,Ahmedabad,Gujarat,West
+1281,Customer_1281,Other,45-54,11,2023-06-25,Social Media,Platinum,Patna,Bihar,East
+1282,Customer_1282,Other,45-54,3,2024-09-29,Paid Ads,Silver,Lucknow,Uttar Pradesh,North
+1283,Customer_1283,Other,45-54,3,2024-09-19,Organic,Silver,Lucknow,Uttar Pradesh,North
+1284,Customer_1284,Female,18-24,12,2024-07-21,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+1285,Customer_1285,Other,45-54,2,2022-09-01,Organic,Gold,Jaipur,Rajasthan,North
+1286,Customer_1286,Male,55+,3,2023-08-17,Organic,Gold,Lucknow,Uttar Pradesh,North
+1287,Customer_1287,Female,35-44,5,2023-09-17,Social Media,Bronze,Pune,Maharashtra,West
+1288,Customer_1288,Male,55+,7,2022-10-20,Organic,Gold,Bengaluru,Karnataka,South
+1289,Customer_1289,Male,25-34,12,2023-08-04,Social Media,Bronze,Indore,Madhya Pradesh,Central
+1290,Customer_1290,Other,35-44,2,2022-09-08,Organic,Platinum,Jaipur,Rajasthan,North
+1291,Customer_1291,Other,35-44,10,2024-09-12,Social Media,Gold,Kolkata,West Bengal,East
+1292,Customer_1292,Female,55+,3,2024-02-12,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+1293,Customer_1293,Other,45-54,3,2024-07-10,Referral,Bronze,Lucknow,Uttar Pradesh,North
+1294,Customer_1294,Female,25-34,7,2024-04-18,Referral,Bronze,Bengaluru,Karnataka,South
+1295,Customer_1295,Other,35-44,11,2024-06-26,Organic,Silver,Patna,Bihar,East
+1296,Customer_1296,Other,35-44,9,2022-02-20,Organic,Bronze,Chennai,Tamil Nadu,South
+1297,Customer_1297,Other,55+,10,2023-01-30,Organic,Silver,Kolkata,West Bengal,East
+1298,Customer_1298,Other,18-24,2,2024-09-01,Paid Ads,Bronze,Jaipur,Rajasthan,North
+1299,Customer_1299,Male,25-34,12,2023-07-18,Social Media,Bronze,Indore,Madhya Pradesh,Central
+1300,Customer_1300,Other,35-44,7,2024-12-28,Organic,Platinum,Bengaluru,Karnataka,South
+1301,Customer_1301,Female,45-54,3,2022-02-17,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+1302,Customer_1302,Female,45-54,5,2024-12-17,Organic,Bronze,Pune,Maharashtra,West
+1303,Customer_1303,Other,25-34,5,2022-07-23,Paid Ads,Silver,Pune,Maharashtra,West
+1304,Customer_1304,Male,25-34,5,2023-06-08,Social Media,Silver,Pune,Maharashtra,West
+1305,Customer_1305,Other,35-44,3,2022-05-01,Organic,Bronze,Lucknow,Uttar Pradesh,North
+1306,Customer_1306,Female,18-24,6,2023-09-03,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1307,Customer_1307,Female,45-54,2,2023-10-26,Organic,Silver,Jaipur,Rajasthan,North
+1308,Customer_1308,Other,55+,4,2023-05-06,Social Media,Platinum,Mumbai,Maharashtra,West
+1309,Customer_1309,Female,18-24,6,2022-08-24,Social Media,Platinum,Ahmedabad,Gujarat,West
+1310,Customer_1310,Female,18-24,7,2022-05-15,Paid Ads,Bronze,Bengaluru,Karnataka,South
+1311,Customer_1311,Other,55+,11,2023-07-06,Organic,Silver,Patna,Bihar,East
+1312,Customer_1312,Female,55+,7,2022-09-15,Social Media,Bronze,Bengaluru,Karnataka,South
+1313,Customer_1313,Male,25-34,6,2024-10-21,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1314,Customer_1314,Other,45-54,1,2024-05-17,Organic,Platinum,Delhi NCR,Delhi,North
+1315,Customer_1315,Other,25-34,1,2023-08-16,Organic,Platinum,Delhi NCR,Delhi,North
+1316,Customer_1316,Other,35-44,11,2023-07-14,Social Media,Gold,Patna,Bihar,East
+1317,Customer_1317,Other,55+,5,2023-03-12,Organic,Silver,Pune,Maharashtra,West
+1318,Customer_1318,Other,18-24,5,2024-12-29,Organic,Platinum,Pune,Maharashtra,West
+1319,Customer_1319,Male,55+,5,2022-09-09,Social Media,Silver,Pune,Maharashtra,West
+1320,Customer_1320,Female,35-44,11,2024-10-30,Referral,Platinum,Patna,Bihar,East
+1321,Customer_1321,Male,35-44,6,2023-07-14,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1322,Customer_1322,Male,25-34,11,2023-11-04,Organic,Platinum,Patna,Bihar,East
+1323,Customer_1323,Male,25-34,7,2022-01-09,Social Media,Platinum,Bengaluru,Karnataka,South
+1324,Customer_1324,Other,18-24,9,2022-06-16,Organic,Platinum,Chennai,Tamil Nadu,South
+1325,Customer_1325,Female,45-54,10,2022-09-10,Referral,Platinum,Kolkata,West Bengal,East
+1326,Customer_1326,Other,18-24,2,2022-12-29,Social Media,Gold,Jaipur,Rajasthan,North
+1327,Customer_1327,Female,18-24,4,2023-01-31,Organic,Gold,Mumbai,Maharashtra,West
+1328,Customer_1328,Male,18-24,10,2024-01-03,Referral,Silver,Kolkata,West Bengal,East
+1329,Customer_1329,Female,35-44,1,2023-04-25,Referral,Platinum,Delhi NCR,Delhi,North
+1330,Customer_1330,Male,25-34,11,2023-03-05,Social Media,Bronze,Patna,Bihar,East
+1331,Customer_1331,Other,55+,8,2023-07-23,Paid Ads,Silver,Hyderabad,Telangana,South
+1332,Customer_1332,Male,55+,3,2022-12-26,Organic,Silver,Lucknow,Uttar Pradesh,North
+1333,Customer_1333,Other,25-34,9,2023-06-16,Referral,Silver,Chennai,Tamil Nadu,South
+1334,Customer_1334,Other,55+,10,2022-02-17,Referral,Platinum,Kolkata,West Bengal,East
+1335,Customer_1335,Female,18-24,6,2022-01-05,Social Media,Platinum,Ahmedabad,Gujarat,West
+1336,Customer_1336,Male,55+,8,2023-07-16,Social Media,Gold,Hyderabad,Telangana,South
+1337,Customer_1337,Male,25-34,1,2024-11-25,Referral,Platinum,Delhi NCR,Delhi,North
+1338,Customer_1338,Female,35-44,1,2024-12-26,Social Media,Silver,Delhi NCR,Delhi,North
+1339,Customer_1339,Male,55+,1,2023-11-17,Paid Ads,Platinum,Delhi NCR,Delhi,North
+1340,Customer_1340,Male,25-34,3,2022-06-02,Referral,Gold,Lucknow,Uttar Pradesh,North
+1341,Customer_1341,Other,18-24,1,2022-05-09,Social Media,Platinum,Delhi NCR,Delhi,North
+1342,Customer_1342,Other,35-44,5,2022-02-19,Paid Ads,Bronze,Pune,Maharashtra,West
+1343,Customer_1343,Male,35-44,1,2024-08-27,Referral,Silver,Delhi NCR,Delhi,North
+1344,Customer_1344,Other,55+,8,2022-05-30,Organic,Platinum,Hyderabad,Telangana,South
+1345,Customer_1345,Male,18-24,1,2022-09-13,Social Media,Gold,Delhi NCR,Delhi,North
+1346,Customer_1346,Male,18-24,8,2022-05-14,Organic,Gold,Hyderabad,Telangana,South
+1347,Customer_1347,Male,18-24,11,2024-06-03,Organic,Bronze,Patna,Bihar,East
+1348,Customer_1348,Female,45-54,2,2023-08-27,Social Media,Silver,Jaipur,Rajasthan,North
+1349,Customer_1349,Female,45-54,8,2022-01-22,Social Media,Bronze,Hyderabad,Telangana,South
+1350,Customer_1350,Other,18-24,8,2023-11-27,Referral,Silver,Hyderabad,Telangana,South
+1351,Customer_1351,Male,18-24,10,2022-08-10,Organic,Silver,Kolkata,West Bengal,East
+1352,Customer_1352,Other,55+,5,2022-09-16,Referral,Platinum,Pune,Maharashtra,West
+1353,Customer_1353,Other,55+,8,2024-09-12,Paid Ads,Silver,Hyderabad,Telangana,South
+1354,Customer_1354,Male,18-24,3,2022-10-09,Referral,Platinum,Lucknow,Uttar Pradesh,North
+1355,Customer_1355,Other,35-44,5,2024-11-16,Paid Ads,Silver,Pune,Maharashtra,West
+1356,Customer_1356,Female,55+,6,2024-08-19,Referral,Gold,Ahmedabad,Gujarat,West
+1357,Customer_1357,Other,55+,11,2022-01-17,Paid Ads,Bronze,Patna,Bihar,East
+1358,Customer_1358,Other,55+,1,2023-05-02,Social Media,Gold,Delhi NCR,Delhi,North
+1359,Customer_1359,Male,25-34,2,2023-02-05,Referral,Silver,Jaipur,Rajasthan,North
+1360,Customer_1360,Other,45-54,10,2024-09-01,Referral,Gold,Kolkata,West Bengal,East
+1361,Customer_1361,Female,35-44,3,2023-09-06,Organic,Platinum,Lucknow,Uttar Pradesh,North
+1362,Customer_1362,Female,25-34,1,2022-03-28,Paid Ads,Silver,Delhi NCR,Delhi,North
+1363,Customer_1363,Other,25-34,4,2024-08-13,Social Media,Gold,Mumbai,Maharashtra,West
+1364,Customer_1364,Male,45-54,3,2024-02-09,Organic,Gold,Lucknow,Uttar Pradesh,North
+1365,Customer_1365,Male,35-44,1,2022-01-21,Organic,Silver,Delhi NCR,Delhi,North
+1366,Customer_1366,Female,25-34,11,2023-08-19,Referral,Bronze,Patna,Bihar,East
+1367,Customer_1367,Male,25-34,5,2022-03-02,Paid Ads,Silver,Pune,Maharashtra,West
+1368,Customer_1368,Other,25-34,6,2023-06-21,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1369,Customer_1369,Male,25-34,5,2023-02-06,Organic,Bronze,Pune,Maharashtra,West
+1370,Customer_1370,Female,18-24,6,2022-10-09,Paid Ads,Gold,Ahmedabad,Gujarat,West
+1371,Customer_1371,Male,35-44,6,2024-07-23,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1372,Customer_1372,Male,25-34,3,2022-05-14,Paid Ads,Silver,Lucknow,Uttar Pradesh,North
+1373,Customer_1373,Female,35-44,6,2024-12-26,Social Media,Silver,Ahmedabad,Gujarat,West
+1374,Customer_1374,Other,55+,4,2022-04-05,Referral,Silver,Mumbai,Maharashtra,West
+1375,Customer_1375,Male,18-24,11,2023-11-03,Referral,Silver,Patna,Bihar,East
+1376,Customer_1376,Other,45-54,4,2024-11-06,Organic,Platinum,Mumbai,Maharashtra,West
+1377,Customer_1377,Male,55+,7,2022-05-13,Referral,Platinum,Bengaluru,Karnataka,South
+1378,Customer_1378,Female,25-34,6,2024-11-28,Referral,Platinum,Ahmedabad,Gujarat,West
+1379,Customer_1379,Female,35-44,10,2024-10-10,Social Media,Bronze,Kolkata,West Bengal,East
+1380,Customer_1380,Male,25-34,8,2023-03-01,Paid Ads,Platinum,Hyderabad,Telangana,South
+1381,Customer_1381,Female,45-54,7,2023-03-24,Paid Ads,Gold,Bengaluru,Karnataka,South
+1382,Customer_1382,Other,18-24,3,2023-06-06,Organic,Gold,Lucknow,Uttar Pradesh,North
+1383,Customer_1383,Other,35-44,4,2024-06-29,Organic,Platinum,Mumbai,Maharashtra,West
+1384,Customer_1384,Other,35-44,7,2024-11-15,Social Media,Platinum,Bengaluru,Karnataka,South
+1385,Customer_1385,Female,35-44,8,2024-06-04,Referral,Gold,Hyderabad,Telangana,South
+1386,Customer_1386,Male,25-34,8,2024-02-23,Paid Ads,Gold,Hyderabad,Telangana,South
+1387,Customer_1387,Female,18-24,5,2022-06-05,Organic,Gold,Pune,Maharashtra,West
+1388,Customer_1388,Male,18-24,2,2023-04-12,Referral,Bronze,Jaipur,Rajasthan,North
+1389,Customer_1389,Female,25-34,11,2023-02-15,Referral,Gold,Patna,Bihar,East
+1390,Customer_1390,Other,35-44,4,2023-09-12,Paid Ads,Gold,Mumbai,Maharashtra,West
+1391,Customer_1391,Female,35-44,6,2022-01-18,Social Media,Platinum,Ahmedabad,Gujarat,West
+1392,Customer_1392,Female,55+,3,2022-01-25,Social Media,Silver,Lucknow,Uttar Pradesh,North
+1393,Customer_1393,Other,25-34,8,2023-04-10,Paid Ads,Platinum,Hyderabad,Telangana,South
+1394,Customer_1394,Female,18-24,6,2024-08-02,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1395,Customer_1395,Male,45-54,8,2024-05-05,Organic,Gold,Hyderabad,Telangana,South
+1396,Customer_1396,Other,25-34,5,2022-10-12,Organic,Platinum,Pune,Maharashtra,West
+1397,Customer_1397,Female,25-34,7,2023-12-28,Social Media,Platinum,Bengaluru,Karnataka,South
+1398,Customer_1398,Female,55+,1,2023-09-06,Organic,Silver,Delhi NCR,Delhi,North
+1399,Customer_1399,Female,55+,11,2022-11-11,Social Media,Platinum,Patna,Bihar,East
+1400,Customer_1400,Female,18-24,9,2023-02-23,Social Media,Silver,Chennai,Tamil Nadu,South
+1401,Customer_1401,Male,35-44,10,2024-08-30,Social Media,Gold,Kolkata,West Bengal,East
+1402,Customer_1402,Male,18-24,11,2022-07-10,Paid Ads,Bronze,Patna,Bihar,East
+1403,Customer_1403,Male,25-34,4,2024-09-27,Organic,Platinum,Mumbai,Maharashtra,West
+1404,Customer_1404,Male,25-34,5,2023-08-05,Organic,Platinum,Pune,Maharashtra,West
+1405,Customer_1405,Female,55+,1,2022-04-28,Paid Ads,Gold,Delhi NCR,Delhi,North
+1406,Customer_1406,Female,25-34,2,2024-04-21,Paid Ads,Platinum,Jaipur,Rajasthan,North
+1407,Customer_1407,Other,18-24,7,2024-09-06,Paid Ads,Silver,Bengaluru,Karnataka,South
+1408,Customer_1408,Female,45-54,12,2023-02-26,Social Media,Silver,Indore,Madhya Pradesh,Central
+1409,Customer_1409,Other,25-34,9,2023-09-28,Social Media,Gold,Chennai,Tamil Nadu,South
+1410,Customer_1410,Male,25-34,8,2023-02-18,Organic,Platinum,Hyderabad,Telangana,South
+1411,Customer_1411,Other,35-44,10,2023-05-21,Social Media,Platinum,Kolkata,West Bengal,East
+1412,Customer_1412,Other,18-24,12,2024-08-05,Organic,Gold,Indore,Madhya Pradesh,Central
+1413,Customer_1413,Female,35-44,7,2024-07-23,Paid Ads,Platinum,Bengaluru,Karnataka,South
+1414,Customer_1414,Male,55+,12,2023-05-26,Social Media,Platinum,Indore,Madhya Pradesh,Central
+1415,Customer_1415,Other,25-34,12,2024-02-27,Organic,Platinum,Indore,Madhya Pradesh,Central
+1416,Customer_1416,Male,25-34,5,2022-03-31,Referral,Bronze,Pune,Maharashtra,West
+1417,Customer_1417,Female,45-54,9,2023-03-21,Organic,Gold,Chennai,Tamil Nadu,South
+1418,Customer_1418,Male,55+,6,2022-06-06,Social Media,Platinum,Ahmedabad,Gujarat,West
+1419,Customer_1419,Female,25-34,9,2022-12-04,Organic,Platinum,Chennai,Tamil Nadu,South
+1420,Customer_1420,Male,45-54,7,2022-02-24,Referral,Platinum,Bengaluru,Karnataka,South
+1421,Customer_1421,Female,18-24,1,2023-02-03,Referral,Bronze,Delhi NCR,Delhi,North
+1422,Customer_1422,Female,45-54,8,2022-10-07,Social Media,Bronze,Hyderabad,Telangana,South
+1423,Customer_1423,Other,25-34,12,2022-06-19,Social Media,Silver,Indore,Madhya Pradesh,Central
+1424,Customer_1424,Female,25-34,3,2024-08-22,Organic,Bronze,Lucknow,Uttar Pradesh,North
+1425,Customer_1425,Female,18-24,9,2022-12-29,Social Media,Silver,Chennai,Tamil Nadu,South
+1426,Customer_1426,Other,18-24,11,2022-06-08,Referral,Silver,Patna,Bihar,East
+1427,Customer_1427,Female,25-34,4,2024-06-21,Organic,Silver,Mumbai,Maharashtra,West
+1428,Customer_1428,Other,18-24,11,2024-06-24,Organic,Platinum,Patna,Bihar,East
+1429,Customer_1429,Female,18-24,10,2023-09-24,Organic,Bronze,Kolkata,West Bengal,East
+1430,Customer_1430,Male,25-34,6,2024-02-12,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1431,Customer_1431,Male,45-54,1,2022-07-07,Organic,Gold,Delhi NCR,Delhi,North
+1432,Customer_1432,Other,18-24,4,2023-01-29,Organic,Silver,Mumbai,Maharashtra,West
+1433,Customer_1433,Male,45-54,9,2022-12-09,Organic,Gold,Chennai,Tamil Nadu,South
+1434,Customer_1434,Other,25-34,10,2023-10-23,Paid Ads,Platinum,Kolkata,West Bengal,East
+1435,Customer_1435,Male,25-34,4,2024-05-26,Organic,Gold,Mumbai,Maharashtra,West
+1436,Customer_1436,Male,18-24,7,2023-10-25,Referral,Bronze,Bengaluru,Karnataka,South
+1437,Customer_1437,Male,45-54,4,2024-03-08,Organic,Gold,Mumbai,Maharashtra,West
+1438,Customer_1438,Male,18-24,4,2024-01-26,Social Media,Gold,Mumbai,Maharashtra,West
+1439,Customer_1439,Male,55+,10,2024-10-20,Paid Ads,Gold,Kolkata,West Bengal,East
+1440,Customer_1440,Other,35-44,11,2022-07-14,Social Media,Silver,Patna,Bihar,East
+1441,Customer_1441,Male,35-44,11,2023-11-12,Social Media,Bronze,Patna,Bihar,East
+1442,Customer_1442,Male,55+,10,2023-11-18,Social Media,Platinum,Kolkata,West Bengal,East
+1443,Customer_1443,Other,25-34,9,2024-11-12,Organic,Silver,Chennai,Tamil Nadu,South
+1444,Customer_1444,Other,18-24,5,2022-02-13,Paid Ads,Platinum,Pune,Maharashtra,West
+1445,Customer_1445,Other,18-24,1,2023-05-14,Paid Ads,Gold,Delhi NCR,Delhi,North
+1446,Customer_1446,Female,25-34,3,2024-10-18,Social Media,Silver,Lucknow,Uttar Pradesh,North
+1447,Customer_1447,Male,55+,8,2022-03-19,Referral,Silver,Hyderabad,Telangana,South
+1448,Customer_1448,Female,18-24,9,2023-07-24,Social Media,Gold,Chennai,Tamil Nadu,South
+1449,Customer_1449,Male,35-44,6,2022-02-18,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1450,Customer_1450,Other,25-34,11,2022-04-21,Paid Ads,Platinum,Patna,Bihar,East
+1451,Customer_1451,Female,25-34,8,2024-12-03,Organic,Bronze,Hyderabad,Telangana,South
+1452,Customer_1452,Male,25-34,1,2024-10-03,Paid Ads,Silver,Delhi NCR,Delhi,North
+1453,Customer_1453,Male,25-34,10,2022-09-15,Paid Ads,Silver,Kolkata,West Bengal,East
+1454,Customer_1454,Male,45-54,12,2024-11-05,Social Media,Gold,Indore,Madhya Pradesh,Central
+1455,Customer_1455,Other,25-34,4,2022-12-03,Social Media,Silver,Mumbai,Maharashtra,West
+1456,Customer_1456,Female,35-44,10,2023-05-25,Social Media,Silver,Kolkata,West Bengal,East
+1457,Customer_1457,Female,18-24,6,2023-07-11,Social Media,Platinum,Ahmedabad,Gujarat,West
+1458,Customer_1458,Female,45-54,7,2022-12-10,Social Media,Silver,Bengaluru,Karnataka,South
+1459,Customer_1459,Male,45-54,7,2024-09-14,Organic,Gold,Bengaluru,Karnataka,South
+1460,Customer_1460,Other,25-34,5,2022-11-09,Social Media,Platinum,Pune,Maharashtra,West
+1461,Customer_1461,Female,35-44,7,2023-09-19,Social Media,Bronze,Bengaluru,Karnataka,South
+1462,Customer_1462,Male,45-54,4,2023-11-14,Paid Ads,Silver,Mumbai,Maharashtra,West
+1463,Customer_1463,Male,55+,12,2022-01-09,Referral,Platinum,Indore,Madhya Pradesh,Central
+1464,Customer_1464,Female,45-54,12,2024-04-08,Referral,Platinum,Indore,Madhya Pradesh,Central
+1465,Customer_1465,Female,55+,2,2024-09-29,Social Media,Bronze,Jaipur,Rajasthan,North
+1466,Customer_1466,Female,55+,3,2022-09-12,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+1467,Customer_1467,Other,35-44,9,2023-06-07,Social Media,Gold,Chennai,Tamil Nadu,South
+1468,Customer_1468,Other,45-54,7,2022-04-29,Paid Ads,Silver,Bengaluru,Karnataka,South
+1469,Customer_1469,Male,35-44,11,2024-09-05,Organic,Silver,Patna,Bihar,East
+1470,Customer_1470,Other,45-54,11,2023-06-20,Paid Ads,Gold,Patna,Bihar,East
+1471,Customer_1471,Other,55+,11,2023-05-22,Paid Ads,Bronze,Patna,Bihar,East
+1472,Customer_1472,Male,45-54,7,2022-08-28,Organic,Silver,Bengaluru,Karnataka,South
+1473,Customer_1473,Male,45-54,5,2024-05-16,Referral,Platinum,Pune,Maharashtra,West
+1474,Customer_1474,Other,45-54,12,2023-09-23,Organic,Bronze,Indore,Madhya Pradesh,Central
+1475,Customer_1475,Male,35-44,12,2023-12-07,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+1476,Customer_1476,Male,25-34,8,2023-09-23,Organic,Bronze,Hyderabad,Telangana,South
+1477,Customer_1477,Other,45-54,9,2022-05-24,Social Media,Gold,Chennai,Tamil Nadu,South
+1478,Customer_1478,Male,25-34,6,2024-06-01,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1479,Customer_1479,Female,25-34,9,2023-02-10,Organic,Platinum,Chennai,Tamil Nadu,South
+1480,Customer_1480,Male,25-34,1,2023-03-12,Paid Ads,Silver,Delhi NCR,Delhi,North
+1481,Customer_1481,Female,45-54,11,2023-06-16,Organic,Silver,Patna,Bihar,East
+1482,Customer_1482,Female,18-24,7,2022-06-13,Organic,Gold,Bengaluru,Karnataka,South
+1483,Customer_1483,Female,18-24,10,2022-05-12,Paid Ads,Platinum,Kolkata,West Bengal,East
+1484,Customer_1484,Other,18-24,1,2024-09-20,Organic,Gold,Delhi NCR,Delhi,North
+1485,Customer_1485,Other,55+,1,2022-01-15,Organic,Silver,Delhi NCR,Delhi,North
+1486,Customer_1486,Male,45-54,10,2024-12-05,Referral,Platinum,Kolkata,West Bengal,East
+1487,Customer_1487,Female,55+,7,2024-08-27,Referral,Gold,Bengaluru,Karnataka,South
+1488,Customer_1488,Female,25-34,6,2023-12-04,Social Media,Platinum,Ahmedabad,Gujarat,West
+1489,Customer_1489,Female,35-44,2,2022-04-28,Organic,Platinum,Jaipur,Rajasthan,North
+1490,Customer_1490,Other,25-34,1,2024-04-02,Organic,Gold,Delhi NCR,Delhi,North
+1491,Customer_1491,Female,45-54,10,2023-05-25,Social Media,Platinum,Kolkata,West Bengal,East
+1492,Customer_1492,Male,35-44,1,2023-01-20,Referral,Bronze,Delhi NCR,Delhi,North
+1493,Customer_1493,Other,45-54,4,2023-10-29,Social Media,Platinum,Mumbai,Maharashtra,West
+1494,Customer_1494,Female,45-54,8,2022-06-16,Organic,Platinum,Hyderabad,Telangana,South
+1495,Customer_1495,Other,25-34,12,2023-08-25,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+1496,Customer_1496,Female,18-24,5,2022-09-19,Social Media,Silver,Pune,Maharashtra,West
+1497,Customer_1497,Male,45-54,11,2024-07-02,Paid Ads,Silver,Patna,Bihar,East
+1498,Customer_1498,Male,18-24,2,2023-03-10,Social Media,Bronze,Jaipur,Rajasthan,North
+1499,Customer_1499,Female,45-54,5,2022-11-25,Paid Ads,Gold,Pune,Maharashtra,West
+1500,Customer_1500,Other,18-24,11,2024-09-02,Paid Ads,Platinum,Patna,Bihar,East
+1501,Customer_1501,Other,35-44,4,2022-07-05,Organic,Gold,Mumbai,Maharashtra,West
+1502,Customer_1502,Other,45-54,11,2024-02-12,Social Media,Silver,Patna,Bihar,East
+1503,Customer_1503,Female,18-24,5,2023-04-03,Organic,Bronze,Pune,Maharashtra,West
+1504,Customer_1504,Female,55+,4,2022-07-02,Organic,Gold,Mumbai,Maharashtra,West
+1505,Customer_1505,Female,45-54,10,2022-09-18,Organic,Gold,Kolkata,West Bengal,East
+1506,Customer_1506,Other,55+,4,2022-05-07,Social Media,Platinum,Mumbai,Maharashtra,West
+1507,Customer_1507,Female,25-34,9,2023-10-17,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+1508,Customer_1508,Male,55+,8,2024-03-20,Referral,Silver,Hyderabad,Telangana,South
+1509,Customer_1509,Male,45-54,11,2023-08-31,Social Media,Silver,Patna,Bihar,East
+1510,Customer_1510,Male,18-24,10,2023-08-04,Referral,Gold,Kolkata,West Bengal,East
+1511,Customer_1511,Other,18-24,5,2024-10-25,Social Media,Silver,Pune,Maharashtra,West
+1512,Customer_1512,Female,45-54,1,2024-10-10,Referral,Silver,Delhi NCR,Delhi,North
+1513,Customer_1513,Other,25-34,12,2023-03-08,Organic,Silver,Indore,Madhya Pradesh,Central
+1514,Customer_1514,Other,45-54,5,2024-09-25,Paid Ads,Bronze,Pune,Maharashtra,West
+1515,Customer_1515,Female,45-54,11,2024-03-14,Social Media,Gold,Patna,Bihar,East
+1516,Customer_1516,Female,18-24,9,2024-03-12,Referral,Gold,Chennai,Tamil Nadu,South
+1517,Customer_1517,Other,55+,7,2023-02-04,Organic,Silver,Bengaluru,Karnataka,South
+1518,Customer_1518,Other,18-24,12,2023-10-25,Referral,Platinum,Indore,Madhya Pradesh,Central
+1519,Customer_1519,Other,25-34,8,2022-12-02,Social Media,Gold,Hyderabad,Telangana,South
+1520,Customer_1520,Male,25-34,12,2022-10-24,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+1521,Customer_1521,Other,55+,2,2024-01-12,Paid Ads,Platinum,Jaipur,Rajasthan,North
+1522,Customer_1522,Other,25-34,1,2024-05-24,Organic,Gold,Delhi NCR,Delhi,North
+1523,Customer_1523,Male,18-24,2,2024-08-28,Referral,Platinum,Jaipur,Rajasthan,North
+1524,Customer_1524,Other,45-54,4,2022-11-01,Organic,Bronze,Mumbai,Maharashtra,West
+1525,Customer_1525,Female,45-54,5,2023-05-09,Paid Ads,Platinum,Pune,Maharashtra,West
+1526,Customer_1526,Female,45-54,5,2022-07-03,Social Media,Gold,Pune,Maharashtra,West
+1527,Customer_1527,Male,18-24,2,2022-01-24,Organic,Platinum,Jaipur,Rajasthan,North
+1528,Customer_1528,Male,18-24,10,2024-11-09,Social Media,Gold,Kolkata,West Bengal,East
+1529,Customer_1529,Other,25-34,7,2022-07-13,Social Media,Platinum,Bengaluru,Karnataka,South
+1530,Customer_1530,Other,25-34,2,2023-09-04,Referral,Bronze,Jaipur,Rajasthan,North
+1531,Customer_1531,Female,18-24,7,2023-01-14,Social Media,Bronze,Bengaluru,Karnataka,South
+1532,Customer_1532,Other,55+,12,2024-11-28,Organic,Silver,Indore,Madhya Pradesh,Central
+1533,Customer_1533,Male,55+,12,2022-08-29,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+1534,Customer_1534,Female,18-24,1,2024-07-04,Paid Ads,Silver,Delhi NCR,Delhi,North
+1535,Customer_1535,Male,55+,5,2022-11-27,Organic,Bronze,Pune,Maharashtra,West
+1536,Customer_1536,Other,35-44,6,2022-09-13,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1537,Customer_1537,Male,35-44,1,2022-01-01,Referral,Platinum,Delhi NCR,Delhi,North
+1538,Customer_1538,Other,45-54,12,2022-10-14,Referral,Gold,Indore,Madhya Pradesh,Central
+1539,Customer_1539,Male,18-24,11,2024-11-11,Organic,Silver,Patna,Bihar,East
+1540,Customer_1540,Male,25-34,5,2022-03-17,Paid Ads,Silver,Pune,Maharashtra,West
+1541,Customer_1541,Other,35-44,5,2023-03-19,Paid Ads,Platinum,Pune,Maharashtra,West
+1542,Customer_1542,Other,35-44,5,2022-06-02,Social Media,Silver,Pune,Maharashtra,West
+1543,Customer_1543,Female,18-24,5,2024-03-30,Social Media,Silver,Pune,Maharashtra,West
+1544,Customer_1544,Male,35-44,11,2023-02-22,Paid Ads,Gold,Patna,Bihar,East
+1545,Customer_1545,Other,25-34,7,2024-11-13,Paid Ads,Gold,Bengaluru,Karnataka,South
+1546,Customer_1546,Female,18-24,10,2024-06-07,Paid Ads,Bronze,Kolkata,West Bengal,East
+1547,Customer_1547,Male,55+,2,2023-07-08,Social Media,Bronze,Jaipur,Rajasthan,North
+1548,Customer_1548,Other,18-24,6,2023-11-06,Referral,Gold,Ahmedabad,Gujarat,West
+1549,Customer_1549,Male,35-44,1,2022-10-27,Organic,Platinum,Delhi NCR,Delhi,North
+1550,Customer_1550,Female,18-24,2,2023-04-01,Paid Ads,Gold,Jaipur,Rajasthan,North
+1551,Customer_1551,Male,55+,6,2024-09-29,Referral,Gold,Ahmedabad,Gujarat,West
+1552,Customer_1552,Male,25-34,6,2022-07-22,Social Media,Silver,Ahmedabad,Gujarat,West
+1553,Customer_1553,Other,55+,9,2023-12-08,Social Media,Platinum,Chennai,Tamil Nadu,South
+1554,Customer_1554,Female,18-24,11,2022-09-19,Paid Ads,Silver,Patna,Bihar,East
+1555,Customer_1555,Female,55+,12,2022-10-20,Referral,Bronze,Indore,Madhya Pradesh,Central
+1556,Customer_1556,Other,25-34,11,2024-01-29,Social Media,Platinum,Patna,Bihar,East
+1557,Customer_1557,Female,35-44,8,2023-01-10,Referral,Gold,Hyderabad,Telangana,South
+1558,Customer_1558,Other,25-34,5,2024-05-26,Organic,Gold,Pune,Maharashtra,West
+1559,Customer_1559,Female,18-24,11,2024-04-12,Organic,Bronze,Patna,Bihar,East
+1560,Customer_1560,Male,25-34,10,2023-05-07,Organic,Bronze,Kolkata,West Bengal,East
+1561,Customer_1561,Other,45-54,1,2023-08-09,Social Media,Silver,Delhi NCR,Delhi,North
+1562,Customer_1562,Female,55+,11,2024-09-09,Organic,Platinum,Patna,Bihar,East
+1563,Customer_1563,Other,25-34,12,2022-01-29,Organic,Platinum,Indore,Madhya Pradesh,Central
+1564,Customer_1564,Other,35-44,4,2024-12-30,Organic,Platinum,Mumbai,Maharashtra,West
+1565,Customer_1565,Other,55+,4,2022-12-12,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1566,Customer_1566,Male,55+,6,2024-01-22,Organic,Platinum,Ahmedabad,Gujarat,West
+1567,Customer_1567,Female,25-34,6,2024-10-11,Organic,Gold,Ahmedabad,Gujarat,West
+1568,Customer_1568,Other,18-24,5,2023-05-27,Referral,Platinum,Pune,Maharashtra,West
+1569,Customer_1569,Female,25-34,1,2023-08-25,Social Media,Silver,Delhi NCR,Delhi,North
+1570,Customer_1570,Other,55+,1,2023-09-17,Social Media,Platinum,Delhi NCR,Delhi,North
+1571,Customer_1571,Female,18-24,10,2022-04-28,Social Media,Gold,Kolkata,West Bengal,East
+1572,Customer_1572,Female,18-24,1,2023-09-04,Referral,Silver,Delhi NCR,Delhi,North
+1573,Customer_1573,Female,18-24,2,2024-04-03,Social Media,Platinum,Jaipur,Rajasthan,North
+1574,Customer_1574,Male,55+,9,2023-02-09,Paid Ads,Platinum,Chennai,Tamil Nadu,South
+1575,Customer_1575,Female,18-24,3,2022-09-11,Referral,Silver,Lucknow,Uttar Pradesh,North
+1576,Customer_1576,Female,35-44,5,2024-08-21,Referral,Platinum,Pune,Maharashtra,West
+1577,Customer_1577,Other,35-44,2,2023-01-09,Social Media,Platinum,Jaipur,Rajasthan,North
+1578,Customer_1578,Male,35-44,12,2022-11-28,Social Media,Bronze,Indore,Madhya Pradesh,Central
+1579,Customer_1579,Other,25-34,2,2024-01-06,Paid Ads,Gold,Jaipur,Rajasthan,North
+1580,Customer_1580,Male,45-54,7,2022-03-24,Referral,Bronze,Bengaluru,Karnataka,South
+1581,Customer_1581,Other,25-34,8,2022-11-25,Referral,Bronze,Hyderabad,Telangana,South
+1582,Customer_1582,Female,55+,8,2024-05-12,Paid Ads,Gold,Hyderabad,Telangana,South
+1583,Customer_1583,Other,45-54,3,2024-03-29,Organic,Bronze,Lucknow,Uttar Pradesh,North
+1584,Customer_1584,Male,25-34,6,2022-02-13,Organic,Silver,Ahmedabad,Gujarat,West
+1585,Customer_1585,Other,35-44,7,2022-04-17,Organic,Platinum,Bengaluru,Karnataka,South
+1586,Customer_1586,Female,35-44,8,2024-09-10,Organic,Platinum,Hyderabad,Telangana,South
+1587,Customer_1587,Other,25-34,12,2023-05-23,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+1588,Customer_1588,Male,35-44,12,2023-07-30,Paid Ads,Platinum,Indore,Madhya Pradesh,Central
+1589,Customer_1589,Female,18-24,12,2023-02-11,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+1590,Customer_1590,Male,18-24,3,2022-11-01,Social Media,Bronze,Lucknow,Uttar Pradesh,North
+1591,Customer_1591,Male,25-34,7,2023-07-15,Organic,Silver,Bengaluru,Karnataka,South
+1592,Customer_1592,Male,45-54,7,2022-07-06,Referral,Silver,Bengaluru,Karnataka,South
+1593,Customer_1593,Female,45-54,8,2023-03-31,Organic,Platinum,Hyderabad,Telangana,South
+1594,Customer_1594,Female,18-24,5,2022-04-16,Referral,Gold,Pune,Maharashtra,West
+1595,Customer_1595,Other,45-54,4,2023-12-20,Referral,Bronze,Mumbai,Maharashtra,West
+1596,Customer_1596,Male,18-24,1,2023-01-08,Referral,Silver,Delhi NCR,Delhi,North
+1597,Customer_1597,Female,35-44,10,2023-08-08,Organic,Platinum,Kolkata,West Bengal,East
+1598,Customer_1598,Female,45-54,6,2023-01-14,Referral,Gold,Ahmedabad,Gujarat,West
+1599,Customer_1599,Male,18-24,11,2022-08-17,Paid Ads,Gold,Patna,Bihar,East
+1600,Customer_1600,Other,35-44,12,2024-01-09,Referral,Silver,Indore,Madhya Pradesh,Central
+1601,Customer_1601,Male,55+,7,2023-07-20,Organic,Bronze,Bengaluru,Karnataka,South
+1602,Customer_1602,Other,55+,2,2022-09-25,Organic,Silver,Jaipur,Rajasthan,North
+1603,Customer_1603,Other,45-54,2,2023-01-31,Organic,Gold,Jaipur,Rajasthan,North
+1604,Customer_1604,Other,45-54,4,2023-09-10,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1605,Customer_1605,Male,45-54,9,2022-09-19,Referral,Gold,Chennai,Tamil Nadu,South
+1606,Customer_1606,Female,18-24,7,2024-01-20,Organic,Platinum,Bengaluru,Karnataka,South
+1607,Customer_1607,Other,55+,1,2024-05-08,Paid Ads,Gold,Delhi NCR,Delhi,North
+1608,Customer_1608,Female,18-24,10,2022-09-22,Organic,Silver,Kolkata,West Bengal,East
+1609,Customer_1609,Female,55+,9,2024-03-25,Organic,Silver,Chennai,Tamil Nadu,South
+1610,Customer_1610,Other,45-54,9,2024-06-15,Social Media,Platinum,Chennai,Tamil Nadu,South
+1611,Customer_1611,Male,25-34,1,2023-07-11,Paid Ads,Silver,Delhi NCR,Delhi,North
+1612,Customer_1612,Other,45-54,9,2022-01-19,Referral,Gold,Chennai,Tamil Nadu,South
+1613,Customer_1613,Female,35-44,9,2023-03-28,Organic,Silver,Chennai,Tamil Nadu,South
+1614,Customer_1614,Male,55+,4,2023-04-04,Referral,Bronze,Mumbai,Maharashtra,West
+1615,Customer_1615,Female,25-34,5,2022-10-31,Organic,Silver,Pune,Maharashtra,West
+1616,Customer_1616,Other,18-24,1,2023-03-07,Referral,Gold,Delhi NCR,Delhi,North
+1617,Customer_1617,Male,55+,5,2023-10-27,Paid Ads,Platinum,Pune,Maharashtra,West
+1618,Customer_1618,Female,18-24,11,2023-08-27,Organic,Gold,Patna,Bihar,East
+1619,Customer_1619,Other,35-44,3,2023-03-26,Referral,Bronze,Lucknow,Uttar Pradesh,North
+1620,Customer_1620,Other,45-54,11,2022-08-06,Referral,Silver,Patna,Bihar,East
+1621,Customer_1621,Male,35-44,5,2024-06-24,Paid Ads,Platinum,Pune,Maharashtra,West
+1622,Customer_1622,Female,25-34,12,2022-11-15,Social Media,Gold,Indore,Madhya Pradesh,Central
+1623,Customer_1623,Female,18-24,8,2022-10-31,Paid Ads,Platinum,Hyderabad,Telangana,South
+1624,Customer_1624,Male,25-34,10,2023-01-14,Social Media,Silver,Kolkata,West Bengal,East
+1625,Customer_1625,Male,35-44,3,2023-08-01,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+1626,Customer_1626,Male,25-34,2,2023-01-20,Social Media,Silver,Jaipur,Rajasthan,North
+1627,Customer_1627,Other,45-54,2,2024-07-20,Paid Ads,Bronze,Jaipur,Rajasthan,North
+1628,Customer_1628,Female,45-54,1,2022-07-24,Organic,Bronze,Delhi NCR,Delhi,North
+1629,Customer_1629,Male,25-34,2,2022-03-31,Referral,Silver,Jaipur,Rajasthan,North
+1630,Customer_1630,Male,18-24,9,2022-01-28,Referral,Bronze,Chennai,Tamil Nadu,South
+1631,Customer_1631,Male,45-54,10,2023-02-19,Social Media,Silver,Kolkata,West Bengal,East
+1632,Customer_1632,Female,45-54,3,2023-09-22,Paid Ads,Bronze,Lucknow,Uttar Pradesh,North
+1633,Customer_1633,Other,55+,2,2023-07-02,Organic,Bronze,Jaipur,Rajasthan,North
+1634,Customer_1634,Other,35-44,2,2022-07-30,Social Media,Silver,Jaipur,Rajasthan,North
+1635,Customer_1635,Male,18-24,4,2022-01-03,Social Media,Platinum,Mumbai,Maharashtra,West
+1636,Customer_1636,Female,35-44,4,2022-10-29,Social Media,Bronze,Mumbai,Maharashtra,West
+1637,Customer_1637,Male,18-24,4,2024-10-04,Organic,Gold,Mumbai,Maharashtra,West
+1638,Customer_1638,Male,55+,6,2024-01-02,Organic,Gold,Ahmedabad,Gujarat,West
+1639,Customer_1639,Male,55+,3,2022-06-23,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+1640,Customer_1640,Female,55+,3,2024-12-22,Social Media,Silver,Lucknow,Uttar Pradesh,North
+1641,Customer_1641,Other,35-44,6,2023-09-10,Organic,Gold,Ahmedabad,Gujarat,West
+1642,Customer_1642,Other,35-44,5,2024-10-19,Organic,Bronze,Pune,Maharashtra,West
+1643,Customer_1643,Other,25-34,6,2022-11-01,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1644,Customer_1644,Other,45-54,2,2024-07-03,Organic,Platinum,Jaipur,Rajasthan,North
+1645,Customer_1645,Male,18-24,6,2023-07-25,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1646,Customer_1646,Female,35-44,8,2024-02-28,Social Media,Platinum,Hyderabad,Telangana,South
+1647,Customer_1647,Other,35-44,3,2024-04-27,Paid Ads,Platinum,Lucknow,Uttar Pradesh,North
+1648,Customer_1648,Other,45-54,9,2024-05-07,Social Media,Silver,Chennai,Tamil Nadu,South
+1649,Customer_1649,Male,55+,12,2024-02-27,Social Media,Silver,Indore,Madhya Pradesh,Central
+1650,Customer_1650,Male,35-44,1,2022-06-28,Paid Ads,Bronze,Delhi NCR,Delhi,North
+1651,Customer_1651,Other,45-54,3,2024-01-13,Organic,Bronze,Lucknow,Uttar Pradesh,North
+1652,Customer_1652,Female,25-34,5,2023-12-17,Social Media,Silver,Pune,Maharashtra,West
+1653,Customer_1653,Male,25-34,4,2024-05-12,Organic,Silver,Mumbai,Maharashtra,West
+1654,Customer_1654,Other,25-34,7,2022-08-29,Organic,Platinum,Bengaluru,Karnataka,South
+1655,Customer_1655,Male,18-24,11,2024-02-01,Organic,Platinum,Patna,Bihar,East
+1656,Customer_1656,Male,25-34,6,2022-11-20,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+1657,Customer_1657,Male,18-24,10,2023-05-17,Social Media,Silver,Kolkata,West Bengal,East
+1658,Customer_1658,Female,25-34,12,2023-01-09,Referral,Platinum,Indore,Madhya Pradesh,Central
+1659,Customer_1659,Other,35-44,8,2024-04-22,Organic,Gold,Hyderabad,Telangana,South
+1660,Customer_1660,Male,18-24,11,2022-08-16,Organic,Silver,Patna,Bihar,East
+1661,Customer_1661,Male,18-24,7,2024-10-27,Social Media,Platinum,Bengaluru,Karnataka,South
+1662,Customer_1662,Other,55+,5,2023-06-13,Paid Ads,Platinum,Pune,Maharashtra,West
+1663,Customer_1663,Female,18-24,9,2022-11-18,Social Media,Silver,Chennai,Tamil Nadu,South
+1664,Customer_1664,Female,55+,1,2023-03-10,Paid Ads,Platinum,Delhi NCR,Delhi,North
+1665,Customer_1665,Other,55+,10,2023-01-12,Organic,Platinum,Kolkata,West Bengal,East
+1666,Customer_1666,Female,45-54,7,2024-09-04,Paid Ads,Bronze,Bengaluru,Karnataka,South
+1667,Customer_1667,Other,45-54,4,2024-01-31,Referral,Bronze,Mumbai,Maharashtra,West
+1668,Customer_1668,Male,35-44,10,2022-08-02,Referral,Bronze,Kolkata,West Bengal,East
+1669,Customer_1669,Female,25-34,9,2023-05-06,Organic,Bronze,Chennai,Tamil Nadu,South
+1670,Customer_1670,Other,18-24,5,2023-03-10,Paid Ads,Silver,Pune,Maharashtra,West
+1671,Customer_1671,Male,35-44,2,2022-03-08,Organic,Platinum,Jaipur,Rajasthan,North
+1672,Customer_1672,Male,35-44,2,2022-04-04,Referral,Bronze,Jaipur,Rajasthan,North
+1673,Customer_1673,Female,45-54,9,2024-01-01,Paid Ads,Gold,Chennai,Tamil Nadu,South
+1674,Customer_1674,Other,35-44,3,2024-03-11,Organic,Gold,Lucknow,Uttar Pradesh,North
+1675,Customer_1675,Other,55+,2,2024-04-14,Paid Ads,Bronze,Jaipur,Rajasthan,North
+1676,Customer_1676,Female,55+,1,2024-02-22,Referral,Silver,Delhi NCR,Delhi,North
+1677,Customer_1677,Other,45-54,2,2022-11-07,Organic,Silver,Jaipur,Rajasthan,North
+1678,Customer_1678,Other,25-34,12,2023-03-18,Paid Ads,Gold,Indore,Madhya Pradesh,Central
+1679,Customer_1679,Male,35-44,5,2024-07-05,Referral,Platinum,Pune,Maharashtra,West
+1680,Customer_1680,Other,45-54,4,2022-03-23,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1681,Customer_1681,Other,45-54,2,2022-11-09,Organic,Silver,Jaipur,Rajasthan,North
+1682,Customer_1682,Other,18-24,8,2023-09-26,Organic,Platinum,Hyderabad,Telangana,South
+1683,Customer_1683,Male,35-44,3,2023-10-05,Organic,Gold,Lucknow,Uttar Pradesh,North
+1684,Customer_1684,Female,18-24,2,2024-01-15,Paid Ads,Platinum,Jaipur,Rajasthan,North
+1685,Customer_1685,Female,35-44,8,2023-06-13,Paid Ads,Bronze,Hyderabad,Telangana,South
+1686,Customer_1686,Male,35-44,5,2024-09-26,Social Media,Platinum,Pune,Maharashtra,West
+1687,Customer_1687,Female,35-44,9,2022-09-22,Referral,Gold,Chennai,Tamil Nadu,South
+1688,Customer_1688,Other,45-54,9,2022-06-20,Social Media,Gold,Chennai,Tamil Nadu,South
+1689,Customer_1689,Other,18-24,12,2022-03-29,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+1690,Customer_1690,Male,35-44,7,2022-11-13,Paid Ads,Platinum,Bengaluru,Karnataka,South
+1691,Customer_1691,Male,45-54,8,2022-05-30,Organic,Gold,Hyderabad,Telangana,South
+1692,Customer_1692,Female,55+,8,2024-08-12,Organic,Bronze,Hyderabad,Telangana,South
+1693,Customer_1693,Other,18-24,7,2023-01-05,Social Media,Silver,Bengaluru,Karnataka,South
+1694,Customer_1694,Female,18-24,6,2024-04-02,Referral,Platinum,Ahmedabad,Gujarat,West
+1695,Customer_1695,Other,45-54,2,2023-03-12,Referral,Platinum,Jaipur,Rajasthan,North
+1696,Customer_1696,Other,25-34,8,2022-03-20,Paid Ads,Silver,Hyderabad,Telangana,South
+1697,Customer_1697,Other,18-24,10,2023-10-18,Social Media,Bronze,Kolkata,West Bengal,East
+1698,Customer_1698,Female,45-54,4,2024-01-11,Organic,Silver,Mumbai,Maharashtra,West
+1699,Customer_1699,Other,45-54,5,2022-02-16,Referral,Silver,Pune,Maharashtra,West
+1700,Customer_1700,Male,18-24,5,2022-06-21,Social Media,Bronze,Pune,Maharashtra,West
+1701,Customer_1701,Other,45-54,7,2023-09-03,Paid Ads,Gold,Bengaluru,Karnataka,South
+1702,Customer_1702,Male,18-24,7,2023-01-12,Referral,Gold,Bengaluru,Karnataka,South
+1703,Customer_1703,Male,35-44,7,2022-12-03,Social Media,Platinum,Bengaluru,Karnataka,South
+1704,Customer_1704,Other,45-54,6,2022-11-26,Social Media,Bronze,Ahmedabad,Gujarat,West
+1705,Customer_1705,Male,55+,10,2023-02-11,Paid Ads,Gold,Kolkata,West Bengal,East
+1706,Customer_1706,Male,25-34,8,2023-10-11,Paid Ads,Platinum,Hyderabad,Telangana,South
+1707,Customer_1707,Male,45-54,5,2023-10-11,Organic,Platinum,Pune,Maharashtra,West
+1708,Customer_1708,Other,45-54,11,2022-09-15,Organic,Bronze,Patna,Bihar,East
+1709,Customer_1709,Other,25-34,7,2023-03-24,Paid Ads,Platinum,Bengaluru,Karnataka,South
+1710,Customer_1710,Female,25-34,4,2023-03-19,Organic,Gold,Mumbai,Maharashtra,West
+1711,Customer_1711,Male,35-44,5,2024-01-16,Organic,Platinum,Pune,Maharashtra,West
+1712,Customer_1712,Female,45-54,6,2024-07-22,Referral,Platinum,Ahmedabad,Gujarat,West
+1713,Customer_1713,Female,18-24,3,2024-12-07,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1714,Customer_1714,Male,55+,10,2024-02-04,Paid Ads,Platinum,Kolkata,West Bengal,East
+1715,Customer_1715,Female,45-54,11,2024-02-21,Referral,Bronze,Patna,Bihar,East
+1716,Customer_1716,Male,18-24,11,2022-06-29,Organic,Platinum,Patna,Bihar,East
+1717,Customer_1717,Female,55+,9,2022-08-01,Organic,Platinum,Chennai,Tamil Nadu,South
+1718,Customer_1718,Other,18-24,11,2024-10-27,Referral,Platinum,Patna,Bihar,East
+1719,Customer_1719,Male,45-54,9,2023-03-10,Social Media,Bronze,Chennai,Tamil Nadu,South
+1720,Customer_1720,Female,18-24,6,2023-02-05,Social Media,Platinum,Ahmedabad,Gujarat,West
+1721,Customer_1721,Male,35-44,4,2024-03-21,Referral,Gold,Mumbai,Maharashtra,West
+1722,Customer_1722,Female,45-54,11,2023-06-26,Paid Ads,Bronze,Patna,Bihar,East
+1723,Customer_1723,Male,18-24,1,2024-04-29,Paid Ads,Gold,Delhi NCR,Delhi,North
+1724,Customer_1724,Other,55+,6,2024-11-28,Referral,Silver,Ahmedabad,Gujarat,West
+1725,Customer_1725,Male,55+,7,2024-05-30,Paid Ads,Platinum,Bengaluru,Karnataka,South
+1726,Customer_1726,Other,45-54,3,2022-04-16,Social Media,Silver,Lucknow,Uttar Pradesh,North
+1727,Customer_1727,Female,55+,3,2024-04-05,Social Media,Silver,Lucknow,Uttar Pradesh,North
+1728,Customer_1728,Other,25-34,9,2022-07-23,Organic,Platinum,Chennai,Tamil Nadu,South
+1729,Customer_1729,Other,25-34,6,2023-06-17,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+1730,Customer_1730,Male,45-54,1,2022-07-11,Paid Ads,Bronze,Delhi NCR,Delhi,North
+1731,Customer_1731,Other,45-54,1,2022-06-11,Paid Ads,Platinum,Delhi NCR,Delhi,North
+1732,Customer_1732,Male,25-34,11,2024-01-04,Paid Ads,Gold,Patna,Bihar,East
+1733,Customer_1733,Other,25-34,12,2023-02-01,Social Media,Gold,Indore,Madhya Pradesh,Central
+1734,Customer_1734,Female,18-24,3,2022-04-16,Organic,Bronze,Lucknow,Uttar Pradesh,North
+1735,Customer_1735,Female,55+,2,2022-08-16,Organic,Silver,Jaipur,Rajasthan,North
+1736,Customer_1736,Female,25-34,2,2023-08-02,Organic,Platinum,Jaipur,Rajasthan,North
+1737,Customer_1737,Male,45-54,2,2024-01-11,Social Media,Bronze,Jaipur,Rajasthan,North
+1738,Customer_1738,Male,45-54,11,2024-04-27,Organic,Silver,Patna,Bihar,East
+1739,Customer_1739,Female,35-44,11,2024-05-09,Social Media,Silver,Patna,Bihar,East
+1740,Customer_1740,Female,18-24,3,2023-01-04,Organic,Bronze,Lucknow,Uttar Pradesh,North
+1741,Customer_1741,Female,45-54,10,2023-12-04,Organic,Silver,Kolkata,West Bengal,East
+1742,Customer_1742,Other,35-44,2,2024-12-04,Paid Ads,Bronze,Jaipur,Rajasthan,North
+1743,Customer_1743,Other,55+,3,2022-02-17,Paid Ads,Gold,Lucknow,Uttar Pradesh,North
+1744,Customer_1744,Male,18-24,6,2022-08-24,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1745,Customer_1745,Other,25-34,5,2022-06-20,Referral,Platinum,Pune,Maharashtra,West
+1746,Customer_1746,Male,35-44,12,2023-02-13,Referral,Platinum,Indore,Madhya Pradesh,Central
+1747,Customer_1747,Female,55+,7,2024-10-12,Paid Ads,Gold,Bengaluru,Karnataka,South
+1748,Customer_1748,Male,35-44,7,2022-12-21,Organic,Gold,Bengaluru,Karnataka,South
+1749,Customer_1749,Male,45-54,7,2022-12-06,Social Media,Platinum,Bengaluru,Karnataka,South
+1750,Customer_1750,Female,55+,2,2023-07-11,Social Media,Platinum,Jaipur,Rajasthan,North
+1751,Customer_1751,Other,35-44,6,2023-02-14,Organic,Platinum,Ahmedabad,Gujarat,West
+1752,Customer_1752,Male,55+,5,2022-12-09,Social Media,Gold,Pune,Maharashtra,West
+1753,Customer_1753,Female,45-54,1,2024-12-22,Organic,Silver,Delhi NCR,Delhi,North
+1754,Customer_1754,Female,25-34,6,2023-10-23,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+1755,Customer_1755,Other,35-44,6,2023-03-17,Paid Ads,Gold,Ahmedabad,Gujarat,West
+1756,Customer_1756,Male,35-44,12,2022-09-08,Organic,Gold,Indore,Madhya Pradesh,Central
+1757,Customer_1757,Female,55+,6,2023-03-14,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+1758,Customer_1758,Female,55+,4,2024-02-29,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1759,Customer_1759,Other,55+,11,2023-07-24,Organic,Platinum,Patna,Bihar,East
+1760,Customer_1760,Female,35-44,4,2024-06-10,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1761,Customer_1761,Female,18-24,5,2024-10-08,Social Media,Bronze,Pune,Maharashtra,West
+1762,Customer_1762,Female,25-34,10,2022-09-12,Referral,Platinum,Kolkata,West Bengal,East
+1763,Customer_1763,Other,18-24,5,2023-04-30,Organic,Bronze,Pune,Maharashtra,West
+1764,Customer_1764,Female,25-34,7,2024-08-03,Organic,Bronze,Bengaluru,Karnataka,South
+1765,Customer_1765,Other,18-24,2,2023-11-22,Social Media,Bronze,Jaipur,Rajasthan,North
+1766,Customer_1766,Other,35-44,5,2024-04-30,Referral,Gold,Pune,Maharashtra,West
+1767,Customer_1767,Male,55+,6,2024-03-30,Social Media,Bronze,Ahmedabad,Gujarat,West
+1768,Customer_1768,Female,45-54,8,2024-03-16,Organic,Gold,Hyderabad,Telangana,South
+1769,Customer_1769,Male,25-34,1,2022-07-30,Organic,Silver,Delhi NCR,Delhi,North
+1770,Customer_1770,Female,45-54,4,2022-08-04,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1771,Customer_1771,Other,35-44,9,2023-01-27,Organic,Bronze,Chennai,Tamil Nadu,South
+1772,Customer_1772,Male,18-24,1,2023-06-16,Referral,Bronze,Delhi NCR,Delhi,North
+1773,Customer_1773,Female,55+,7,2023-06-25,Referral,Silver,Bengaluru,Karnataka,South
+1774,Customer_1774,Other,45-54,2,2022-10-10,Paid Ads,Gold,Jaipur,Rajasthan,North
+1775,Customer_1775,Other,45-54,11,2022-10-31,Social Media,Bronze,Patna,Bihar,East
+1776,Customer_1776,Other,25-34,10,2024-12-04,Social Media,Platinum,Kolkata,West Bengal,East
+1777,Customer_1777,Female,45-54,4,2023-07-29,Organic,Gold,Mumbai,Maharashtra,West
+1778,Customer_1778,Other,18-24,6,2023-08-30,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1779,Customer_1779,Male,45-54,1,2022-06-09,Paid Ads,Bronze,Delhi NCR,Delhi,North
+1780,Customer_1780,Female,45-54,4,2023-03-19,Social Media,Bronze,Mumbai,Maharashtra,West
+1781,Customer_1781,Male,55+,9,2023-11-29,Referral,Gold,Chennai,Tamil Nadu,South
+1782,Customer_1782,Other,25-34,9,2024-07-18,Organic,Silver,Chennai,Tamil Nadu,South
+1783,Customer_1783,Female,45-54,8,2023-03-25,Paid Ads,Platinum,Hyderabad,Telangana,South
+1784,Customer_1784,Male,35-44,7,2023-01-20,Paid Ads,Gold,Bengaluru,Karnataka,South
+1785,Customer_1785,Male,45-54,2,2022-07-29,Organic,Silver,Jaipur,Rajasthan,North
+1786,Customer_1786,Female,25-34,5,2022-02-03,Organic,Platinum,Pune,Maharashtra,West
+1787,Customer_1787,Female,35-44,5,2024-12-23,Organic,Bronze,Pune,Maharashtra,West
+1788,Customer_1788,Female,25-34,3,2023-12-27,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1789,Customer_1789,Female,18-24,8,2024-11-06,Referral,Gold,Hyderabad,Telangana,South
+1790,Customer_1790,Male,45-54,12,2022-07-20,Social Media,Silver,Indore,Madhya Pradesh,Central
+1791,Customer_1791,Male,45-54,3,2023-08-26,Referral,Platinum,Lucknow,Uttar Pradesh,North
+1792,Customer_1792,Female,18-24,11,2024-11-28,Organic,Silver,Patna,Bihar,East
+1793,Customer_1793,Male,18-24,1,2022-08-16,Organic,Gold,Delhi NCR,Delhi,North
+1794,Customer_1794,Male,55+,2,2023-05-04,Referral,Silver,Jaipur,Rajasthan,North
+1795,Customer_1795,Female,45-54,2,2024-04-08,Paid Ads,Gold,Jaipur,Rajasthan,North
+1796,Customer_1796,Male,25-34,4,2024-10-11,Referral,Gold,Mumbai,Maharashtra,West
+1797,Customer_1797,Other,18-24,2,2023-08-13,Paid Ads,Platinum,Jaipur,Rajasthan,North
+1798,Customer_1798,Other,25-34,3,2023-09-18,Referral,Bronze,Lucknow,Uttar Pradesh,North
+1799,Customer_1799,Male,35-44,8,2022-12-08,Paid Ads,Bronze,Hyderabad,Telangana,South
+1800,Customer_1800,Female,35-44,1,2024-08-29,Paid Ads,Gold,Delhi NCR,Delhi,North
+1801,Customer_1801,Male,18-24,10,2022-06-07,Referral,Platinum,Kolkata,West Bengal,East
+1802,Customer_1802,Female,25-34,8,2022-01-03,Organic,Bronze,Hyderabad,Telangana,South
+1803,Customer_1803,Other,35-44,4,2022-02-05,Paid Ads,Silver,Mumbai,Maharashtra,West
+1804,Customer_1804,Male,35-44,12,2022-07-12,Referral,Platinum,Indore,Madhya Pradesh,Central
+1805,Customer_1805,Other,35-44,9,2024-10-01,Referral,Platinum,Chennai,Tamil Nadu,South
+1806,Customer_1806,Female,45-54,1,2023-06-04,Referral,Gold,Delhi NCR,Delhi,North
+1807,Customer_1807,Other,55+,8,2023-11-15,Organic,Gold,Hyderabad,Telangana,South
+1808,Customer_1808,Other,18-24,3,2024-11-29,Social Media,Silver,Lucknow,Uttar Pradesh,North
+1809,Customer_1809,Female,45-54,1,2022-10-18,Paid Ads,Platinum,Delhi NCR,Delhi,North
+1810,Customer_1810,Male,18-24,4,2024-01-07,Social Media,Bronze,Mumbai,Maharashtra,West
+1811,Customer_1811,Other,55+,8,2023-07-15,Paid Ads,Gold,Hyderabad,Telangana,South
+1812,Customer_1812,Female,45-54,10,2023-12-16,Social Media,Gold,Kolkata,West Bengal,East
+1813,Customer_1813,Male,18-24,10,2023-09-26,Referral,Bronze,Kolkata,West Bengal,East
+1814,Customer_1814,Female,55+,6,2024-06-06,Referral,Bronze,Ahmedabad,Gujarat,West
+1815,Customer_1815,Female,25-34,8,2022-01-18,Paid Ads,Gold,Hyderabad,Telangana,South
+1816,Customer_1816,Female,45-54,5,2022-11-30,Organic,Gold,Pune,Maharashtra,West
+1817,Customer_1817,Female,18-24,4,2022-02-01,Referral,Bronze,Mumbai,Maharashtra,West
+1818,Customer_1818,Female,35-44,1,2022-04-19,Social Media,Gold,Delhi NCR,Delhi,North
+1819,Customer_1819,Male,35-44,3,2022-01-02,Referral,Gold,Lucknow,Uttar Pradesh,North
+1820,Customer_1820,Other,55+,3,2024-10-25,Organic,Gold,Lucknow,Uttar Pradesh,North
+1821,Customer_1821,Other,25-34,7,2022-10-20,Organic,Gold,Bengaluru,Karnataka,South
+1822,Customer_1822,Male,45-54,6,2023-03-25,Paid Ads,Platinum,Ahmedabad,Gujarat,West
+1823,Customer_1823,Female,18-24,5,2024-05-15,Referral,Gold,Pune,Maharashtra,West
+1824,Customer_1824,Other,45-54,11,2022-12-21,Referral,Silver,Patna,Bihar,East
+1825,Customer_1825,Female,25-34,7,2023-02-13,Paid Ads,Gold,Bengaluru,Karnataka,South
+1826,Customer_1826,Male,35-44,10,2023-09-17,Social Media,Silver,Kolkata,West Bengal,East
+1827,Customer_1827,Female,18-24,3,2024-02-09,Social Media,Gold,Lucknow,Uttar Pradesh,North
+1828,Customer_1828,Other,35-44,8,2024-10-28,Referral,Platinum,Hyderabad,Telangana,South
+1829,Customer_1829,Female,45-54,8,2024-08-13,Organic,Bronze,Hyderabad,Telangana,South
+1830,Customer_1830,Male,25-34,10,2024-05-12,Referral,Silver,Kolkata,West Bengal,East
+1831,Customer_1831,Female,25-34,10,2024-11-14,Referral,Bronze,Kolkata,West Bengal,East
+1832,Customer_1832,Male,45-54,11,2024-03-15,Organic,Platinum,Patna,Bihar,East
+1833,Customer_1833,Female,18-24,2,2024-11-26,Organic,Gold,Jaipur,Rajasthan,North
+1834,Customer_1834,Female,55+,2,2022-08-08,Referral,Platinum,Jaipur,Rajasthan,North
+1835,Customer_1835,Male,18-24,12,2023-11-10,Organic,Silver,Indore,Madhya Pradesh,Central
+1836,Customer_1836,Male,55+,12,2024-11-23,Social Media,Silver,Indore,Madhya Pradesh,Central
+1837,Customer_1837,Other,25-34,5,2023-04-03,Referral,Bronze,Pune,Maharashtra,West
+1838,Customer_1838,Other,25-34,2,2024-09-20,Organic,Bronze,Jaipur,Rajasthan,North
+1839,Customer_1839,Other,18-24,9,2022-11-10,Organic,Silver,Chennai,Tamil Nadu,South
+1840,Customer_1840,Male,45-54,1,2023-02-23,Social Media,Platinum,Delhi NCR,Delhi,North
+1841,Customer_1841,Male,35-44,7,2022-04-24,Social Media,Silver,Bengaluru,Karnataka,South
+1842,Customer_1842,Other,35-44,10,2023-04-27,Social Media,Bronze,Kolkata,West Bengal,East
+1843,Customer_1843,Male,18-24,3,2024-06-04,Paid Ads,Silver,Lucknow,Uttar Pradesh,North
+1844,Customer_1844,Other,55+,4,2022-12-16,Social Media,Platinum,Mumbai,Maharashtra,West
+1845,Customer_1845,Female,18-24,10,2023-08-17,Social Media,Gold,Kolkata,West Bengal,East
+1846,Customer_1846,Female,45-54,12,2023-07-18,Organic,Platinum,Indore,Madhya Pradesh,Central
+1847,Customer_1847,Female,25-34,1,2024-05-03,Referral,Platinum,Delhi NCR,Delhi,North
+1848,Customer_1848,Other,45-54,1,2022-09-04,Referral,Bronze,Delhi NCR,Delhi,North
+1849,Customer_1849,Male,35-44,3,2024-06-29,Social Media,Platinum,Lucknow,Uttar Pradesh,North
+1850,Customer_1850,Male,25-34,6,2023-07-22,Paid Ads,Gold,Ahmedabad,Gujarat,West
+1851,Customer_1851,Female,55+,2,2024-12-11,Paid Ads,Silver,Jaipur,Rajasthan,North
+1852,Customer_1852,Other,55+,6,2023-12-22,Social Media,Silver,Ahmedabad,Gujarat,West
+1853,Customer_1853,Other,35-44,7,2023-07-25,Organic,Platinum,Bengaluru,Karnataka,South
+1854,Customer_1854,Female,55+,11,2024-02-11,Paid Ads,Gold,Patna,Bihar,East
+1855,Customer_1855,Other,35-44,10,2022-09-23,Referral,Platinum,Kolkata,West Bengal,East
+1856,Customer_1856,Male,18-24,12,2022-05-19,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+1857,Customer_1857,Other,18-24,8,2022-07-17,Social Media,Gold,Hyderabad,Telangana,South
+1858,Customer_1858,Other,25-34,2,2023-04-20,Paid Ads,Platinum,Jaipur,Rajasthan,North
+1859,Customer_1859,Male,18-24,10,2024-05-10,Referral,Bronze,Kolkata,West Bengal,East
+1860,Customer_1860,Other,18-24,8,2022-03-18,Referral,Bronze,Hyderabad,Telangana,South
+1861,Customer_1861,Female,18-24,12,2022-12-23,Social Media,Platinum,Indore,Madhya Pradesh,Central
+1862,Customer_1862,Other,55+,9,2022-09-30,Paid Ads,Silver,Chennai,Tamil Nadu,South
+1863,Customer_1863,Female,45-54,11,2023-06-02,Referral,Silver,Patna,Bihar,East
+1864,Customer_1864,Other,25-34,7,2023-02-17,Paid Ads,Bronze,Bengaluru,Karnataka,South
+1865,Customer_1865,Other,18-24,4,2022-02-19,Organic,Silver,Mumbai,Maharashtra,West
+1866,Customer_1866,Female,45-54,10,2022-01-11,Organic,Gold,Kolkata,West Bengal,East
+1867,Customer_1867,Other,55+,8,2023-01-15,Paid Ads,Silver,Hyderabad,Telangana,South
+1868,Customer_1868,Other,35-44,6,2024-08-28,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+1869,Customer_1869,Female,45-54,2,2024-06-17,Organic,Silver,Jaipur,Rajasthan,North
+1870,Customer_1870,Female,18-24,2,2024-11-25,Social Media,Silver,Jaipur,Rajasthan,North
+1871,Customer_1871,Other,55+,6,2022-04-16,Organic,Silver,Ahmedabad,Gujarat,West
+1872,Customer_1872,Female,45-54,12,2023-08-17,Referral,Bronze,Indore,Madhya Pradesh,Central
+1873,Customer_1873,Female,18-24,9,2022-11-20,Paid Ads,Gold,Chennai,Tamil Nadu,South
+1874,Customer_1874,Other,18-24,9,2024-03-28,Organic,Platinum,Chennai,Tamil Nadu,South
+1875,Customer_1875,Other,18-24,1,2023-06-23,Referral,Platinum,Delhi NCR,Delhi,North
+1876,Customer_1876,Male,35-44,1,2023-06-19,Paid Ads,Silver,Delhi NCR,Delhi,North
+1877,Customer_1877,Other,18-24,4,2023-11-07,Social Media,Bronze,Mumbai,Maharashtra,West
+1878,Customer_1878,Female,18-24,7,2022-03-14,Organic,Platinum,Bengaluru,Karnataka,South
+1879,Customer_1879,Female,18-24,2,2022-09-23,Organic,Platinum,Jaipur,Rajasthan,North
+1880,Customer_1880,Male,35-44,7,2024-11-05,Social Media,Gold,Bengaluru,Karnataka,South
+1881,Customer_1881,Male,18-24,1,2023-04-12,Paid Ads,Platinum,Delhi NCR,Delhi,North
+1882,Customer_1882,Other,45-54,1,2022-02-07,Social Media,Platinum,Delhi NCR,Delhi,North
+1883,Customer_1883,Female,45-54,9,2022-09-14,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+1884,Customer_1884,Male,55+,6,2024-06-15,Referral,Silver,Ahmedabad,Gujarat,West
+1885,Customer_1885,Female,18-24,4,2023-12-04,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1886,Customer_1886,Male,45-54,12,2022-01-21,Organic,Bronze,Indore,Madhya Pradesh,Central
+1887,Customer_1887,Male,18-24,1,2023-05-27,Paid Ads,Platinum,Delhi NCR,Delhi,North
+1888,Customer_1888,Female,18-24,6,2023-01-05,Referral,Silver,Ahmedabad,Gujarat,West
+1889,Customer_1889,Male,55+,7,2023-08-22,Social Media,Bronze,Bengaluru,Karnataka,South
+1890,Customer_1890,Male,35-44,9,2022-06-07,Paid Ads,Platinum,Chennai,Tamil Nadu,South
+1891,Customer_1891,Male,45-54,12,2024-01-02,Referral,Gold,Indore,Madhya Pradesh,Central
+1892,Customer_1892,Other,25-34,9,2023-08-23,Referral,Gold,Chennai,Tamil Nadu,South
+1893,Customer_1893,Male,18-24,6,2024-10-28,Social Media,Platinum,Ahmedabad,Gujarat,West
+1894,Customer_1894,Male,25-34,3,2023-07-27,Paid Ads,Gold,Lucknow,Uttar Pradesh,North
+1895,Customer_1895,Male,35-44,12,2023-03-08,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+1896,Customer_1896,Other,45-54,11,2023-04-27,Social Media,Bronze,Patna,Bihar,East
+1897,Customer_1897,Female,18-24,5,2022-02-13,Referral,Platinum,Pune,Maharashtra,West
+1898,Customer_1898,Male,18-24,5,2023-09-08,Social Media,Platinum,Pune,Maharashtra,West
+1899,Customer_1899,Female,45-54,8,2022-02-08,Organic,Silver,Hyderabad,Telangana,South
+1900,Customer_1900,Female,25-34,11,2023-02-26,Social Media,Bronze,Patna,Bihar,East
+1901,Customer_1901,Male,55+,6,2023-09-17,Organic,Gold,Ahmedabad,Gujarat,West
+1902,Customer_1902,Other,25-34,1,2023-06-22,Referral,Platinum,Delhi NCR,Delhi,North
+1903,Customer_1903,Other,18-24,2,2024-05-25,Social Media,Gold,Jaipur,Rajasthan,North
+1904,Customer_1904,Female,45-54,10,2024-12-31,Referral,Silver,Kolkata,West Bengal,East
+1905,Customer_1905,Female,25-34,3,2024-02-20,Organic,Gold,Lucknow,Uttar Pradesh,North
+1906,Customer_1906,Male,25-34,9,2023-07-16,Referral,Gold,Chennai,Tamil Nadu,South
+1907,Customer_1907,Male,55+,5,2024-03-19,Referral,Gold,Pune,Maharashtra,West
+1908,Customer_1908,Other,55+,1,2023-05-29,Organic,Gold,Delhi NCR,Delhi,North
+1909,Customer_1909,Female,25-34,8,2023-10-20,Social Media,Bronze,Hyderabad,Telangana,South
+1910,Customer_1910,Male,45-54,1,2024-06-19,Referral,Platinum,Delhi NCR,Delhi,North
+1911,Customer_1911,Female,18-24,10,2023-03-23,Organic,Gold,Kolkata,West Bengal,East
+1912,Customer_1912,Male,45-54,3,2023-10-06,Referral,Gold,Lucknow,Uttar Pradesh,North
+1913,Customer_1913,Female,25-34,4,2023-06-16,Paid Ads,Silver,Mumbai,Maharashtra,West
+1914,Customer_1914,Male,18-24,11,2022-04-12,Organic,Silver,Patna,Bihar,East
+1915,Customer_1915,Female,55+,6,2024-11-03,Organic,Silver,Ahmedabad,Gujarat,West
+1916,Customer_1916,Other,35-44,5,2022-05-05,Organic,Gold,Pune,Maharashtra,West
+1917,Customer_1917,Other,25-34,6,2022-04-02,Organic,Bronze,Ahmedabad,Gujarat,West
+1918,Customer_1918,Female,18-24,9,2024-11-04,Organic,Silver,Chennai,Tamil Nadu,South
+1919,Customer_1919,Female,55+,6,2023-02-22,Social Media,Bronze,Ahmedabad,Gujarat,West
+1920,Customer_1920,Female,25-34,1,2024-05-23,Referral,Gold,Delhi NCR,Delhi,North
+1921,Customer_1921,Female,35-44,8,2023-11-18,Referral,Bronze,Hyderabad,Telangana,South
+1922,Customer_1922,Female,18-24,5,2022-11-25,Paid Ads,Bronze,Pune,Maharashtra,West
+1923,Customer_1923,Other,25-34,6,2022-08-06,Referral,Silver,Ahmedabad,Gujarat,West
+1924,Customer_1924,Other,18-24,11,2024-02-15,Paid Ads,Platinum,Patna,Bihar,East
+1925,Customer_1925,Male,25-34,10,2022-06-10,Social Media,Bronze,Kolkata,West Bengal,East
+1926,Customer_1926,Male,55+,8,2024-12-16,Social Media,Gold,Hyderabad,Telangana,South
+1927,Customer_1927,Male,55+,5,2023-07-06,Paid Ads,Gold,Pune,Maharashtra,West
+1928,Customer_1928,Female,25-34,8,2023-05-13,Referral,Bronze,Hyderabad,Telangana,South
+1929,Customer_1929,Female,45-54,6,2023-05-09,Organic,Gold,Ahmedabad,Gujarat,West
+1930,Customer_1930,Male,35-44,11,2024-11-01,Social Media,Silver,Patna,Bihar,East
+1931,Customer_1931,Female,25-34,10,2024-07-08,Paid Ads,Silver,Kolkata,West Bengal,East
+1932,Customer_1932,Other,55+,11,2024-04-14,Paid Ads,Gold,Patna,Bihar,East
+1933,Customer_1933,Female,35-44,2,2023-08-11,Organic,Platinum,Jaipur,Rajasthan,North
+1934,Customer_1934,Other,25-34,10,2024-05-12,Social Media,Silver,Kolkata,West Bengal,East
+1935,Customer_1935,Female,18-24,3,2023-01-04,Organic,Platinum,Lucknow,Uttar Pradesh,North
+1936,Customer_1936,Other,45-54,12,2023-06-24,Organic,Silver,Indore,Madhya Pradesh,Central
+1937,Customer_1937,Female,18-24,12,2022-03-11,Paid Ads,Bronze,Indore,Madhya Pradesh,Central
+1938,Customer_1938,Other,55+,7,2022-09-29,Social Media,Gold,Bengaluru,Karnataka,South
+1939,Customer_1939,Female,55+,4,2022-09-19,Referral,Bronze,Mumbai,Maharashtra,West
+1940,Customer_1940,Female,55+,10,2023-11-21,Organic,Bronze,Kolkata,West Bengal,East
+1941,Customer_1941,Other,35-44,8,2022-06-01,Social Media,Platinum,Hyderabad,Telangana,South
+1942,Customer_1942,Female,45-54,12,2024-06-11,Paid Ads,Silver,Indore,Madhya Pradesh,Central
+1943,Customer_1943,Male,25-34,1,2024-11-09,Referral,Platinum,Delhi NCR,Delhi,North
+1944,Customer_1944,Female,45-54,3,2024-02-16,Referral,Bronze,Lucknow,Uttar Pradesh,North
+1945,Customer_1945,Female,45-54,6,2023-04-21,Organic,Platinum,Ahmedabad,Gujarat,West
+1946,Customer_1946,Female,45-54,6,2023-08-08,Paid Ads,Silver,Ahmedabad,Gujarat,West
+1947,Customer_1947,Other,25-34,7,2022-03-27,Referral,Gold,Bengaluru,Karnataka,South
+1948,Customer_1948,Female,35-44,3,2022-07-23,Organic,Gold,Lucknow,Uttar Pradesh,North
+1949,Customer_1949,Female,45-54,4,2023-07-15,Paid Ads,Gold,Mumbai,Maharashtra,West
+1950,Customer_1950,Other,18-24,4,2023-06-16,Referral,Silver,Mumbai,Maharashtra,West
+1951,Customer_1951,Male,55+,9,2022-07-16,Paid Ads,Bronze,Chennai,Tamil Nadu,South
+1952,Customer_1952,Other,55+,4,2022-03-23,Organic,Platinum,Mumbai,Maharashtra,West
+1953,Customer_1953,Female,25-34,5,2022-02-22,Social Media,Platinum,Pune,Maharashtra,West
+1954,Customer_1954,Male,45-54,5,2024-12-02,Organic,Bronze,Pune,Maharashtra,West
+1955,Customer_1955,Female,45-54,5,2024-06-29,Organic,Silver,Pune,Maharashtra,West
+1956,Customer_1956,Other,18-24,6,2023-07-25,Organic,Silver,Ahmedabad,Gujarat,West
+1957,Customer_1957,Female,25-34,9,2022-06-02,Referral,Gold,Chennai,Tamil Nadu,South
+1958,Customer_1958,Other,55+,11,2024-07-17,Organic,Gold,Patna,Bihar,East
+1959,Customer_1959,Female,18-24,12,2022-03-20,Referral,Silver,Indore,Madhya Pradesh,Central
+1960,Customer_1960,Other,18-24,4,2022-03-14,Paid Ads,Platinum,Mumbai,Maharashtra,West
+1961,Customer_1961,Other,25-34,5,2023-03-27,Social Media,Silver,Pune,Maharashtra,West
+1962,Customer_1962,Male,45-54,5,2024-09-19,Paid Ads,Silver,Pune,Maharashtra,West
+1963,Customer_1963,Other,25-34,1,2022-07-01,Social Media,Bronze,Delhi NCR,Delhi,North
+1964,Customer_1964,Other,55+,4,2024-10-01,Paid Ads,Bronze,Mumbai,Maharashtra,West
+1965,Customer_1965,Other,35-44,10,2024-05-06,Social Media,Silver,Kolkata,West Bengal,East
+1966,Customer_1966,Female,55+,11,2023-12-16,Paid Ads,Gold,Patna,Bihar,East
+1967,Customer_1967,Female,45-54,8,2023-04-20,Social Media,Gold,Hyderabad,Telangana,South
+1968,Customer_1968,Female,18-24,4,2024-09-12,Organic,Gold,Mumbai,Maharashtra,West
+1969,Customer_1969,Female,35-44,4,2024-05-09,Social Media,Bronze,Mumbai,Maharashtra,West
+1970,Customer_1970,Female,35-44,11,2022-12-27,Organic,Gold,Patna,Bihar,East
+1971,Customer_1971,Other,25-34,8,2024-03-26,Social Media,Platinum,Hyderabad,Telangana,South
+1972,Customer_1972,Male,35-44,5,2023-04-26,Paid Ads,Platinum,Pune,Maharashtra,West
+1973,Customer_1973,Other,35-44,5,2022-05-05,Referral,Platinum,Pune,Maharashtra,West
+1974,Customer_1974,Female,45-54,7,2024-03-12,Referral,Bronze,Bengaluru,Karnataka,South
+1975,Customer_1975,Female,25-34,6,2023-07-04,Organic,Gold,Ahmedabad,Gujarat,West
+1976,Customer_1976,Female,25-34,10,2024-07-05,Paid Ads,Silver,Kolkata,West Bengal,East
+1977,Customer_1977,Other,55+,6,2022-08-14,Paid Ads,Bronze,Ahmedabad,Gujarat,West
+1978,Customer_1978,Female,18-24,12,2022-02-13,Referral,Gold,Indore,Madhya Pradesh,Central
+1979,Customer_1979,Other,18-24,9,2022-05-10,Paid Ads,Gold,Chennai,Tamil Nadu,South
+1980,Customer_1980,Male,55+,7,2023-02-11,Paid Ads,Gold,Bengaluru,Karnataka,South
+1981,Customer_1981,Female,35-44,7,2022-11-27,Paid Ads,Silver,Bengaluru,Karnataka,South
+1982,Customer_1982,Male,18-24,9,2022-01-28,Organic,Platinum,Chennai,Tamil Nadu,South
+1983,Customer_1983,Male,25-34,5,2024-09-20,Referral,Bronze,Pune,Maharashtra,West
+1984,Customer_1984,Other,25-34,1,2023-04-17,Referral,Bronze,Delhi NCR,Delhi,North
+1985,Customer_1985,Other,45-54,3,2024-02-13,Referral,Bronze,Lucknow,Uttar Pradesh,North
+1986,Customer_1986,Male,55+,12,2022-06-06,Social Media,Bronze,Indore,Madhya Pradesh,Central
+1987,Customer_1987,Other,55+,10,2022-01-31,Paid Ads,Bronze,Kolkata,West Bengal,East
+1988,Customer_1988,Male,55+,5,2024-03-12,Referral,Platinum,Pune,Maharashtra,West
+1989,Customer_1989,Other,18-24,5,2024-11-15,Referral,Platinum,Pune,Maharashtra,West
+1990,Customer_1990,Male,35-44,11,2023-02-20,Social Media,Platinum,Patna,Bihar,East
+1991,Customer_1991,Female,18-24,4,2023-08-20,Social Media,Gold,Mumbai,Maharashtra,West
+1992,Customer_1992,Female,55+,9,2024-09-16,Paid Ads,Platinum,Chennai,Tamil Nadu,South
+1993,Customer_1993,Female,45-54,6,2022-02-05,Organic,Platinum,Ahmedabad,Gujarat,West
+1994,Customer_1994,Other,18-24,7,2023-04-04,Paid Ads,Platinum,Bengaluru,Karnataka,South
+1995,Customer_1995,Female,55+,2,2024-01-28,Referral,Gold,Jaipur,Rajasthan,North
+1996,Customer_1996,Other,18-24,2,2022-10-22,Paid Ads,Silver,Jaipur,Rajasthan,North
+1997,Customer_1997,Other,25-34,2,2024-09-30,Paid Ads,Platinum,Jaipur,Rajasthan,North
+1998,Customer_1998,Other,55+,4,2024-08-27,Organic,Platinum,Mumbai,Maharashtra,West
+1999,Customer_1999,Female,35-44,12,2023-06-01,Referral,Silver,Indore,Madhya Pradesh,Central
+2000,Customer_2000,Female,55+,10,2022-03-16,Social Media,Bronze,Kolkata,West Bengal,East
