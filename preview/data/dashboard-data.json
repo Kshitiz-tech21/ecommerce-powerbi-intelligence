@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "total_revenue": "\u20b9157.40 Cr",
+    "total_profit": "\u20b925.24 Cr",
+    "profit_margin": "16.0%",
+    "total_orders": "10,000",
+    "total_customers": "1,986",
+    "avg_order_value": "\u20b9157,395.79",
+    "discount_impact": "\u20b9266.90 M"
+  },
+  "charts": {
+    "monthly_revenue": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "values": [
+        113.19956834999984,
+        106.84292466999995,
+        119.78963778999992,
+        109.27641994000011,
+        111.68931361000008,
+        107.14009998000019,
+        108.01995916000008,
+        119.42079749000006,
+        111.75587584999992,
+        185.4081276700001,
+        189.57138144999954,
+        191.8437805999999
+      ]
+    },
+    "category_performance": {
+      "labels": [
+        "Accessories",
+        "Beauty",
+        "Sports",
+        "Fashion",
+        "Home & Kitchen",
+        "Electronics",
+        "Books"
+      ],
+      "revenue": [
+        267.1578592800004,
+        245.33770030999972,
+        226.02520576000003,
+        236.2619037500002,
+        228.60714808000043,
+        184.47942636999963,
+        186.08864300999988
+      ],
+      "profit": [
+        53.12583222000016,
+        24.74014532,
+        40.57851264000015,
+        44.11978357000007,
+        35.20230393000005,
+        24.559563710000024,
+        30.096658170000012
+      ]
+    },
+    "region_revenue": {
+      "labels": [
+        "South",
+        "Central",
+        "West",
+        "North",
+        "East"
+      ],
+      "values": [
+        388.2421767600003,
+        128.4743905599999,
+        400.21208773000063,
+        384.9710074700006,
+        272.0582240399999
+      ]
+    },
+    "segment_revenue": {
+      "labels": [
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Platinum"
+      ],
+      "values": [
+        411.7266714100002,
+        387.7921641000013,
+        367.48777455999897,
+        406.95127649
+      ]
+    }
+  },
+  "insights": [
+    {
+      "title": "Q4 Seasonal Surge",
+      "observation": "Significant revenue spike in November/December.",
+      "recommendation": "Diversify marketing to Q2 to stabilize cash flow."
+    },
+    {
+      "title": "Platinum Segment Dominance",
+      "observation": "Top customer segment drives ~30% of total revenue.",
+      "recommendation": "Launch high-touch VIP retention program."
+    },
+    {
+      "title": "Electronics Margin Leak",
+      "observation": "Highest revenue but low profit due to high discounts.",
+      "recommendation": "Implement discount caps on high-demand electronics."
+    },
+    {
+      "title": "Regional Variance",
+      "observation": "East region underperforms by 15% relative to targets.",
+      "recommendation": "Investigate regional product-market fit in the East."
+    }
+  ]
+}
