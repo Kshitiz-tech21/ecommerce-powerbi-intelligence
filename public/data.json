@@ -1,0 +1,112 @@
+{
+  "kpis": {
+    "total_revenue": "\u20b9157.40 Cr",
+    "total_profit": "\u20b925.24 Cr",
+    "profit_margin": "16.0%",
+    "total_orders": "10,000"
+  },
+  "charts": {
+    "monthly_revenue": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "values": [
+        113.19956834999984,
+        106.84292466999995,
+        119.78963778999992,
+        109.27641994000011,
+        111.68931361000008,
+        107.14009998000019,
+        108.01995916000008,
+        119.42079749000006,
+        111.75587584999992,
+        185.4081276700001,
+        189.57138144999954,
+        191.8437805999999
+      ]
+    },
+    "category_revenue": {
+      "labels": [
+        "Accessories",
+        "Beauty",
+        "Sports",
+        "Fashion",
+        "Home & Kitchen",
+        "Electronics",
+        "Books"
+      ],
+      "values": [
+        267.1578592800004,
+        245.33770030999972,
+        226.02520576000003,
+        236.2619037500002,
+        228.60714808000043,
+        184.47942636999963,
+        186.08864300999988
+      ]
+    },
+    "region_revenue": {
+      "labels": [
+        "South",
+        "Central",
+        "West",
+        "North",
+        "East"
+      ],
+      "values": [
+        388.2421767600003,
+        128.4743905599999,
+        400.21208773000063,
+        384.9710074700006,
+        272.0582240399999
+      ]
+    },
+    "segment_revenue": {
+      "labels": [
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Platinum"
+      ],
+      "values": [
+        411.7266714100002,
+        387.7921641000013,
+        367.48777455999897,
+        406.95127649
+      ]
+    }
+  },
+  "insights": [
+    {
+      "title": "Seasonal Spike in Q4",
+      "observation": "Revenue peaks significantly in November and December.",
+      "recommendation": "Implement off-season loyalty campaigns in Q2 to stabilize cash flow."
+    },
+    {
+      "title": "High Concentration of Value",
+      "observation": "Platinum segment contributes disproportionately to total revenue.",
+      "recommendation": "Launch an exclusive VIP program to increase retention."
+    },
+    {
+      "title": "Electronics Margin Leakage",
+      "observation": "Highest revenue but lowest margin due to aggressive discounting.",
+      "recommendation": "Cap discounts at 15% for high-demand Electronics."
+    },
+    {
+      "title": "Regional Underperformance",
+      "observation": "East region is underperforming by ~15% compared to targets.",
+      "recommendation": "Conduct market analysis for product-market fit in the East."
+    }
+  ]
+}
